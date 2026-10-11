@@ -1,0 +1,42 @@
+{
+    "id": "88",
+    "title": "Akasya Durağı 034. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir türlü bebek sahibi olamayan Zeyno, Seda Sayan’ın programına gidiyor ve tüp bebek istiyor. Programı izleyen Seyit’in annesi, Seyit’i arayıp Zeyno’nun kendilerini rezil ettiğini söyleyince de, Seyit programı basıyor. \r\nKaynanası Mukadder, Osman’ın başına bela olmaya devam eder ve Osman’ın kızı Dilek’i Obayana’ya vermediğini öğrenince derhal olaya el atar. Mukadder, Osman’a bir oyun hazırlar. Obayana’ya, Müslüman olmuş gibi sahte bir sünnet töreni düzeler. Böylece Osman kızını vermek zorunda kalacaktır. Fakat gerçeği öğrenen Osman’ın intikamı çok acı olur. \r\nBir türlü bebek sahibi olamayan Zeyno, Seda Sayan’ın programına gider ve tüp bebek ister. Programı izleyen Seyit’in annesi Seyit’i arar ve Zeyno’nun kendilerini rezil ettiğini söyler. Bunun üzerine Seyit programı basar. \r\nSinan’ın oğlu Can, bir köpek bulur. Sinan gazetede Can’ın bulduğu köpeği bulana ödül verileceğini okuyunca sevinçten havalara uçar. Köpeği sahibine götürür. Fakat hiç ummadığı bir durumla karşılaşır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04213e50aa9372888e5b6.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200844_bba0\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "87",
+        "title": "Akasya Durağı 033. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0420940201132a01ec3b4.jpg"
+    },
+    "next_movie_data": {
+        "id": "89",
+        "title": "Akasya Durağı 035. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04218f0dc1e30f80397f3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

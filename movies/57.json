@@ -1,0 +1,42 @@
+{
+    "id": "57",
+    "title": "Akasya Durağı 003. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman bir şaka programının kurbanı oluyor. Burak'ın annesi Ahu'nun, Melahat'in taksisine binmesiyle, Melahat’ın taksicilik yaptığını herkes öğrenir. Bu durum Burak ve Tuğçe'nin arasını açar.\r\nŞoför Sinan'ın Seyit için önemli planları vardır. Seyit'in menejerliğini yaparak onu ünlü bir türkücü yapmayı kafasına koyar. Şoför Osman'ı yolcu almaya gittiği bir adreste büyük bir sürpriz beklemektedir. Bir şaka programının şakazedelerinden olur. Safiye, televizyonda Osman'ı kombinezonlu bir kadınla samimi pozlarla görünce kıyameti koparır.\r\nBurak'la ayrılan Tuğçe bütün suçu annesinin taksicilik yapmasında bulur. Artık annesiyle yaşamak istemeyen Tuğçe, Burak'la evlenmeye karar verir. Melahat ise kızının durumuna çok üzülmektedir.\r\nNuri Baba, oğlu Mert'in usta birliğindeki görev yerinin Şırnak'a çıktığını öğrenince çok endişelenir.\r\nŞoför Osman'ın kızı Dilek yine rahat durmaz. Babasının evde olmamasını fırsat bilerek erkek arkadaşıyla bara gider. Ama barda magazin kameralarına yakalanınca başı belaya girer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035c4f0dc1e30f8039786.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/161946_1e24\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "56",
+        "title": "Akasya Durağı 002. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03574f0dc1e30f803977e.jpg"
+    },
+    "next_movie_data": {
+        "id": "58",
+        "title": "Akasya Durağı 004. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035f6f0dc1e3c6cba84f7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

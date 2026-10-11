@@ -1,0 +1,42 @@
+{
+    "id": "96",
+    "title": "Akasya Durağı 042. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Murat avukatlık bürosuna güzel bir sekreter almıştır. Fakat sekreter kız Murat’a göz koymuştur. Bu arada hamile olduğundan şüphelenen Tuğçe, annesi Melahat ile birlikte doktora gider. Tuğçe hamile olduğunu öğrenir. Müjdeyi vermek için Murat’ın ofisine geldiğinde hiç beklemediği bir manzara ile karşılaşır. \r\nAli Kemal’in kanlısı İdris hapisten çıkınca Ali Kemal’i vurmak için İstanbul’a gelir. Bunu haber alan Ali Kemal saklanmaya başlar. Sinan, Ali Kemal’e saklanması için yardım eder. Fakat, Sinan’ın yaptığı saklanma planı Ali Kemal’in başını daha fazla derde sokar. \r\nMehmet Hoca’nın taksisine binen bir kız çocuğu karnesi kötü diye evi terk etmek ister. Mehmet kızın ailesiyle konuşup bu olayı çözmeye uğraşır. \r\nZeyno son günlerde çok yorgundur ve Seyit’e karşı çok kayıtsızdır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0424e04207c23e8e2d016.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201009_bcea\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "95",
+        "title": "Akasya Durağı 041. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042414967832624302800.jpg"
+    },
+    "next_movie_data": {
+        "id": "97",
+        "title": "Akasya Durağı 043. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0425956593434781bebaa.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "77",
+    "title": "Akasya Durağı 023. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Durumu kritik olan Osman’a, Obayana kan veriyor. Osman iyileşip kendine gelince de ortalık karışıyor.\r\nMelahat, Tuğçe’ye; Murat’ı Ahu ile uygunsuz vaziyette gördüğünü söylemez ama ayrılmalarının ikisi için de iyi olacağını söyler. Tuğçe Murat’tan ayrılır. Murat, Ahu’dan uzak durmak için staj yaptığı hukuk bürosundan ayrılır. Fakat Tuğçe’nin Murat’a geri dönmeye niyeti yoktur.  \r\nOkan uyuşturucu tedavisi gördüğü hastaneden kaçmıştır. Mehmet oğlunun izini bulur ve Okan’ın peşine düşer. \r\nOsman taksisine bir televizyon taktırır.  Safiye ile Dilek de Seda Sayan’ın programına davetlidirler. Dilek programda şarkı söyleyip ünlü olmayı düşünmektedir. Fakat evdeki hesap çarşıya uymaz. Osman taksideki televizyonda Dilek’i görünce kaza geçirip hastaneye kaldırılır. Osman’ın durumu kritiktir. Acil kan lazımdır. Obayana kan verir ve Osman’ın hayatını kurtarır. Fakat Osman kendine gelip bunu öğrendiğinde kızılca kıyamet kopar. \r\nŞaziment, Şehmuz Ağa adında çok zengin biriyle tanışır. Şehmuz Ağa ilk görüşte Şaziment’e aşık olmuştur. Şehmuz Ağa’nın servetinden etkilenen Şaziment onun evlenme teklifini kabul eder. Ama Şehmuz Bey’in evinde karşılaşacağı sürpriz her şeyi altüst edecektir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a386857632047d48c1.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200188_b6b8\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "76",
+        "title": "Akasya Durağı 022. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419d56593434781beb9d.jpg"
+    },
+    "next_movie_data": {
+        "id": "78",
+        "title": "Akasya Durağı 024. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a986857632047d48c5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

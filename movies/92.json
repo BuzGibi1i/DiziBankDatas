@@ -1,0 +1,42 @@
+{
+    "id": "92",
+    "title": "Akasya Durağı 038. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Melahat sokakta bayılan küçük bir kız çocuğunu hastaneye kaldırır. Çocuk kimsesiz olduğunu ve sokakta yattığını söyler. Bunun üzerine Melahat çocuğu evine alır. Fakat çocuğun herkesten sakladığı bir sırrı vardır. \r\nSinan’ın taksisine ünlü bir manken biner. Her ne kadar kadın tanınmamak için gözlük takmışsa da, Sinan hemen kadını tanır. Ünlü manken bir lokantada ünlü iş adamı sevgilisiyle buluşur. Bunu gören Sinan bu durumdan yararlanmak ister ama başına hiç ummadığı şeyler gelir. \r\nMurat bir avukat bürosu açacaktır. Fakat kiralar çok pahalıdır. Okuldan arkadaşı Suat, Murat’a ortak büro tutmayı teklif eder. Tuğçe bu teklifi kabul etmesi için Murat’a baskı yapar. Fakat sonra pişman olacaktır. \r\nSinan’ın kaynanası Şaziment evlenmek için izdivaç programına katılır. Şoförlerin karılarını da kendisine destek olsunlar diye programa götürür. Fakat adam Şaziment’i değil Safiye’yi beğenince kızılca kıyamet kopar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042296ce436345c661142.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200898_bc0c\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "91",
+        "title": "Akasya Durağı 037. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422404207c23e8e2d013.jpg"
+    },
+    "next_movie_data": {
+        "id": "93",
+        "title": "Akasya Durağı 039. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422ff0dc1e30f80397f7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

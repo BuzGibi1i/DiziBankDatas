@@ -1,0 +1,42 @@
+{
+    "id": "97",
+    "title": "Akasya Durağı 043. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tuğçe, Murat’ın cebinde eski sevgilisinden gelmiş bir mektup bulur. Tuğçe, Murat ile eski sevgilisinin sık sık buluştuklarını anlar ve evi terk eder. Murat her yerde Tuğçe’yi aramaya başlar. Osman’ın şekeri yüksek çıkınca doktor diyet verir. Fakat Sinan, Osman’ın diyet yapamayacağını söyler. Sinan’la Osman iddiaya girerler. Sinan, Osman’ın diyetini bozması için ona oyunlar yapmaya başlar. Ali Kemal, tanıştığı bir film yönetmeninden kendisini filmde oynatması için yardım ister. Yönetmen Ali Kemale kartını verir ve onu bir filminde oynatmak istediğini söyler. Ali Kemal çekim günü sete gittiğinde onu bir sürpriz beklemektedir. Mehmet Hoca’nın oğlu Okan, yeni kız arkadaşını eve getirir. Fakat Şükran’ın bileziği kaybolur. Nurten bileziği Okan’ın kız arkadaşının çaldığını söyler, fakat kimse ona inanmak istemez. Nuri Baba’nın eski hanım arkadaşı çıkıp durağa gelir. Nuri Baba kadını göndermeye çalışır ama tam bu sırada Eleni Hanım durağa gelince Nuri Baba ne yapacağını şaşırır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0425956593434781bebaa.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201034_bd1c\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "96",
+        "title": "Akasya Durağı 042. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0424e04207c23e8e2d016.jpg"
+    },
+    "next_movie_data": {
+        "id": "98",
+        "title": "Akasya Durağı 044. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0425f86857632047d48d1.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

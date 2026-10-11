@@ -1,0 +1,42 @@
+{
+    "id": "67",
+    "title": "Akasya Durağı 013. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Pehlivanlığıyla övünen Osman, eski bir pehlivan arkadaşıyla durakta güreşe tutuşuyor. \r\nTuğçe okul harçlığını çıkarmak için çalışmak ister. Fakat Melahat buna izin vermez. Bunun üzerine Tuğçe, annesinden gizli, bir hamburgercide part - time olarak çalışmaya başlar. \r\nŞaziment evininin odalarından birini üniversite öğrencilerine kiralamak isteyince Sinan kıyameti koparır. Evde yabancı erkek istemediğini söyler. Fakat Şaziment kararından vazgeçmez. Bunun üzerine Sinanlar evden taşınmaya karar verirler. Fakat eve gelen öğrenci erkek değil de çok alımlı güzel bir kız çıkınca Sinan evden taşınmaktan vazgeçer. \r\nAli Kemal, Mehmet Hoca’nın da yardımıyla liseyi dışarıdan bitirmeye çalışmaktadır. O gün coğrafya sınavına girecektir. Fakat daha önce başvurduğu desti izdivaç programından aranıp çağrılınca, Ali Kemal herkese sınava gittiğini söyleyerek programa gider. Ali Kemal’i izdivaç programında bir de sürpriz beklemektedir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a1e50aa9372888e571.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162383_a05e\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "66",
+        "title": "Akasya Durağı 012. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0381904207c23e8e2cfe3.jpg"
+    },
+    "next_movie_data": {
+        "id": "68",
+        "title": "Akasya Durağı 014. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a86ce436345c661105.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

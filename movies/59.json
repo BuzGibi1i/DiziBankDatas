@@ -1,0 +1,42 @@
+{
+    "id": "59",
+    "title": "Akasya Durağı 005. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Melahat'in arabasına binen iki banka soyguncusu Melahat'ı rehin alır. Polis ve taksici arkadaşları Melahat'ı kurtarmanın yolunu ararlar. Zeyno'yu başkasına verdiklerini öğrenen Seyit ve Sinan, Zeyno'yu kaçırmak için Şanlıurfa'ya gitmeye karar verir. Ali Kemal'de yardım etmek için peşlerine takılır tam tersine başlarına bela olacaktır. Kaçırma planında ise işler yolunda gitmez Zeyno'nun abileri ateş açınca soluğu hastanede alırlar. Gülbin'le arası bozuk olan Sinan bu durumu barışmak için kullanmak istese de Ali Kemal'in beceriksizliği ile işler daha da karışacaktır. Mehmet Hoca Amerika'dan gelen bir doktordan Nurten için randevu alır. Haberler hem iyi hem de kötüdür. Doktor Nurten'in yürümesinin mümkün olduğunu fakat bunun çok pahalı bir ameliyat geçirmesi gerektiğini söyler. Mehmet ve Şükran o kadar paraları olmadığı için çaresizdir. Safiye Şaziment'e baktığı falda her şeyi bilince, Gülbin ve Şaziment'inde ısrarıyla evinde Osman'dan habersiz kahve falı bakmaya karar verir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03636a781b60218225af1.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162015_a8b1\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "58",
+        "title": "Akasya Durağı 004. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035f6f0dc1e3c6cba84f7.jpg"
+    },
+    "next_movie_data": {
+        "id": "60",
+        "title": "Akasya Durağı 006. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03698ac1fe339f48b5993.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "86",
+    "title": "Akasya Durağı 032. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Duraktaki ÅofÃ¶rlerin eÅleri karate kursunu yazÄ±lÄ±yor. ÃÄrendikleri hareketleri eÅleriyle Ã§alÄ±ÅÄ±rken de, onlarÄ± bir gÃ¼zel hÄ±rpalÄ±yorlar.\r\nTuÄÃ§e bir arkadaÅÄ±nÄ±n kaydÄ±nÄ± yaptÄ±rabilmek iÃ§in modellik ajansÄ±na gider. Fakat ajansÄ±n sahibi TuÄÃ§eâyi Ã§ok beÄenince rolÃ¼ TuÄÃ§eâye teklif eder. TuÄÃ§e de kabul eder. Ancak Murat, TuÄÃ§eânin modellik yapmasÄ±nÄ± kabul etmez.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041fe49678326243027fa.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200826_bb7c\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "85",
+        "title": "Akasya Durağı 031. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041f7f0dc1e3c6cba8522.jpg"
+    },
+    "next_movie_data": {
+        "id": "87",
+        "title": "Akasya Durağı 033. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0420940201132a01ec3b4.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

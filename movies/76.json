@@ -1,0 +1,42 @@
+{
+    "id": "76",
+    "title": "Akasya Durağı 022. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ayşen’e büyük bir aşkla bağlanan Nuri Baba, arkadaşlarının uyarılana rağmen onun gerçek yüzünü göremiyor. Bunun üzerine Melahat da olaya el koyuyor.\r\nŞaziment kolundaki bilezikleri satıp araba almaya karar verir. Sinan çok lüks ve ucuz bir minibüs bulur. Şaziment ve Gülbin de çok beğenince alırlar. Fakat başlarına gelecek belalardan habersizdirler. Safiye’nin Osman’a bir sürprizi vardır. Evlerinin nüfusu bir kişi artacak Dilek’e kardeş gelecektir. Oğlu olacağını düşünen Osman sevinçten havalara uçar. Safiye’nin bir dediğini iki etmez. Fakat Safiye ileri yaşta gebelik sağlığını etkileyeceği için aldırmayı düşünmektedir. Okan tedavi olmak için yattığı AMATEM’de Damla adında bağımlı bir kızla arkadaş olur. Damla, Okan’ı kötü alışkanlılarına geri döndürmeye çalışır. Melahat taksisine binen holiganlarla kendini bir kavganın ortasında bulur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419d56593434781beb9d.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200184_b071\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "75",
+        "title": "Akasya Durağı 021. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419740201132a01ec3a9.jpg"
+    },
+    "next_movie_data": {
+        "id": "77",
+        "title": "Akasya Durağı 023. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a386857632047d48c1.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}

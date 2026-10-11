@@ -1,0 +1,42 @@
+{
+    "id": "80",
+    "title": "Akasya Durağı 026. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Doktor Levent’in karısı Arzu, Melahat’ın taksisine binip ondan Levent’ten ayrılmasını istiyor. Bu durum Melahat’ın da kafasını karıştırıyor. \r\nAhu, Murat’ın Tuğçe’den ayrılmayacağını anlayınca Melahat’ın evini basar ve Tuğçe’yi silahla tehdit eder. Tuğçe’ye Murat’ın peşini bırakmasını, yoksa onu öldüreceğini söyler. Tuğçe vazgeçmeyeceğini söyleyince Ahu ateş eder. \r\nSafiye bebeklerine altın almak için kuyumcuya gider. Fakat bu sırada kuyumcuyu soyguncular basar ve Safiye ile Dilek’i rehin alırlar. Haberi alan Osman ve şoför arkadaşları hemen kuyumcunun önüne gelirler. Yaşadığı heyecan yüzünden Safiye’nin doğum sancıları tutar ve Safiye kuyumcuda doğurmaya başlar. Osman bebeklerinin kız olduğunu öğrendiğinde düşer bayılır. \r\nDoktor Levent’in karısı Arzu, Melahat’ın taksisine biner ve onunla konuşur. Melahat’tan Levent’ten ayrılmasını ister. Melahat’ın kafası karışır. \r\nKaynana Şaziment, Sinan’ın bıyıklarından nefret etmektedir. Sinanın bıyıklarına sürdüğü badem yağı şişesini boşaltıp yerine tüy dökücü krem doldurur. Sinan badem yağı sandığı tüy dökücü kremi bıyıklarına sürünce bıyıkları dökülür. Bunun üzerine kaynana - damat kapışırlar. Sinan bıyıksız çıkmaya utandığı için durağa takma bir bıyıkla gelir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041b549678326243027f6.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 44
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200662_7068\/index.m3u8"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "79",
+        "title": "Akasya Durağı 025. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041aff0dc1e30f80397e9.jpg"
+    },
+    "next_movie_data": {
+        "id": "81",
+        "title": "Akasya Durağı 027. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041bb40201132a01ec3ac.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-11T23:36:27+03:00"
+}
