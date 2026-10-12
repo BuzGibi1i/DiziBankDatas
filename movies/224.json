@@ -1,0 +1,43 @@
+{
+    "id": "224",
+    "title": "Akasya Durağı 158. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "ÃapkÄ±nlÄ±k peÅinde koÅan SinanâÄ±n baÅÄ± dertten kurtulmuyor. Osman, Åans oyunlarÄ± kuponlarÄ±nÄ±, ikramiye Ã§Ä±kÄ±p Ã§Ä±kmadÄ±ÄÄ±nÄ± Ã¶Ärenmesi iÃ§in Hayriâye verir. Hayri de loto bayiine gider ve kuponlarÄ±n Osmanâa ait olduÄunu sÃ¶yler. Kupona 20 bin lira Ã§Ä±kmÄ±ÅtÄ±r. Hayri parayÄ± alÄ±r fakat Osmanâa sÃ¶ylemez. Hayri, Dilekâin kredi kartÄ± borcunu Ã¶der, pahalÄ± taÅlarla donanmÄ±Å bir telefon ve tek taÅ yÃ¼zÃ¼k alÄ±r. BunlarÄ± gÃ¶ren Safiye, Osmanâa kÃ¼ser. Lotocuyla karÅÄ±laÅan Osman, iÅin doÄrusunu Ã¶Ärenince soluÄu Hayriânin yanÄ±nda alÄ±r. SinanâÄ±n taksisine hafif meÅrep bir kadÄ±n biner ve onu evine davet eder. KadÄ±n, Sinanâa, Sinan da kadÄ±na evli olduklarÄ±nÄ± sÃ¶ylemezler. Birlikte kadÄ±nÄ±n evine kahve iÃ§meye giderler. Bu sÄ±rada kapÄ± Ã§alar ve Sinan kendini banyoda bulur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e42.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef5cf45af1064b70e42",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158721_2a7b\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "223",
+        "title": "Akasya Durağı 157. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3f.jpg"
+    },
+    "next_movie_data": {
+        "id": "225",
+        "title": "Akasya Durağı 159. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e45.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

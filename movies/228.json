@@ -1,0 +1,43 @@
+{
+    "id": "228",
+    "title": "Akasya Durağı 162. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İpek, İzmit’e düğüne gidecektir. Sinan, İpek’in yokluğundan istifade edip, İpek ve Emre’nin evine pavyonda çalışan bir kadını getirir. Ders çalışacağı için Emre de evdedir. Ancak düğün iptal olur ve İpek eve geri gelir. Emre ve kadını bir arada görür, ardından da ortalık karışır.\n\nGüven, gazetede James Bond filmi için dublör arandığını görür. Hemen sete gider. Güven’i oyuncu Jack sanırlar. Gerçek Jack ise barda fazla alkol alıp, bar sahibinin manken sevgilisini öpmeye kalkışınca bardan atılmıştır. Bar sahibi hemen Jack’in bulunmasını ister. Güven’i, Jack sanan adamlar, onu kaçırırlar.\n\nOsman’ların kapısı çalınır. Eve gelen iki kişi, güzelleştirme derneğinin pikniği var diye Osman’ları ve bütün mahalleyi kandırır. Osman’lar piknikteyken hırsızlar, Osman’ın ve mahalledeki birçok evi soyarlar.\n",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef6cf45af1064b70e4e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160354_f895\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "227",
+        "title": "Akasya Durağı 161. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4b.jpg"
+    },
+    "next_movie_data": {
+        "id": "229",
+        "title": "Akasya Durağı 163. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e51.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

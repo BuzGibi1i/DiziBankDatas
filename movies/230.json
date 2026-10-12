@@ -1,0 +1,43 @@
+{
+    "id": "230",
+    "title": "Akasya Durağı 164. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akasya Durağı 164. Bölüm",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e54.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=JSGYStG20Hc",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "229",
+        "title": "Akasya Durağı 163. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e51.jpg"
+    },
+    "next_movie_data": {
+        "id": "231",
+        "title": "Akasya Durağı 165. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e57.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

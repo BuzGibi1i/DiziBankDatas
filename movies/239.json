@@ -1,0 +1,43 @@
+{
+    "id": "239",
+    "title": "Akasya Durağı 173. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Dede ile evlenmek istediğini söyleyen bir kadın, Osman Ağa'nın evini soyuyor.\n\nCan’ın sevgilisinin ailesi Almanya’ya çalışmaya gidecektir. Kız evden kaçıp Can’ın yanında kalmaya karar verir. Şaziment’in bileziklerini çalacak ve evden kaçıp imam nikahı kıyacaklardır. Planlarını uygulamaya koyarlar.\n\nKızlar tatile gitmek istemektedirler. Arif, Emre ve Hayri, Nuri Baba’dan izin alırlar. Hayri çok iyi yüzme biliyorum diyerek denize girer ama boğulmak üzereyken kurtarılır. Sonrasında denizde bir küp bulurlar ve içini açarlar. Küpün içinden altın çıkar. Buldukları hazineyi ne yapacaklarını düşünürken dolandırıcının biri yanlarına gelir ve onları kandırır.  ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6f.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef8cf45af1064b70e6f",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160662_4c5e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "238",
+        "title": "Akasya Durağı 172 .Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6c.jpg"
+    },
+    "next_movie_data": {
+        "id": "240",
+        "title": "Akasya Durağı 174. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e72.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}
