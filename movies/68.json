@@ -16,7 +16,7 @@
             "id": "1",
             "name": "TeVe2 Dizileri",
             "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
-            "movie_count": 44
+            "movie_count": 174
         }
     ],
     "actors": [],
@@ -24,7 +24,8 @@
         {
             "name": "TV2 Direct",
             "type": "m3u8",
-            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162386_e1f4\/index.m3u8"
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162386_e1f4\/index.m3u8",
+            "is_active": 1
         }
     ],
     "previous_movie_data": {
@@ -38,5 +39,5 @@
         "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039b340201132a01ec386.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-11T23:36:27+03:00"
+    "last_updated": "2026-10-12T18:59:33+03:00"
 }
