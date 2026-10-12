@@ -1,0 +1,42 @@
+{
+    "id": "203",
+    "title": "Akasya Durağı 137. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/10cHBcfpwfw\/hqdefault.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=10cHBcfpwfw",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "202",
+        "title": "Akasya Durağı 136. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/QxrFBrDLbrE\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "204",
+        "title": "Akasya Durağı 138. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/tmU4AzxlXYg\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

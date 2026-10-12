@@ -1,0 +1,42 @@
+{
+    "id": "201",
+    "title": "Akasya Durağı 135. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/HHzvx9i25_0\/hqdefault.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=HHzvx9i25_0",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "200",
+        "title": "Akasya Durağı 134. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e30.jpg"
+    },
+    "next_movie_data": {
+        "id": "202",
+        "title": "Akasya Durağı 136. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/QxrFBrDLbrE\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "200",
+    "title": "Akasya Durağı 134. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Gülbin, okul tatilinde Serkan ve Can’ı kuaför salonuna çırak olarak alır ancak, Sinan, erkek çocuklarının orada işi olmadığını söyleyerek ikisini de götürüp beyaz eşya satıcısı arkadaşının yanına işe koyar. Serkan ve Can, ustanın dükkanda olmadığı saatte, arka tarafa gidip bilgisayar oyunu oynamaya başlayınca, dükkanın önüne kamyoneti yanaştıran hırsızlar eşyaları yüklemeye başlarlar. Serkan ve Can durumu fark ettiklerinde, müdahale etmek amacı ile kamyonetin arkasına binerler. Bu arada branda üstlerine kapanır. Çocuklar hırsızların kamyoneti ile giderken olayı haber alan şoförler ve polis peşlerine düşer. Ali Kemal, kadın falcı arandığını öğrenir. Ek iş yapmak için de kadın kılığına girerek cafede fal bakmaya başlar. Ancak o sırada Aney ve Zeyno da cafeye gelir ve fal baktırmak isterler. Ali Kemal onların falındaki her şeyi bilince, ertesi gün tüm kadınlar toplanıp fal baktırmaya giderler. Ancak Ali Kemal kendisinden hoşlanan bir pala bıyıklı yüzünden işini kaybedecektir. Çınar motosiklet kazası geçirir. Kan gerekmektedir ve tesadüfen sadece Osman’ın kanı ona uymaktadır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e30.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef4cf45af1064b70e30",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158098_cfcb\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "199",
+        "title": "Akasya Durağı 133. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e2d.jpg"
+    },
+    "next_movie_data": {
+        "id": "201",
+        "title": "Akasya Durağı 135. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/HHzvx9i25_0\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

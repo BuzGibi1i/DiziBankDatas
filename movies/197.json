@@ -1,0 +1,43 @@
+{
+    "id": "197",
+    "title": "Akasya Durağı 131. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "ÃÄ±nar, Dilekâi rock konserine gÃ¶tÃ¼rmek ister. Dilek annesini buna razÄ± eder. Osmanâa da,\nDilekâin Hafize HanÄ±mâÄ±n mevlÃ¼dÃ¼ne gideceÄi yalanÄ± sÃ¶ylenir. Osman mÃ¼Återi olarak\nHafize Nineâyi taksiye alÄ±nca gerÃ§eÄi Ã¶Ärenir. Osman Ã¶fke ile eve gelir. Safiye de gerÃ§eÄi itiraf etmek zorunda kalÄ±r. Osman duraÄa gelir ve kendisine oynanan oyunu anlatÄ±r. âGidip Dilekâi Ã¶ldÃ¼receÄimâ der. Arif, Osmanâa hakim olmak iÃ§in onunla gider. Ancak kapÄ±daki gÃ¶revliler ikisini uygun olmadÄ±klarÄ± gerekÃ§esi ile konser alanÄ±na almazlar. Osman ve Arif kÄ±lÄ±k deÄiÅtirip rocker gibi giyinince komik geliÅmeler yaÅanÄ±r. Tahir televizyondaki izdivaÃ§ programÄ±na katÄ±lÄ±nca Sinan da kaynanasÄ±ndan kurtulmak iÃ§in onu apar topar stÃ¼dyoya gÃ¶tÃ¼rÃ¼r. Åaziment varlÄ±klÄ± olduÄu sÃ¶ylenen Tahir ile paravanÄ±n arkasÄ±ndan konuÅur ancak, paravan aÃ§Ä±lÄ±nca Tahir, Åazimentâi beÄenmez. Åaziment Ã¶fke ile Sinanâa saldÄ±rÄ±p âbeni rezil ettinâ diye dÃ¶verken Tahirâin iÃ§ine aÅk ateÅi dÃ¼Åer. Zira Åaziment, onun sevdiÄi karakterde bir OsmanlÄ± kadÄ±nÄ±dÄ±r. Åaziment ve Tahir, stÃ¼dyodan birlikte el ele Ã§Ä±karlar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e27.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef4cf45af1064b70e27",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158030_1fc6\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "196",
+        "title": "Akasya Durağı 130. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef3cf45af1064b70e24.jpg"
+    },
+    "next_movie_data": {
+        "id": "198",
+        "title": "Akasya Durağı 132. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e2a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

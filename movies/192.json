@@ -1,0 +1,43 @@
+{
+    "id": "192",
+    "title": "Akasya Durağı 126. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akasya Durağı’nda ciddi bir iş yoğunluğu vardır. Nuri Baba yeni bir şoför almaya karar vermiştir. Tıp fakültesi öğrencisi Emre, okul harçlıklarını çıkarmak için taksicilik yapmak ister ve durağa başvuruda bulunur. Bu arada gazeteci İpek’e de patronu önemli bir görev verir. Bir taksi durağında şoför olarak işe girecek ve şoförlerin hayatı ile ilgili bir yazı dizisi hazırlayacaktır. İpek ve Emre daha durağa gelirken yolları kesişir ve tartışırlar. İpek daha sonra durağa şoförlük için başvurduğunda Nuri Baba’nın kendisini işe alması için, zorda olduğunu, bu işe giremezse hayatının zora gireceğini söyler ve ağlar. Nuri Baba ona acır ve bir şans verir. İpek ve Emre kavga gürültü durakta işe başlarlar. Nuri Baba, eski karısı Eleni ile tekrar bir araya gelir ve yeniden başlama kararı alırlar. Arif, Merve’ye romantik bir akşam yemeğinde evlenme teklif edecektir. Beş bin liraya aldığı tek taş yüzüğü, Merve’nin yiyeceği suflenin içine koyduran Arif’in başı belaya girer. Zira, Merve’nin yüzüklü suflesi, aynı restorana gelen mafya babasının önüne gider ve baba, sufleyi yerken yüzük boğazına takılır. Mafya babası birisinin kendisine gözdağı vermek için bu olayı planladığını düşünüp yüzüğü sufleye koyduran kişiyi aratmaya başlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5bebdd2649678321f035f2af.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5bebdd2649678321f035f2af",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/157403_9466\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "191",
+        "title": "Akasya Durağı 125. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9c0ad21b93d96ba321ce.jpg"
+    },
+    "next_movie_data": {
+        "id": "193",
+        "title": "Akasya Durağı 127. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9c29d21b93d96ba321db.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}
