@@ -1,0 +1,43 @@
+{
+    "id": "172",
+    "title": "Akasya Durağı 106. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Durağa Esra adında çok güzel ve alımlı bir genç kız gelir. Akasya şoförleri kızı görür görmez güzelliğinden etkilenir ve ona aşık olurlar. Esra kendince hikayesini anlatıp, Nuri Baba’dan iş ister. Nuri Baba ona yardımcı olur ve Esra durakta çalışmaya başlar. Şoförler Esra’nın derdindeyken, Esra’nın asıl derdi çok daha başkadır.\nZengin evinde hizmetçi olan Nilay, dolandırıcı sevgilisi ile işbirliğine girip, çalıştığı yalıdaki kasayı açıp içindeki mücevheri alıp kaçar. Nilay, o sırada yakınlardan geçmekte olan Osman’ın taksisine müşteri olarak biner. Ancak az sonra polis çevirmesi olduğunu görürler. Nilay, yakalanma korkusuyla gerdanlığı arabada bırakıp kaçar. Osman’ın başı bu olaydan ötürü büyük derde girer. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0712004207c23e8e2d088.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0712004207c23e8e2d088",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/152898_cdc7\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "171",
+        "title": "Akasya Durağı 105. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae07053ac1fe339f48b59fa.jpg"
+    },
+    "next_movie_data": {
+        "id": "173",
+        "title": "Akasya Durağı 107. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae071966ce436345c6611ff.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

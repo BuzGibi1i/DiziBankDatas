@@ -1,0 +1,43 @@
+{
+    "id": "159",
+    "title": "Akasya Durağı 093. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir gece kulübüne Sinan'la eğlenmeye giden Maho, sosyetik güzel Ahu'ya vurulur. Ahu, Maho'yu beğenmez fakat Maho ona kafayı takar. Gerekirse sosyetik olup Ahu'yu ikna edecektir. Mafya babası Bekir sevgilisinin bebeğinin kendisinden olmadığını öğrenir ve kimden olduğunu öğrenmeye çalışır. Bekir’den korkan kadın bebeğini de alıp kaçar. Kaçarken de bebeğini bir sepete bırakır. Bu sepet Sinan’ın kahvaltılık almak için camdan sarkıttığı sepettir. Sinan bebeğin kendisinin olmadığına kimseyi inandırmaz. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae068ebf0dc1e3c6cba857d.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae068ebf0dc1e3c6cba857d",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150826_997c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "158",
+        "title": "Akasya Durağı 092. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0685ef0dc1e30f803985a.jpg"
+    },
+    "next_movie_data": {
+        "id": "160",
+        "title": "Akasya Durağı 094. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0696af0dc1e3c6cba857f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

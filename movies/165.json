@@ -1,0 +1,43 @@
+{
+    "id": "165",
+    "title": "Akasya Durağı 099. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akasya Durağı’nın mülk sahibi Mazhar Bey ameliyat olmuş ve hastanede yatmaktadır. Mazhar Bey’in oğlu Olgay, babasından habersiz yıkım ekibi ile gelerek durağı yıkmak ister. Başta Nuri Baba,  Osman Aga ve Sinan olmak üzere bütün şoförler yıkımı engellemek için direnirler. Maho Ağa ve kadınlar da şoförlere destek olur ve yıkımı engellemek isterler. Fakat çabaları bir sonuç vermez ve durak yıkılır.  ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06c406ce436345c6611db.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06c406ce436345c6611db",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150920_71da\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "164",
+        "title": "Akasya Durağı 098. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06bbdf0dc1e3c6cba85d0.jpg"
+    },
+    "next_movie_data": {
+        "id": "166",
+        "title": "Akasya Durağı 100. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06ca686857632047d4977.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

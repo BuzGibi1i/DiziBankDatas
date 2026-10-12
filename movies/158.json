@@ -1,0 +1,43 @@
+{
+    "id": "158",
+    "title": "Akasya Durağı 092. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan’ın bir dansözle flört etmesi başına büyük bir dert açar. Gülbin bu kez boşanmaya kesin karar verir ve olayı mahkemeye taşır. Şaziment kızına koca ararken bir taşla iki kuş vurarak zengin bir baba - oğul bulur. Ancak dolandırıcı çıkan baba - oğuldan onları yine Sinan kurtaracaktır.\nOsman gasp edilip soyulur ve ıssız bir yerde bırakılır. Aynı gaspçı kaza yapıp yanınca, Osman’a ait kimlik kafaları karıştırır ve Osman öldü zannedilir. Osman evine döneceğinde karısının kendisi için mevlit okuttuğunu ve koca arama çalışmalarına başladığını öğrenir.\n",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0685ef0dc1e30f803985a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0685ef0dc1e30f803985a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150810_6c87\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "157",
+        "title": "Akasya Durağı 091. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae067fd6ce436345c6611bf.jpg"
+    },
+    "next_movie_data": {
+        "id": "159",
+        "title": "Akasya Durağı 093. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae068ebf0dc1e3c6cba857d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

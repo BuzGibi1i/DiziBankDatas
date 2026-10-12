@@ -1,0 +1,43 @@
+{
+    "id": "179",
+    "title": "Akasya Durağı 113. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Leyla ve Tolga balayından dönerler ancak onları bir sürpriz beklemektedir. Kaynana Muazzez Hanım memleketine dönmemiş, Leyla ve Tolga ile kalmaya karar vermiştir. Fato Aney, dest-i izdivaç programında sunucunun “Harran’dan yiğit ve bekar bir evlilik adayı geldi” cümlesi ile yerinden fırlar ve soluğu programda alır. Aney paravanın diğer tarafındaki ağayı görmeden Seyit onu ekrandan görür. Bu adam ezeli düşmanları, kanlıları Merdo Ağa’dır. Arif, Merve ile tekrar bir araya gelmek için yanıp tutuşmaktadır. Sinan ve Ali Kemal, ona yardım etme kararı alırlar. Merve çekimden sonra stüdyodan çıktığında Sinan dışarıda beklemektedir. Merve taksiye biner. Sinan ona bir falcıya gittiğini, falcının kendisine ünlü biri ile tanışacaksın dediğini anlatır. Merve’nin falcılara meraklı olduğunu bilen Sinan, bu arada Ali Kemal’i falcı kılığına sokmuştur. Merve kendisi ile ilgili merak ettiklerini öğrenmek için falcıya geldiğinde, Ali Kemal, kıza, adının içinde ARF harfleri olan kişi ile kaderinin aynı yazıldığını, büyük aşk yaşayacağını söyler. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0748686857632047d4996.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0748686857632047d4996",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/153414_3363\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "178",
+        "title": "Akasya Durağı 112. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae07412ac1fe339f48b5a04.jpg"
+    },
+    "next_movie_data": {
+        "id": "180",
+        "title": "Akasya Durağı 114. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae074eb56593434781bec59.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

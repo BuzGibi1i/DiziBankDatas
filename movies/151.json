@@ -1,0 +1,43 @@
+{
+    "id": "151",
+    "title": "Akasya Durağı 085. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Safiye ikiz kızlarını bir televizyon yarışmasına götürür ancak, dokuz aylık hamile olan Narin’in beklenmeyen sürprizi herkesi telaşlandırır. Ali Kemal karısının doğum haberini canlı olarak televizyondan alır. \nMaho Ağa ile evlenen Fatma Aney, balayı için turistlerin uğrak yeri olan beş yıldızlı bir oteli seçince herkes için eğlenceli, otel sahipleri için zor anlar yaşanır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0652a86857632047d4902.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0652a86857632047d4902",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149769_f05c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "150",
+        "title": "Akasya Durağı 084. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae064afe50aa9372888e5c7.jpg"
+    },
+    "next_movie_data": {
+        "id": "152",
+        "title": "Akasya Durağı 086. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae065c76ce436345c66119e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}
