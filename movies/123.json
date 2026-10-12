@@ -1,0 +1,43 @@
+{
+    "id": "123",
+    "title": "Akasya Durağı 057. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Seyit’in taksisine evden kaçan iki genç kız biner. Seyit onların evden kaçtığını öğrenince karakola götürmek ister. Kızlar, Seyit’in kendilerini kaçırdığını iddia ederler. Seyit karakolluk olur. \nOsman’ın evinin tapusu yoktur. Mahallede evlerin tapularını bir zenginin topladığı ve evleri yıkacağı konuşulmaktadır. Osman’ın evine yıkım ekibi gelir. Osmanlar evi yıktırmamak için direnirler. Tapuları alan iş adamı gelir; bu Obayana’dır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0656be50aa9372888e5d1.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0656be50aa9372888e5d1",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201580_c160\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "122",
+        "title": "Akasya Durağı 056. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae065646ce436345c661198.jpg"
+    },
+    "next_movie_data": {
+        "id": "124",
+        "title": "Akasya Durağı 058. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06570f0dc1e30f8039831.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

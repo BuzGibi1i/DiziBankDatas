@@ -1,0 +1,43 @@
+{
+    "id": "105",
+    "title": "Akasya Durağı 051. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir tıp fakültesi öğrencisi Osman’ın bagajında iskelet unutuyor. Duraktakiler de Osman’ın birini öldürdüğünü düşünüyor. Duran ile Hediye, Duran’ın eski sevgilisi Cemile yüzünden kavgalıdırlar. Duran, Osman’ı arabulucu yapıp Hediye ile barışmaya çalışır. Fakat Cemile yanında yedi yaşında bir çocukla gelir. Çocuk Duran’ın çocuğudur. Duran oğlunun babasız büyümemesi için Hediye ile evlenmeye karar verir. \nSeyit’in annesi ve köylüleri Seyit’in evine gelirler. Seyit’in küçük kızı Zehra’yı köyün ağasının oğlu ile beşik kertmesi yapmak isterler. Bunu duyan Seyit delirir, hepsini evden kovar. Mehmet Hoca korsan taksiciler tarafından dövülünce duraktaki şoförler Korsan Taksiye Hayır mitingi düzenlemeye karar verirler. \nBir tıp fakültesi öğrencisi Osman’ın bagajında iskelet unutur. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0654786857632047d490a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0654786857632047d490a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201502_c0c4\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "104",
+        "title": "Akasya Durağı 050. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0428fa781b60218225b46.jpg"
+    },
+    "next_movie_data": {
+        "id": "106",
+        "title": "Akasya Durağı 052. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0654df0dc1e3c6cba8568.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

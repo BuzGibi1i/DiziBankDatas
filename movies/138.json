@@ -1,0 +1,43 @@
+{
+    "id": "138",
+    "title": "Akasya Durağı 072. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman bir cinayete tanık oluyor. Osman’ın cinayeti gördüğünü fark eden katiller de onun peşine düşüyor. Osman’ın taksisi ıssız bir yolda arıza yapar. Osman yardım aramak için etrafı kolaçan ederken bir cinayete tanık olur. Osman’ın cinayeti gördüğünü fark eden katiller, Osman’ın peşine düşerler. Osman peşindeki katillerden kurtulabilmek için Sinan’dan yardım alır. \nSeyit’in taksisine hamile bir kız biner. Kız, hamile olduğu ortaya çıktığı için ağabeylerinden kaçmaktadır. Seyit kıza yardım etmek ister ama kendisini büyük bir belanın içinde bulur. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052e486857632047d48e4.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae052e486857632047d48e4",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149387_272f\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "137",
+        "title": "Akasya Durağı 071. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041fc56593434781beba8.jpg"
+    },
+    "next_movie_data": {
+        "id": "139",
+        "title": "Akasya Durağı 073. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052f34967832624302806.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

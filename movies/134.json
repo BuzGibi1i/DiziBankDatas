@@ -1,0 +1,43 @@
+{
+    "id": "134",
+    "title": "Akasya Durağı 068. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Arif, bir uyuşturucu mafyası tarafından kaçırılıyor. Duraktakiler de onu bulmak ve kurtarmak için seferber oluyor. Sinan bir kadın müşterisinin daveti üzerine, kadının evine çıkar. Fakat kadının kocası ansızın eve gelir. Sinan kaçmaya çalışırken kendini, intihar eden bir adamı kurtarmaya çalışırken bulur. \nSeyit annesinin silahını götürüp denize atar. Fakat bu sırada Seyit’in köyden kanlıları eve baskın yaparlar. Fato Aney, kanlılarını püskürttükten sonra gidip bir silah satın alır. Fakat aldığı silah daha önce suikastte kullanılmıştır. Fato Aney gözaltına alınır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041d86ce436345c66113b.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041d86ce436345c66113b",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149251_a0c0\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "133",
+        "title": "Akasya Durağı 067. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041d104207c23e8e2d00d.jpg"
+    },
+    "next_movie_data": {
+        "id": "135",
+        "title": "Akasya Durağı 069. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041e049678326243027f8.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

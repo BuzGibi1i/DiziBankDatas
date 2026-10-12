@@ -1,0 +1,43 @@
+{
+    "id": "104",
+    "title": "Akasya Durağı 050. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, Gülbin’in kendisiyle barışması için açlık grevi yapmaya karar verir. Ali Kemal’i de grev gözcüsü ilan ederek durağın önünde açlık grevine başlar. Bütün şoförler ve Gülbin, Sinan’ı bu kararından vazgeçirmeye çalışırlar ama Sinan’ın vazgeçmeye niyeti yoktur. Sonunda Sinan fenalaşıp hastaneye kaldırılır, fakat hastaneye kaldırılma sebebi çok farklıdır. Mehmet Hoca’nın oğlu Okan’ın uyuşturucu sattı ortaya çıkınca Nurten’in zengin nişanlısının ailesi nişanı atar. Nurten bunalıma girer. Seyit’in kız kardeşi Nazo köydeki düşman aşiretin oğlu Baran’a kaçmıştır. Seyit’in annesi gelir ve Seyit’in eline silah tutuşturarak hem kızkardeşini hem de kızı kaçıran Baran’ı vurmasını ister. Seyit ne yapacağını şaşırmıştır. Bir yanda kız kardeşi, bir yanda töreler vardır. \nSinan, Mazhar’ı evlendirmek için kandırıp televizyondaki izdivaç programına götürür. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0428fa781b60218225b46.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0428fa781b60218225b46",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201098_bd9c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "103",
+        "title": "Akasya Durağı 049. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0427e56593434781bebb2.jpg"
+    },
+    "next_movie_data": {
+        "id": "105",
+        "title": "Akasya Durağı 051. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0654786857632047d490a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

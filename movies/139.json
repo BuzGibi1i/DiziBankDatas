@@ -1,0 +1,43 @@
+{
+    "id": "139",
+    "title": "Akasya Durağı 073. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tolga’nın bir Rus ajanı olduğunu sanan Ramazan Baba, gazi arkadaşlarını da toplayıp Tolga’yı rehin alıyor. Seyit’in annesi Fato Aney tavernada türkü söyler. Fato Aney’i dinleyen bir müzik yapımcısı ona kaset yapmak ister. Seyit buna izin vermez. Fakat Aney kaset yapmayı kafasına koyar. \nBanka soygunları yapan bir çetenin şoförü kaza yapar. Çete elemanlarından biri Sinan’ın şoförlüğünü çok beğenir ve onu işe alır. Fakat Sinan’ın nasıl bir işe bulaştığından haberi yoktur. Soygun günü gelip çattığında Sinan kendini ateşin ortasında bulur. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052f34967832624302806.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae052f34967832624302806",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149393_9447\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "138",
+        "title": "Akasya Durağı 072. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052e486857632047d48e4.jpg"
+    },
+    "next_movie_data": {
+        "id": "140",
+        "title": "Akasya Durağı 074. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae05368e50aa9372888e5bf.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

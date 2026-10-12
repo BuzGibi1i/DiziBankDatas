@@ -1,0 +1,43 @@
+{
+    "id": "137",
+    "title": "Akasya Durağı 071. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, kendisine ikizi kadar benzeyen Yusuf’un oyununa geliyor ve başı mafya ile derde giriyor. Osman’ın evinin önünde ışıklandırma olmadığı için sürekli trafik kazası olmaktadır. Osman bir kaza tehlikesi atlatınca evinin önünü kendi imkanlarıyla aydınlatmaya karar verir ve mum yakar. Mumları gören mahalleli olayı yanlış anlayınca işler karışır. Ali Kemal’in annesi, oğlunun karısından dayak yediğini duyunca soluğu İstanbul’da alır. Ali Kemal, karısı Narin’le bir anlaşma yapar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041fc56593434781beba8.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041fc56593434781beba8",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149386_b836\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "136",
+        "title": "Akasya Durağı 070. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041eaf0dc1e30f80397ef.jpg"
+    },
+    "next_movie_data": {
+        "id": "138",
+        "title": "Akasya Durağı 072. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052e486857632047d48e4.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}

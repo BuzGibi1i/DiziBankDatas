@@ -1,0 +1,43 @@
+{
+    "id": "99",
+    "title": "Akasya Durağı 045. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, karısı Gülbin ile barışmayı umarken, karısının boşanma davası açtığını öğrenince etekleri tutuşuyor.\nSinan, karısı Gülbin’le barışmayı beklerken mahkemeden gelen boşanma kağıdı ile yıkılır. Gülbin, Sinan’a boşanma davası açmıştır. Sinan, Gülbin’e kendisini affettirmek için Dert Ortağı programına çıkar ve “karımla barışmak istiyorum” der. \nDuran ile Leyla’nın yıldızları bir türlü barışmamaktadır. Ramazan Baba evde fenalaşır ve kızı Leyla’yı arar. Fakat Leyla’ya ulaşamaz. Haberi alan Duran hemen Ramazan Baba’yı hastaneye yetiştirir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042656ce436345c661145.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae042656ce436345c661145",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 174
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201047_bd36\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "98",
+        "title": "Akasya Durağı 044. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0425f86857632047d48d1.jpg"
+    },
+    "next_movie_data": {
+        "id": "100",
+        "title": "Akasya Durağı 046. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0426af0dc1e30f80397fd.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-12T18:59:33+03:00"
+}
