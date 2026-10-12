@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11T23:36:27+03:00",
+    "last_updated": "2026-10-12T18:59:33+03:00",
     "series": [
         {
             "id": "1",
@@ -7,7 +7,7 @@
             "title": "Akasya Durağı",
             "description": "Akasya Durağı, Erler Film imzalı, 2008-2012 yılları arasında yayımlanan komedi ve aile türündeki Türk televizyon dizisidir.",
             "poster": "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/Datas-Pics\/main\/Pics\/akasya-duragi.jpg",
-            "movie_count": 44,
+            "movie_count": 174,
             "season_count": 5,
             "series_url": "series\/akasya-duragi.json"
         }
