@@ -1,0 +1,14 @@
+{
+    "last_updated": "2026-10-13T17:06:20+03:00",
+    "global_announcements": [
+        {
+            "id": "1",
+            "title": "📢 Yeni Özellikler - Yeni Bölümler",
+            "message": "📢 Yeni Özellikler Eklenmeye Devam Ediliyor.\r\n📢 Yeni Bölümler Eklenecek\r\n📢 Güncellemelerimiz Devam Ediyor.",
+            "type": "info",
+            "mode": "dialog",
+            "sort_order": 0
+        }
+    ],
+    "category_announcements": []
+}
