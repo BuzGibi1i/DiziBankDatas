@@ -12,6 +12,7 @@
             "button_text": "Giriş Yap ve Başlat",
             "telegram_button_text": "Şifreyi Telegram'dan Al",
             "telegram_url": "https://t.me/sizin_telegram_grubunuz",
+            "enabled": true,
             "sort_order": 0
         }
     ],
@@ -28,6 +29,7 @@
                 "button_text": "Kilidi Aç",
                 "telegram_button_text": "Telegram'dan Al",
                 "telegram_url": "https://t.me/sizin_telegram_grubunuz",
+                "enabled": true,
                 "sort_order": 1
             }
         ]
