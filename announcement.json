@@ -29,7 +29,7 @@
                 "button_text": "Kilidi Aç",
                 "telegram_button_text": "Telegram'dan Al",
                 "telegram_url": "https://t.me/sizin_telegram_grubunuz",
-                "enabled": true,
+                "enabled": false,
                 "sort_order": 1
             }
         ]
