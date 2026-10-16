@@ -12,9 +12,23 @@
             "button_text": "Giriş Yap ve Başlat",
             "telegram_button_text": "Şifreyi Telegram'dan Al",
             "telegram_url": "https://t.me/sizin_telegram_grubunuz",
-            "enabled": true,
+            "enabled": false,
             "sort_order": 0
-        }
+        },            
+        {
+                "id": "2",
+                "title": "📢 Yeni Özellikler - Yeni Bölümler",
+                "message": "📢 Yeni Özellikler Eklenmeye Devam Ediliyor.\r\n📢 Yeni Bölümler Eklenecek\r\n📢 Güncellemelerimiz Devam Ediyor.",
+                "type": "info",
+                "mode": "dialog",
+                "requires_password": false,
+                "password": "",
+                "button_text": "Tamam",
+                "telegram_button_text": "",
+                "telegram_url": "",
+                "enabled": true,
+                "sort_order": 2
+            }
     ],
     "category_announcements": {
         "1": [
@@ -40,10 +54,10 @@
                 "mode": "dialog",
                 "requires_password": false,
                 "password": "",
-                "button_text": "Kilidi Aç",
+                "button_text": "Tamam",
                 "telegram_button_text": "",
                 "telegram_url": "",
-                "enabled": true,
+                "enabled": false,
                 "sort_order": 2
             }
         ]
