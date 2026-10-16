@@ -32,6 +32,22 @@
                 "enabled": false,
                 "sort_order": 1
             }
+        ],
+     "2": [
+            {
+                "id": "3",
+                "title": "📢 Yeni Özellikler - Yeni Bölümler",
+                "message": "📢 Yeni Özellikler Eklenmeye Devam Ediliyor.\r\n📢 Yeni Bölümler Eklenecek\r\n📢 Güncellemelerimiz Devam Ediyor.",
+                "type": "info",
+                "mode": "dialog",
+                "requires_password": false,
+                "password": "",
+                "button_text": "Kilidi Aç",
+                "telegram_button_text": "",
+                "telegram_url": "",
+                "enabled": true,
+                "sort_order": 2
+            }
         ]
     }
 }
