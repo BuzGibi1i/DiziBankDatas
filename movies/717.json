@@ -15,15 +15,15 @@
             "id": "2",
             "name": "Atv Dizileri",
             "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
-            "movie_count": 262
+            "movie_count": 263
         }
     ],
     "actors": [],
     "sources": [
         {
-            "name": "Star TV Direct",
-            "type": "mp4",
-            "url": "https:\/\/dygvideo.dygdigital.com\/StarTV\/Dizi\/640x360\/benimannem63.mp4",
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=BAqFbCERgcs",
             "is_active": 1
         }
     ],
@@ -38,5 +38,5 @@
         "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cd9a305f405aa041bb3594a6.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-17T15:31:09+03:00"
+    "last_updated": "2026-10-17T17:53:29+03:00"
 }
