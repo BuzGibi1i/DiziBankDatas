@@ -6,6 +6,7 @@
     "description": "Çetin ile Pelin arasında bir türlü önüne geçemedikleri bir yakınlaşma başlamıştır. Çetin asla Ece’yi üzmek istememektedir ama Pelin’e karşı da çok zayıftır. Bu arada hiçbir şeyden haberi olmayan Ece kendini koy vermiş bir haldedir. Giyimine, saçına hiç özen göstermemektedir.  Çetin ile Pelin arasındaki tehlikeli gelişmeyi hisseden Neriman yine duruma el koyar! Ece ile tartışmayı bile göze alarak.Bu arada Metin’in hiç önemsemediği bir kayıp başını belaya sokar. Hiç ummadığı bir anda kendini nezarette bulur.Geceyi nezarette geçirmekten daha korkuncu, Neriman’ın tüm aileyi toplayarak karakolu basmasıdır elbette!",
     "hide_description": false,
     "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5c9c7e7a4245a0edde25e453.jpg",
+    "backdrop": "",
     "badges": {
         "featured": false,
         "recommended": false
@@ -15,15 +16,15 @@
             "id": "2",
             "name": "Atv Dizileri",
             "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
-            "movie_count": 262
+            "movie_count": 263
         }
     ],
     "actors": [],
     "sources": [
         {
-            "name": "Star TV Direct",
-            "type": "mp4",
-            "url": "https:\/\/dygvideo.dygdigital.com\/StarTV\/Dizi\/640x360\/bnmannembirmelek_06.mp4",
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=bRUcj33ReKk",
             "is_active": 1
         }
     ],
@@ -38,5 +39,5 @@
         "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/75d855774fa2b66755644513.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-17T15:31:09+03:00"
+    "last_updated": "2026-10-17T17:53:29+03:00"
 }
