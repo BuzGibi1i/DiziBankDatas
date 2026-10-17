@@ -1,0 +1,43 @@
+{
+    "id": "351",
+    "title": "Kanıt 21. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Silahlı bir çatışma… Bir trafik kazası… İhanet… Ve üç ceset…\nSilahlı çatışmada ölen adamla, trafik kazasında ölen kişi arasında bir bağ var mıydı? Çatışmanın olduğu terk edilmiş binada kimler vardı? Binada bulunan deliller olayı çözmek için yeterli olacak mıydı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba02d21b93d96ba31ef2.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679ba02d21b93d96ba31ef2",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f0ed_1588\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "350",
+        "title": "Kanıt 20. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b9c6d21b93d96ba31ee6.jpg"
+    },
+    "next_movie_data": {
+        "id": "352",
+        "title": "Kanıt 22. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba2dd21b93d96ba31efc.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
