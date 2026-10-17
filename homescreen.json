@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-10-13T17:06:20+03:00",
+    "last_updated": "2026-10-17T15:31:10+03:00",
     "recommended_movies": [],
     "last_uploaded": [
         {
-            "id": "231",
-            "title": "Akasya Durağı 165. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e57.jpg"
+            "id": "695",
+            "title": "Benim Annem Bir Melek - Bölüm 41",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/3f4f76a544bd9fb865e26017.jpg"
         },
         {
-            "id": "232",
-            "title": "Akasya Durağı 166. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5a.jpg"
+            "id": "696",
+            "title": "Benim Annem Bir Melek - Bölüm 42",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c0ebcebc492d82b09cf167af.jpg"
         },
         {
-            "id": "233",
-            "title": "Akasya Durağı 167. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5d.jpg"
+            "id": "697",
+            "title": "Benim Annem Bir Melek - Bölüm 43",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d814874342d0976b47e35b23.jpg"
         },
         {
-            "id": "234",
-            "title": "Akasya Durağı 168. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e60.jpg"
+            "id": "698",
+            "title": "Benim Annem Bir Melek - Bölüm 44",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/07bc13e8452bbaa6de109621.jpg"
         },
         {
-            "id": "235",
-            "title": "Akasya Durağı 169. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e63.jpg"
+            "id": "699",
+            "title": "Benim Annem Bir Melek - Bölüm 45",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c94ee9ab41b3a6be1560b0e8.jpg"
         },
         {
-            "id": "236",
-            "title": "Akasya Durağı 170. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e66.jpg"
+            "id": "700",
+            "title": "Benim Annem Bir Melek - Bölüm 46",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5c9c7e7a4245a0edde25e453.jpg"
         },
         {
-            "id": "237",
-            "title": "Akasya Durağı 171. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e69.jpg"
+            "id": "701",
+            "title": "Benim Annem Bir Melek - Bölüm 47",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/75d855774fa2b66755644513.jpg"
         },
         {
-            "id": "238",
-            "title": "Akasya Durağı 172 .Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6c.jpg"
+            "id": "702",
+            "title": "Benim Annem Bir Melek - Bölüm 48",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b89cc81c4c498045d21c11b1.jpg"
         },
         {
-            "id": "239",
-            "title": "Akasya Durağı 173. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6f.jpg"
+            "id": "703",
+            "title": "Benim Annem Bir Melek - Bölüm 49",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4fb0da03418a83ca5ff6da15.jpg"
         },
         {
-            "id": "240",
-            "title": "Akasya Durağı 174. Bölüm",
-            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e72.jpg"
+            "id": "704",
+            "title": "Benim Annem Bir Melek - Bölüm 50",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/65651f0448778320d1cb1ee9.jpg"
         }
     ],
     "home_sections": [
@@ -107,6 +107,62 @@
                     "id": "64",
                     "title": "Akasya Durağı 010. Bölüm",
                     "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0380c40201132a01ec37f.jpg"
+                }
+            ]
+        },
+        {
+            "category_id": "2",
+            "category_name": "Atv Dizileri",
+            "movies": [
+                {
+                    "id": "431",
+                    "title": "E.D.H.O. Bölüm 1",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/08\/298x178\/1441791711848.jpg"
+                },
+                {
+                    "id": "432",
+                    "title": "E.D.H.O. Bölüm 2",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/15\/298x178\/1442042417140.jpg"
+                },
+                {
+                    "id": "433",
+                    "title": "E.D.H.O. Bölüm 3",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/22\/298x178\/1442566599772.jpg"
+                },
+                {
+                    "id": "434",
+                    "title": "E.D.H.O. Bölüm 4",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/29\/298x178\/1443423599201.jpg"
+                },
+                {
+                    "id": "435",
+                    "title": "E.D.H.O. Bölüm 5",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/06\/298x178\/1444141047615.jpg"
+                },
+                {
+                    "id": "436",
+                    "title": "E.D.H.O. Bölüm 6",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/13\/298x178\/1444393599072.jpg"
+                },
+                {
+                    "id": "437",
+                    "title": "E.D.H.O. Bölüm 7",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/20\/298x178\/1444998233663.jpg"
+                },
+                {
+                    "id": "438",
+                    "title": "E.D.H.O. Bölüm 8",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/27\/298x178\/1445604889531.jpg"
+                },
+                {
+                    "id": "439",
+                    "title": "E.D.H.O. Bölüm 9",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/03\/298x178\/1446209597028.jpg"
+                },
+                {
+                    "id": "440",
+                    "title": "E.D.H.O. Bölüm 10",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/10\/298x178\/1446815820121.jpg"
                 }
             ]
         }
