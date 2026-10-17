@@ -1,0 +1,43 @@
+{
+    "id": "354",
+    "title": "Kanıt 24. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alpay Topuz. Kırk iki yaşında, başarılı bir cerrah... Evinde ölü bulundu. Kaza gibi gözüken ölümünün arkasında yatan gerçek neydi?\nAlpay’ın asistanı Burak’la arası neden açılmıştı? Karısı Simin’in gizli bir ilişkisi mi vardı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bb43d21b93d96ba31f11.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bb43d21b93d96ba31f11",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/7a7e_1596\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "353",
+        "title": "Kanıt 23. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba55d21b93d96ba31f08.jpg"
+    },
+    "next_movie_data": {
+        "id": "355",
+        "title": "Kanıt 25. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bb6dd21b93d96ba31f1a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
