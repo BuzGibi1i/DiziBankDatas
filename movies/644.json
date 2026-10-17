@@ -1,0 +1,48 @@
+{
+    "id": "644",
+    "title": "E.D.H.O. Bölüm 188",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 188",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/03\/29\/eskiya-dunyaya-hukumdar-olmaz-1617004185107.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/188_35de\/a971f13d-226c-4792-8f23-083a56309a7e.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/188_35de\/a971f13d-226c-4792-8f23-083a56309a7e_0750.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "643",
+        "title": "E.D.H.O. Bölüm 187",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/03\/22\/eskiya-dunyaya-hukumdar-olmaz-1616404011375.jpg"
+    },
+    "next_movie_data": {
+        "id": "645",
+        "title": "E.D.H.O. Bölüm 189",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/04\/05\/eskiya-dunyaya-hukumdar-olmaz-1617610030990.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
