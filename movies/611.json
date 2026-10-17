@@ -1,0 +1,48 @@
+{
+    "id": "611",
+    "title": "E.D.H.O. Bölüm 155",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 155",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/02\/03\/eskiya-dunyaya-hukumdar-olmaz-1580714677766.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/155_hsrs\/dec12dc4-19ae-444b-a5e1-f584d75572b9.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/155_hsrs\/dec12dc4-19ae-444b-a5e1-f584d75572b9_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "610",
+        "title": "E.D.H.O. Bölüm 154",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/01\/27\/eskiya-dunyaya-hukumdar-olmaz-1580112772269.jpg"
+    },
+    "next_movie_data": {
+        "id": "612",
+        "title": "E.D.H.O. Bölüm 156",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/02\/10\/eskiya-dunyaya-hukumdar-olmaz-1581320597542.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
