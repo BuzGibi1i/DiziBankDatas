@@ -1,0 +1,43 @@
+{
+    "id": "357",
+    "title": "Kanıt 27. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sabah saatlerinde arabalarının içinde kurşunlanan iki sevgili. Evinde ölü bulunan bir işadamı. İki farklı cinayet, birbiriyle bağlantısı olmayan kurbanlar. \nFarklı iki katilin işi mi, yoksa bir kişi rastgele cinayetler mi işliyor? \nKatilin kim olduğunu söyleyebilecek tek kişi hastanede ölüm kalım savaşı verirken, Başkomiser Orhan ve Komiser Selim’in zamanı daralıyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bbacd21b93d96ba31f22.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bbacd21b93d96ba31f22",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f87a_1686\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "356",
+        "title": "Kanıt 26. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/59ba666c8685761edc70b8e8.jpg"
+    },
+    "next_movie_data": {
+        "id": "358",
+        "title": "Kanıt 28. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bbcdd21b93d96ba31f2c.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
