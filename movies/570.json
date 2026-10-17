@@ -1,0 +1,48 @@
+{
+    "id": "570",
+    "title": "E.D.H.O. Bölüm 114",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 114",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/11\/05\/eskiya-dunyaya-hukumdar-olmaz-1541401014118.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/114_en8o\/306cde38-9d77-440f-ae10-c54be632096a.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/114_en8o\/306cde38-9d77-440f-ae10-c54be632096a_1200.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "569",
+        "title": "E.D.H.O. Bölüm 113",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/10\/29\/eskiya-dunyaya-hukumdar-olmaz-1540800430254.jpg"
+    },
+    "next_movie_data": {
+        "id": "571",
+        "title": "E.D.H.O. Bölüm 115",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/11\/12\/eskiya-dunyaya-hukumdar-olmaz-1542007782754.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
