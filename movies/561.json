@@ -1,0 +1,48 @@
+{
+    "id": "561",
+    "title": "E.D.H.O. Bölüm 105",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 105",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/05\/28\/eskiya-dunyaya-hukumdar-olmaz-1527491962591.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/105_ncr6\/eskiya_dunyaya_hukumdar_olmaz_105.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/105_ncr6\/eskiya_dunyaya_hukumdar_olmaz_105_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "560",
+        "title": "E.D.H.O. Bölüm 104",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/05\/21\/eskiya-dunyaya-hukumdar-olmaz-1526886393942.jpg"
+    },
+    "next_movie_data": {
+        "id": "562",
+        "title": "E.D.H.O. Bölüm 106",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/06\/04\/eskiya-dunyaya-hukumdar-olmaz-1528096068598.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
