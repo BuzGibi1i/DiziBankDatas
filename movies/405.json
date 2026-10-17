@@ -1,0 +1,43 @@
+{
+    "id": "405",
+    "title": "Kanıt 75. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kanıt, ANS Productions imzalı, yönetmenliğini Cem Sürücü ve Biray Dalkıran'ın üstlendiği, hikâyelerini Sevil Atasoy ve senaryosunu Ahmet Saatçioğlu'nun yazdığı, 2010-2013 yılları arasında Kanal D'de yayımlanan Türk yapımı polisiye türündeki televizyon dizisidir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bf97d21b93d96ba3200f.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=7ShZlca4DLw",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "404",
+        "title": "Kanıt 74. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bf6fd21b93d96ba32005.jpg"
+    },
+    "next_movie_data": {
+        "id": "406",
+        "title": "Kanıt 76. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bfbad21b93d96ba32019.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
