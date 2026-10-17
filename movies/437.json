@@ -1,0 +1,48 @@
+{
+    "id": "437",
+    "title": "E.D.H.O. Bölüm 7",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 7",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/20\/298x178\/1444998233663.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/007\/eskiya_dunyaya_hukumdar_olmaz_007.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/007\/eskiya_dunyaya_hukumdar_olmaz_007_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "436",
+        "title": "E.D.H.O. Bölüm 6",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/13\/298x178\/1444393599072.jpg"
+    },
+    "next_movie_data": {
+        "id": "438",
+        "title": "E.D.H.O. Bölüm 8",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/27\/298x178\/1445604889531.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
