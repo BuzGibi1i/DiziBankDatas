@@ -1,0 +1,43 @@
+{
+    "id": "362",
+    "title": "Kanıt 32. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Nurşen Başaran. Evinde ölü bulundu. Cesedin yanında başka bir kadının kimliği vardı! Bırakılan kimlikleri takip eden Başkomiser Orhan ve Komiser Selim, iki kadının cesedine daha ulaştılar. Ardı ardına bulunan 3 kadın cesedi! Psikopat bir katil! Ve kayıp bir genç kız!",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e957849402011315c8fbf70.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5e957849402011315c8fbf70",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/518a_1314\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "361",
+        "title": "Kanıt 31. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e9434d2ae784923ec81cac5.jpg"
+    },
+    "next_movie_data": {
+        "id": "363",
+        "title": "Kanıt 33. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e96d8f69850b90f28d8925f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
