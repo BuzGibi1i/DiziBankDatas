@@ -1,0 +1,43 @@
+{
+    "id": "265",
+    "title": "Yalan Dünya 25. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Fırat’ın Yazgısı dizisine sponsor olan Nurhayat, Deniz’e seti dar etmek üzere harekete geçiyor.\n\nRıza, Deniz ile yalnız kalıp ona açılmak ve her şeyi telafi etmek ister. Ancak Bora her seferinde tavşan olayının iç yüzünü anlatmakla onu tehdit eder.\n\nNurhayat'ın abisi Bünyamin de Kocabaşlar’ın ofisine iyice yerleşir. Selahattin’i bir türlü gözü tutmayan Bünyamin, abartılı ve tuhaf istekleri ile onu deli eder.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be7.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed1cf45af1064b70be7",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3cc6_287\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "264",
+        "title": "Yalan Dünya 24. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be4.jpg"
+    },
+    "next_movie_data": {
+        "id": "266",
+        "title": "Yalan Dünya 26. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bea.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
