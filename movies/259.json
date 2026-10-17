@@ -1,0 +1,43 @@
+{
+    "id": "259",
+    "title": "Yalan Dünya 19. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Orçun, hayatında ilk kez bir kızla flört etmeye başlıyor. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd5.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed0cf45af1064b70bd5",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f884_964\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "258",
+        "title": "Yalan Dünya 18. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5c1b9d774020110468617bbe.jpg"
+    },
+    "next_movie_data": {
+        "id": "260",
+        "title": "Yalan Dünya 20. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd8.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
