@@ -1,0 +1,43 @@
+{
+    "id": "287",
+    "title": "Yalan Dünya 48. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Deniz, Servet’in yemek tariflerini kitaplaştırıyor. Servet de altta kalmamak için Deniz’e bir kazak örüyor. Ve sonrasında da büyük bir kazak krizi yaşanıyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c2c.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed7cf45af1064b70c2c",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS2\/HLS_VOD\/6410_16db\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "286",
+        "title": "Yalan Dünya 47. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c29.jpg"
+    },
+    "next_movie_data": {
+        "id": "288",
+        "title": "Yalan Dünya 49. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c2f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
