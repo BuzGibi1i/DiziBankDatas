@@ -1,0 +1,43 @@
+{
+    "id": "429",
+    "title": "Kanıt 99. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "AVD Holding Yönetim Kurulu Başkanı Yücel Avedyan’ın vurulmasını araştıran Başkomiser Orhan ve ekibi, Avedyanlar’ın aile avukatı Agop’un ifadesinden sonra, Yücel’in babası Marco Avedyan’ın mezarını açtırmaya karar verdi. Ancak mezar açıldığında herkes büyük bir şok yaşadı. Birkaç ay önce gömülen Marco Avedyan’ın mezarı boştu! Marco Avedyan’ın cesedi nereye kaybolmuştu? Definden hemen sonra Marco’yu ziyarete gelen genç kimdi? Mezarlıkta bulunan mavi saç tutamı neyi gösteriyordu? Delilleri takip eden ekip bu zor olayda mutlu sona ulaşabilecek mi? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdfcf45af1064b71fc5.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efdfcf45af1064b71fc5",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f724_2374\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "428",
+        "title": "Kanıt 98. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fc2.jpg"
+    },
+    "next_movie_data": {
+        "id": "430",
+        "title": "Kanıt 100. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0f6d21b93d96ba3207c.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
