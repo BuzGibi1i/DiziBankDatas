@@ -6,6 +6,7 @@
     "description": "Televizyonda Müjde Ar’ı gören Cahit onu ne kadar beğendiğinden bahsedince Neriman’ı kıskançlık kaplar. Sadece Cahit değildir Müjde Ar’ı güzel bulan. Herkes ondan bahsettikçe Neriman iyice çıldırır ve kimseye haber vermeden güzelleşmek için estetik ameliyatlar olur. Herkes heyecan içinde sargılar açıldığında ortaya ne çıkacağını beklemeye başlarlar. Sinem’in doğum günü için bir kamera alınınca ailede huzur kalmaz. Herkes paparazzi kesilir ve bir başkasının açığını kamera ile yakalayıp şantaj yapar. Sonunda işin ucu Neriman’a dokununca ortalık birbirine girer.Apartmana dadanan bir hırsız neredeyse tüm daireleri soyar. Apartman sakinleri her türlü önlemi alır hatta sabahlara kadar kapının önünde nöbet beklerler ama bir türlü soygunların önüne geçemezler. Gene sorunu çözmek Neriman’a kalır.",
     "hide_description": false,
     "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d814874342d0976b47e35b23.jpg",
+    "backdrop": "",
     "badges": {
         "featured": false,
         "recommended": false
@@ -15,15 +16,15 @@
             "id": "2",
             "name": "Atv Dizileri",
             "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
-            "movie_count": 262
+            "movie_count": 263
         }
     ],
     "actors": [],
     "sources": [
         {
-            "name": "Star TV Direct",
-            "type": "mp4",
-            "url": "https:\/\/dygvideo.dygdigital.com\/StarTV\/Dizi\/640x360\/bnmannembirmelek_03.mp4",
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=jIxXpVSF1qs",
             "is_active": 1
         }
     ],
@@ -38,5 +39,5 @@
         "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/07bc13e8452bbaa6de109621.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-17T15:31:09+03:00"
+    "last_updated": "2026-10-17T17:53:29+03:00"
 }
