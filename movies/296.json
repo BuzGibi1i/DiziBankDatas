@@ -1,0 +1,43 @@
+{
+    "id": "296",
+    "title": "Yalan Dünya 56. Bölüm",
+    "year": 2024,
+    "language": "tr",
+    "description": "Nurhayat ve Rıza’nın düğünü gelip çatmıştır. Bu kez işi sağlama almak isteyen Nurhayat’ın babası Yıldırım Bey gelmiştir. Üstelik düğün mekanını seçmeyi de bizzat müstakbel kayınpeder üstlenmiştir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed9cf45af1064b70c44.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed9cf45af1064b70c44",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS2\/HLS_VOD\/10623_d29c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "295",
+        "title": "Yalan Dünya 55. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/ezZMZVKcKa4\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "297",
+        "title": "Yalan Dünya 57. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedacf45af1064b70c47.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
