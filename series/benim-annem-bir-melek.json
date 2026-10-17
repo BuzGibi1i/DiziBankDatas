@@ -215,42 +215,48 @@
                 },
                 {
                     "episode": 23,
+                    "title": "Benim Annem Bir Melek - Bölüm 33",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/an7gIwiHMqU\/hqdefault.jpg",
+                    "details_url": "movies\/721.json"
+                },
+                {
+                    "episode": 24,
                     "title": "Benim Annem Bir Melek - Bölüm 34",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490098444618.jpg",
                     "details_url": "movies\/688.json"
                 },
                 {
-                    "episode": 24,
+                    "episode": 25,
                     "title": "Benim Annem Bir Melek - Bölüm 35",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490099365198.jpg",
                     "details_url": "movies\/689.json"
                 },
                 {
-                    "episode": 25,
+                    "episode": 26,
                     "title": "Benim Annem Bir Melek - Bölüm 36",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/212x130\/1490100043646.jpg",
                     "details_url": "movies\/690.json"
                 },
                 {
-                    "episode": 26,
+                    "episode": 27,
                     "title": "Benim Annem Bir Melek - Bölüm 37",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490100151891.jpg",
                     "details_url": "movies\/691.json"
                 },
                 {
-                    "episode": 27,
+                    "episode": 28,
                     "title": "Benim Annem Bir Melek - Bölüm 38",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490100254485.jpg",
                     "details_url": "movies\/692.json"
                 },
                 {
-                    "episode": 28,
+                    "episode": 29,
                     "title": "Benim Annem Bir Melek - Bölüm 39",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490102549476.jpg",
                     "details_url": "movies\/693.json"
                 },
                 {
-                    "episode": 29,
+                    "episode": 30,
                     "title": "Benim Annem Bir Melek - Bölüm 40",
                     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490100622946.jpg",
                     "details_url": "movies\/694.json"
@@ -411,5 +417,5 @@
             ]
         }
     ],
-    "last_updated": "2026-10-17T15:31:10+03:00"
+    "last_updated": "2026-10-17T17:53:30+03:00"
 }
