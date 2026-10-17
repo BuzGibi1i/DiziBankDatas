@@ -1,0 +1,43 @@
+{
+    "id": "305",
+    "title": "Yalan Dünya 65. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Rıza ve Deniz’in buluşmalarını engellemek için terasta olağanüstü hal ilan ediliyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c5f.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eedbcf45af1064b70c5f",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S3\/HLS_VOD\/21549_8c3a\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "304",
+        "title": "Yalan Dünya 64. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c5c.jpg"
+    },
+    "next_movie_data": {
+        "id": "306",
+        "title": "Yalan Dünya 66. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedccf45af1064b70c62.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
