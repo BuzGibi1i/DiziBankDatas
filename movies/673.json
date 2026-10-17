@@ -15,7 +15,7 @@
             "id": "2",
             "name": "Atv Dizileri",
             "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
-            "movie_count": 262
+            "movie_count": 263
         }
     ],
     "actors": [],
@@ -31,6 +31,12 @@
             "type": "mp4",
             "url": "https:\/\/atv-vod.ercdn.net\/benim_annem_bir_melek\/018\/benim_annem_bir_melek_018_0400.mp4",
             "is_active": 1
+        },
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=cOHiUbQlz0E",
+            "is_active": 1
         }
     ],
     "previous_movie_data": {
@@ -44,5 +50,5 @@
         "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490091743206.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-17T15:31:09+03:00"
+    "last_updated": "2026-10-17T17:53:29+03:00"
 }
