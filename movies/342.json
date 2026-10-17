@@ -1,0 +1,43 @@
+{
+    "id": "342",
+    "title": "Kanıt 12. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Aslı Ulubay. 22 yaşında, fotoğrafçılık öğrencisi. İnşaat halindeki bir binada, elleri ve gözleri bağlı şekilde, kan kaybından ölmüş olarak bulundu. Vücudunda çok sayıda kesik vardı. Katilin Aslı’ya acı çektirmek isteyen bir sadist olduğunu düşünen Başkomiser Orhan ve yardımcısı Selim’in kafalarına takılan en önemli soru, Aslı’nın ölümcül olmayan yüzeysel kesiklerden nasıl bu kadar kan kaybettiğiydi!.\nÇok geçmeden Aslı’nın şiddet karşıtı sosyal bir projede çalıştığını öğrenen Başkomiser Orhan ve yardımcısı Selim, proje için çekilen fotoğrafları gördüklerinde, bugüne kadar hiç karşılaşmadıkları türden bir olayla karşı karşıya kaldıklarını anladılar. Olay gecesi, vampir hikayeleri ve kanlı oyunlara düşkün gençlerin takıldığı barda, projenin bitişini kutlamak için arkadaşlarıyla buluşan Aslı’nın başına ne gelmişti?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b852d21b93d96ba31e8e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b852d21b93d96ba31e8e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/454a_1687\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "341",
+        "title": "Kanıt 11. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b803d21b93d96ba31e82.jpg"
+    },
+    "next_movie_data": {
+        "id": "343",
+        "title": "Kanıt 13. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b87cd21b93d96ba31e98.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
