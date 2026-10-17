@@ -1,0 +1,580 @@
+{
+    "id": "2",
+    "slug": "yalan-dunya",
+    "title": "Yalan Dünya",
+    "description": "Yalan Dünya, senaryosu Gülse Birsel tarafından yazılan ve D Productions tarafından prodüksiyonu gerçekleştirilen Türk yapımı durum komedisi türündeki televizyon dizisidir. Jale Atabey Özberk tarafından yönetilen dizi, 13 Ocak 2012 tarihinde Kanal D'de yayımlanmaya başladı ve dizinin müzikleri Nil Karaibrahimgil tarafından yapıldı. Yalan Dünya, Cihangir'de yan yana yaşayan, Türkiye'nin iki uç hayat tarzından gelen iki ailenin komik hikâyelerini ele almaktadır. Dizi, toplam 4 sezondan oluşmaktadır.",
+    "poster": "https:\/\/image.tv2.com.tr\/5eb99655933ccb1c201f84a7.jpg",
+    "seasons": [
+        {
+            "season": 1,
+            "title": "1. Sezon",
+            "poster": "https:\/\/image.tv2.com.tr\/5eb99655933ccb1c201f84a7.jpg",
+            "description": "",
+            "air_year": 2012,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Yalan Dünya 01. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9d41d21b93d96ba32218.jpg",
+                    "details_url": "movies\/241.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Yalan Dünya 02. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9d61d21b93d96ba32225.jpg",
+                    "details_url": "movies\/242.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Yalan Dünya 03. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9d81d21b93d96ba32231.jpg",
+                    "details_url": "movies\/243.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Yalan Dünya 04. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9da1d21b93d96ba3223d.jpg",
+                    "details_url": "movies\/244.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Yalan Dünya 05. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9dc5d21b93d96ba32248.jpg",
+                    "details_url": "movies\/245.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Yalan Dünya 06. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9de4d21b93d96ba32251.jpg",
+                    "details_url": "movies\/246.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Yalan Dünya 07. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9e04d21b93d96ba3225d.jpg",
+                    "details_url": "movies\/247.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Yalan Dünya 08. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bb4.jpg",
+                    "details_url": "movies\/248.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Yalan Dünya 09. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bb7.jpg",
+                    "details_url": "movies\/249.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Yalan Dünya 10. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bba.jpg",
+                    "details_url": "movies\/250.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Yalan Dünya 11. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bbd.jpg",
+                    "details_url": "movies\/251.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Yalan Dünya 12. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bc0.jpg",
+                    "details_url": "movies\/252.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Yalan Dünya 13. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eececf45af1064b70bc3.jpg",
+                    "details_url": "movies\/253.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Yalan Dünya 14. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eecfcf45af1064b70bc6.jpg",
+                    "details_url": "movies\/254.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Yalan Dünya 15. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5c1b9ca004207c2bcc74ed57.jpg",
+                    "details_url": "movies\/255.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Yalan Dünya 16. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5c1b9d07e94fb70ff003a796.jpg",
+                    "details_url": "movies\/256.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Yalan Dünya 17. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5c1b9d4ae94fb70ff003a798.jpg",
+                    "details_url": "movies\/257.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Yalan Dünya 18. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5c1b9d774020110468617bbe.jpg",
+                    "details_url": "movies\/258.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Yalan Dünya 19. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd5.jpg",
+                    "details_url": "movies\/259.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Yalan Dünya 20. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd8.jpg",
+                    "details_url": "movies\/260.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Yalan Dünya 21. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bdb.jpg",
+                    "details_url": "movies\/261.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Yalan Dünya 22. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bde.jpg",
+                    "details_url": "movies\/262.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Yalan Dünya 23. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be1.jpg",
+                    "details_url": "movies\/263.json"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "title": "2. Sezon",
+            "poster": "https:\/\/image.tv2.com.tr\/5eb99655933ccb1c201f84a7.jpg",
+            "description": "",
+            "air_year": 2013,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Yalan Dünya 24. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be4.jpg",
+                    "details_url": "movies\/264.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Yalan Dünya 25. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be7.jpg",
+                    "details_url": "movies\/265.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Yalan Dünya 26. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bea.jpg",
+                    "details_url": "movies\/266.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Yalan Dünya 27.Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bed.jpg",
+                    "details_url": "movies\/267.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Yalan Dünya 28. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf0.jpg",
+                    "details_url": "movies\/268.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Yalan Dünya 29. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf3.jpg",
+                    "details_url": "movies\/269.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Yalan Dünya 30. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf6.jpg",
+                    "details_url": "movies\/270.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Yalan Dünya 31. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bf9.jpg",
+                    "details_url": "movies\/271.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Yalan Dünya 32. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bfc.jpg",
+                    "details_url": "movies\/272.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Yalan Dünya 33. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bff.jpg",
+                    "details_url": "movies\/273.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Yalan Dünya 34. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70c02.jpg",
+                    "details_url": "movies\/274.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Yalan Dünya 35. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed4cf45af1064b70c05.jpg",
+                    "details_url": "movies\/275.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Yalan Dünya 36. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed4cf45af1064b70c08.jpg",
+                    "details_url": "movies\/276.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Yalan Dünya 37. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed4cf45af1064b70c0b.jpg",
+                    "details_url": "movies\/277.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Yalan Dünya 39. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed5cf45af1064b70c11.jpg",
+                    "details_url": "movies\/278.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Yalan Dünya 40. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed5cf45af1064b70c14.jpg",
+                    "details_url": "movies\/279.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Yalan Dünya 41. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed5cf45af1064b70c17.jpg",
+                    "details_url": "movies\/280.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Yalan Dünya 42. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed5cf45af1064b70c1a.jpg",
+                    "details_url": "movies\/281.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Yalan Dünya 43. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed6cf45af1064b70c1d.jpg",
+                    "details_url": "movies\/282.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Yalan Dünya 44. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed6cf45af1064b70c20.jpg",
+                    "details_url": "movies\/283.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Yalan Dünya 45. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed6cf45af1064b70c23.jpg",
+                    "details_url": "movies\/284.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Yalan Dünya 46. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c26.jpg",
+                    "details_url": "movies\/285.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Yalan Dünya 47. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c29.jpg",
+                    "details_url": "movies\/286.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Yalan Dünya 48. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c2c.jpg",
+                    "details_url": "movies\/287.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Yalan Dünya 49. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c2f.jpg",
+                    "details_url": "movies\/288.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Yalan Dünya 50. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c32.jpg",
+                    "details_url": "movies\/289.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Yalan Dünya 51. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c35.jpg",
+                    "details_url": "movies\/290.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Yalan Dünya 52. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c38.jpg",
+                    "details_url": "movies\/291.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Yalan Dünya 53. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c3b.jpg",
+                    "details_url": "movies\/292.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Yalan Dünya 54. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed9cf45af1064b70c3e.jpg",
+                    "details_url": "movies\/293.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Yalan Dünya 55. Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/ezZMZVKcKa4\/hqdefault.jpg",
+                    "details_url": "movies\/295.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Yalan Dünya 56. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed9cf45af1064b70c44.jpg",
+                    "details_url": "movies\/296.json"
+                }
+            ]
+        },
+        {
+            "season": 3,
+            "title": "3. Sezon",
+            "poster": "https:\/\/image.tv2.com.tr\/5eb99655933ccb1c201f84a7.jpg",
+            "description": "",
+            "air_year": 2014,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Yalan Dünya 57. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedacf45af1064b70c47.jpg",
+                    "details_url": "movies\/297.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Yalan Dünya 58. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedacf45af1064b70c4a.jpg",
+                    "details_url": "movies\/298.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Yalan Dünya 59. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedacf45af1064b70c4d.jpg",
+                    "details_url": "movies\/299.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Yalan Dünya 60. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedacf45af1064b70c50.jpg",
+                    "details_url": "movies\/300.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Yalan Dünya 61. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c53.jpg",
+                    "details_url": "movies\/301.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Yalan Dünya 62. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c56.jpg",
+                    "details_url": "movies\/302.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Yalan Dünya 63. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c59.jpg",
+                    "details_url": "movies\/303.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Yalan Dünya 64. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c5c.jpg",
+                    "details_url": "movies\/304.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Yalan Dünya 65. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedbcf45af1064b70c5f.jpg",
+                    "details_url": "movies\/305.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Yalan Dünya 66. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedccf45af1064b70c62.jpg",
+                    "details_url": "movies\/306.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Yalan Dünya 67. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedccf45af1064b70c65.jpg",
+                    "details_url": "movies\/307.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Yalan Dünya 68. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedccf45af1064b70c68.jpg",
+                    "details_url": "movies\/308.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Yalan Dünya 69. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedccf45af1064b70c6b.jpg",
+                    "details_url": "movies\/309.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Yalan Dünya 70. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c6e.jpg",
+                    "details_url": "movies\/310.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Yalan Dünya 71. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c71.jpg",
+                    "details_url": "movies\/311.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Yalan Dünya 72. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c74.jpg",
+                    "details_url": "movies\/312.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Yalan Dünya 73. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c77.jpg",
+                    "details_url": "movies\/313.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Yalan Dünya 74. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c7a.jpg",
+                    "details_url": "movies\/314.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Yalan Dünya 75. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c7d.jpg",
+                    "details_url": "movies\/315.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Yalan Dünya 76. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c80.jpg",
+                    "details_url": "movies\/316.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Yalan Dünya 77. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c83.jpg",
+                    "details_url": "movies\/317.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Yalan Dünya 78. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c86.jpg",
+                    "details_url": "movies\/318.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Yalan Dünya 79. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c89.jpg",
+                    "details_url": "movies\/319.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Yalan Dünya 80. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c8c.jpg",
+                    "details_url": "movies\/320.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Yalan Dünya 81. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c8f.jpg",
+                    "details_url": "movies\/321.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Yalan Dünya 82. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c92.jpg",
+                    "details_url": "movies\/322.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Yalan Dünya 83. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c95.jpg",
+                    "details_url": "movies\/323.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Yalan Dünya 84. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c98.jpg",
+                    "details_url": "movies\/324.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Yalan Dünya 85. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c9b.jpg",
+                    "details_url": "movies\/325.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Yalan Dünya 86. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c9e.jpg",
+                    "details_url": "movies\/326.json"
+                }
+            ]
+        },
+        {
+            "season": 4,
+            "title": "4. Sezon",
+            "poster": "https:\/\/image.tv2.com.tr\/5eb99655933ccb1c201f84a7.jpg",
+            "description": "",
+            "air_year": 2014,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Yalan Dünya 87. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70ca1.jpg",
+                    "details_url": "movies\/327.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Yalan Dünya 88. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70ca4.jpg",
+                    "details_url": "movies\/328.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Yalan Dünya 89. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee1cf45af1064b70ca7.jpg",
+                    "details_url": "movies\/329.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Yalan Dünya 90. Bölüm",
+                    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/546d7a19f63099156807837d.jpg",
+                    "details_url": "movies\/330.json"
+                }
+            ]
+        }
+    ],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
