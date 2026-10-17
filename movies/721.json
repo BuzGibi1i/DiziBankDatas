@@ -27,9 +27,9 @@
             "is_active": 1
         },
         {
-            "name": "Dzen Test",
-            "type": "dzen",
-            "url": "https:\/\/dzen.ru\/video\/watch\/69b82aca4913fc3863c7bcae",
+            "name": "Dzen Embed",
+            "type": "embed",
+            "url": "https:\/\/dzen.ru\/embed\/oX0b8UWsLAAA",
             "is_active": 1
         }
     ],
