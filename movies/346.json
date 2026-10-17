@@ -1,0 +1,43 @@
+{
+    "id": "346",
+    "title": "Kanıt 16. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "KimliÄi belirsiz genÃ§ bir kadÄ±n, deniz kÄ±yÄ±sÄ±nda Ã¶lÃ¼ olarak bulundu. BaÅÄ±nda biri Ã¶lÃ¼mcÃ¼l iki darbe ve Ã¼zerinde bir erkek gÃ¶mleÄi vardÄ±. BaÅkomiser Orhan ve yardÄ±mcÄ±sÄ± Selim, kÄ±sa sÃ¼re iÃ§inde maktÃ¼lÃ¼n Ã¼Ã§ gÃ¼n Ã¶nce fidye iÃ§in kaÃ§Ä±rÄ±lmÄ±Å olan Onur Gayrimenkul YatÄ±rÄ±m OrtaklÄ±ÄÄ±ânÄ±n hissedarÄ± Pelin Onur olduÄunu Ã¶Ärendi. KardeÅine zarar gelmesinden korkan Pelinâin ablasÄ± ve Åirketin diÄer ortaÄÄ± GÃ¶nÃ¼l Onur, fidyecilerin istediÄi iki milyon lirayÄ± Ã¶demiÅti.\nFidyeciler istediklerini aldÄ±klarÄ± halde, Pelinâi neden Ã¶ldÃ¼rmÃ¼Ålerdi? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b929d21b93d96ba31eb6.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b929d21b93d96ba31eb6",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/1fd1_1575\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "345",
+        "title": "Kanıt 15. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b8f9d21b93d96ba31eac.jpg"
+    },
+    "next_movie_data": {
+        "id": "347",
+        "title": "Kanıt 17. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b952d21b93d96ba31ec3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
