@@ -1,0 +1,43 @@
+{
+    "id": "272",
+    "title": "Yalan Dünya 32. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Nurhayat’ı kendinden soğutmayı bir türlü başaramayan Rıza, taktik değiştiriyor ve sıkıcı bir adam oluyor.\n\nGeçici hafıza kaybına uğrayan Selahattin, kendine gösterilen ilgi ve aldığı hediyelerden memnun olunca, bu duruma devam etme kararı alır.\n\nNurhayat’ı kendinden soğutmayı bir türlü başaramayan Rıza, taktik değiştirir ve sıkıcı bir adam olur.\n\nBora ise kafede tanıştığı bir kız ile flörte başlar. Ancak yan dairedekilerin onu Açılay ile evli olduğunu sanmaları ortamın gerilmesine neden olur. Bu durumdan çok sıkılan Açılay da yalandan kavga edip boşanmayı teklif eder. Bora ve Açılay her fırsatta numaradan karı koca kavgası çıkartırlar. Fakat çiftin ayrılmasına çok üzülen Kocabaşlar ise tüm tartışmaları tatlıya bağlamak ve ayrılmalarını önlemek üzere harekete geçerler.\n\nHastalığını kullanarak kendisine alınan hediyeleri başkalarına satmaya başlayan Selahattin, Bora ve Bünyamin’i fena tufaya getirir.\n\nCimri yönetmen Tufan’ı ekip yemeğine çıkarmaya çalışan dizi ekibi sonunda bunu başarır. Ancak oyuncular ve ekibin birlikte çıktığı yemek sonunda Tufan sırra kadem basar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bfc.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed3cf45af1064b70bfc",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/d3ca_411\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "271",
+        "title": "Yalan Dünya 31. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bf9.jpg"
+    },
+    "next_movie_data": {
+        "id": "273",
+        "title": "Yalan Dünya 33. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bff.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
