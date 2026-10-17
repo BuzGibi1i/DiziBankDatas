@@ -1,0 +1,43 @@
+{
+    "id": "373",
+    "title": "Kanıt 43. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kader Yiğitoğlu, geç saatlere kadar çalıştığı iş yerinden dönerken, araba çarpması sonucu öldü. Çok geçmeden zayıflama kampındaki doktorlardan Metin Atakan da ölünce, soruşturma yön değiştirdi.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58c9273ae50aa9237816d052.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/58c9273ae50aa9237816d052",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/ab6a_1110\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "372",
+        "title": "Kanıt 42. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58ca43ede50aa9237816d060.jpg"
+    },
+    "next_movie_data": {
+        "id": "374",
+        "title": "Kanıt 44. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58ca437ee50aa9237816d05e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
