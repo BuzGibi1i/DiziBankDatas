@@ -1,0 +1,43 @@
+{
+    "id": "398",
+    "title": "Kanıt 68. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sabaha karşı, Beyoğlu’nun ıssız sokaklarında cesedi bulunan genç kız kimdi? Bileğindeki mühür ne anlama geliyordu? Ölümü bir trafik kazası mı, yoksa cinayet miydi? Çok geçmeden yakınlarda bulunan bir erkek cesedi kafaları iyice karıştırdı! Katil aynı kişi miydi? Kurbanlar birbirlerini tanıyor muydu? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be75d21b93d96ba31fbd.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679be75d21b93d96ba31fbd",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/35f2_946\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "397",
+        "title": "Kanıt 67. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/JEkXuJVS87I\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "399",
+        "title": "Kanıt 69. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bea5d21b93d96ba31fca.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
