@@ -1,0 +1,43 @@
+{
+    "id": "268",
+    "title": "Yalan Dünya 28. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Hem Denizler’in hem de Kocabaşlar’ın evini pire basıyor. Her iki evi de pirelerden temizlemek için temizlik dayanışmasına giren Deniz ve Servet’in yakınlığı ise Nurhayat’ı kıskançlık krizine sokuyor.\n\nBora ve Emir’in sürekli Yalan Cafe’de takılmaları, Deniz ve Açılay’ı kuşkulandırır. Bora’yı sıkıştırıp gerçeği kısa sürede öğrenirler. Yalan Cafe’de, Olga adlı bir Rus Barmaid işe başlamıştır. Yan dairedekiler de temizlik işleri için Olga ile anlaşmışlardır. Fakat Rus güzellerin Cihangir çıkartması bu kadarla sınırlı değildir. Tesadüfen buldukları bir cep telefonunu kullanmaya başlayan Tülay ve Zerrin’in başı da polis tarafından aranan ve uyuşturucu ticareti yapan Rus Swetlana yüzünden derde girer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf0.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed2cf45af1064b70bf0",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/6b8b_184\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "267",
+        "title": "Yalan Dünya 27.Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bed.jpg"
+    },
+    "next_movie_data": {
+        "id": "269",
+        "title": "Yalan Dünya 29. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
