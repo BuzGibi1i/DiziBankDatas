@@ -1,0 +1,43 @@
+{
+    "id": "269",
+    "title": "Yalan Dünya 29. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Orçun’un sevgilisi Eylem, ters bir hareket yapıp, beli tutulunca Kocabaşlar’ın evine iyice yerleşiyor. Bu duruma çok canı sıkılan Gülistan ise oğlunun gönlünü hoş tutabilmek için gizli işler çeviriyor. Telefon konuşmalarından şüphelenen Selahattin ise, Gülistan’ı kıskanıyor.\n\nDeniz’in iş gücünden etkilenen Servet, bu kez de ona evin halılarını yıkatmaya kalkışır.  Servet’e elini verirken kolunu kaptıran Deniz, bu durumdan nasıl yırtacağını kara kara düşünür. Bir manken ile çıkmaya başlayan Çağatay, onun arkadaşını da Emir’e ayarlamaya çalışır. Açılay’dan ödü kopan Emir, kendi yerine manken ile buluşmaya Bora’yı gönderir. Güzel bir kız ile geceyi geçireceğini düşünen Bora randevuya gittiğinde şok geçirir. Açılay ise nedensiz bir biçimde ter kokusuna maruz kalmaktadır. Parfüm şişesi ile yıkansa bile önlenemez bir ter kokusu yayılmaktadır. Orçun’un sevgilisi Eylem ise Kocabaşlar’ın evinde takılmaktadır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf3.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed2cf45af1064b70bf3",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/0884_565\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "268",
+        "title": "Yalan Dünya 28. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf0.jpg"
+    },
+    "next_movie_data": {
+        "id": "270",
+        "title": "Yalan Dünya 30. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf6.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
