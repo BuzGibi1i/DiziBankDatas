@@ -1,0 +1,43 @@
+{
+    "id": "392",
+    "title": "Kanıt 62. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Başarılı ve karizmatik bir doktor! Ortadan kaybolan alkolik karısı! \nVe beklenmedik bir sürpriz! Estetik cerrah Serdar Turan, oturduğu sitenin saunasında ölü bulundu.Karısı aynı saatlerde siteden çıkarken görülmüştü. Aramalara rağmen bir türlü bulunamayan kadın nereye kaybolmuştu?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be2bd21b93d96ba31fa4.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679be2bd21b93d96ba31fa4",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/9162_1150\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "391",
+        "title": "Kanıt 61. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd6cf45af1064b71f52.jpg"
+    },
+    "next_movie_data": {
+        "id": "393",
+        "title": "Kanıt 63. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd7cf45af1064b71f58.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
