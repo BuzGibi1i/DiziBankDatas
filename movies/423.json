@@ -1,0 +1,43 @@
+{
+    "id": "423",
+    "title": "Kanıt 93. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Süheyla Atıflı, karısından boşanmak üzere olan sevgilisi Mecit Hangezer’in villasında ölü bulundu. Başını şezlongun köşesine çarpmış ve ardından boğulmuştu. O sırada evde bulunan Mecit Bey, oğlu Berke ve İtalyan asıllı misafirleri Carlo, hiçbir şey duymadıklarını söylüyorlardı. Peki nasıl oldu da evdeki kimse bir şey duymamıştı? Daha önce eve gelen havuz görevlisinin cinayetle bağlantısı var mıydı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efddcf45af1064b71fb3.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efddcf45af1064b71fb3",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3ed3_986\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "422",
+        "title": "Kanıt 92. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c091d21b93d96ba3205c.jpg"
+    },
+    "next_movie_data": {
+        "id": "424",
+        "title": "Kanıt 94. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0b2d21b93d96ba32067.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
