@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-10-17T15:31:10+03:00",
-    "total_movies": 625,
+    "last_updated": "2026-10-17T17:53:30+03:00",
+    "total_movies": 626,
     "movies": [
+        {
+            "id": "721",
+            "title": "Benim Annem Bir Melek - Bölüm 33",
+            "poster": "https:\/\/i.ytimg.com\/vi\/an7gIwiHMqU\/hqdefault.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Atv Dizileri"
+                }
+            ]
+        },
         {
             "id": "695",
             "title": "Benim Annem Bir Melek - Bölüm 41",
