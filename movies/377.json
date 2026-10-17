@@ -1,0 +1,43 @@
+{
+    "id": "377",
+    "title": "Kanıt 47. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Gonca Ilgaz. Henüz on yedisinde masum bir genç kız. Cansız bedeni, perdeye sarılı halde terk edilmiş bir binada bulundu. Vücudunda herhangi bir darp ya da yara izi yoktu. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bcaad21b93d96ba31f46.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bcaad21b93d96ba31f46",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/9ade_1118\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "376",
+        "title": "Kanıt 46. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c7cfd21b93d96ba32095.jpg"
+    },
+    "next_movie_data": {
+        "id": "378",
+        "title": "Kanıt 48. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58d278bcf0dc1e197cc265d7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
