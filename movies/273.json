@@ -1,0 +1,43 @@
+{
+    "id": "273",
+    "title": "Yalan Dünya 33. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "\"Yalan Dünya\"nın bu bölümüne Azra Akın da konuk oyuncu olarak katılıyor.\n\nAçılay ve Bora’nın resmi olarak boşandıklarını öğrenen Kocabaşlar’ın tutumları bir anda değişir. Bekara ev vermek istemediklerini, evden en kısa sürede çıkmaları gerektiğini söylerler.\n\nGülistan ise, Eylem ile Orçun’u ayırmak için harekete geçer ve planı kısa süreliğine de olsa işe yarar. Bu arada bir yoğurt kutusunun üzerindeki bilgi gerektiren soruları cevaplayan Orçun ise, Türkiye’deki en zeki ilk 500 kişisi arasına girer. Orçun’un deha olduğu kulaktan kulağa yayılır. Önceleri bu durum hoşuna gitse de, herkesin olur olmadık zamanlarda gelip, sürekli ondan akıl almaları hayatını kâbusa çevirir.\n\nNurhayat ile telefonda ayrılmaya karar veren Rıza sonunda cesaretini toplar ve onu arar. Ancak bu girişimi de başarısızlıkla sonuçlanır. Artık yasak ilişki yaşamak istemeyen Deniz de bir an önce bu durumu çözmesi için ona baskı yapar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bff.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed3cf45af1064b70bff",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/a830_688\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "272",
+        "title": "Yalan Dünya 32. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bfc.jpg"
+    },
+    "next_movie_data": {
+        "id": "274",
+        "title": "Yalan Dünya 34. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70c02.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
