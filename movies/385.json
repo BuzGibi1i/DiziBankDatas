@@ -1,0 +1,43 @@
+{
+    "id": "385",
+    "title": "Kanıt 55. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yılların eskitemediği dostluklar. İki yakın aile. Kardeş gibi büyüyen iki genç kız. Beklenmedik iki ölüm!\nEvinin önündeki çöp konteynerında ölü bulunan Nevra İpekoğlu, böyle bir sonu hak edecek ne yapmıştı? Uzun zamandır peşini bırakmayan Çağlayan Gürbüz’le en son ne zaman görüşmüştü?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5bdfe96c04207c1f6c59a72e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5bdfe96c04207c1f6c59a72e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/a48b_1101\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "384",
+        "title": "Kanıt 54. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd5cf45af1064b71f3d.jpg"
+    },
+    "next_movie_data": {
+        "id": "386",
+        "title": "Kanıt 56. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bde3d21b93d96ba31f8d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
