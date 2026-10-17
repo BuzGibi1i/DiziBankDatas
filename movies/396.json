@@ -1,0 +1,43 @@
+{
+    "id": "396",
+    "title": "Kanıt 66. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İstanbul. Sabahın ilk saatleri. Başından vurularak öldürülmüş bir temizlik görevlisi! Ancak her şey daha yeni başlıyor! Artık kimse güvende değil! Çocuklarımız bile! İstanbul’un sokaklarında birbiri ardına vurularak öldürülen kurbanlar arasında bir bağ var mıydı? Şehrin orta yerinde ateş etmesine rağmen, katil nasıl fark edilmiyordu? Nereden nişan alıp, nasıl ateş ediyordu? Emniyet birimleri alarmdayken, paniğin önüne nasıl geçilecekti? Ya sıradaki kurban? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd8cf45af1064b71f61.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efd8cf45af1064b71f61",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f399_1042\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "395",
+        "title": "Kanıt 65. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be50d21b93d96ba31fb3.jpg"
+    },
+    "next_movie_data": {
+        "id": "397",
+        "title": "Kanıt 67. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/JEkXuJVS87I\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
