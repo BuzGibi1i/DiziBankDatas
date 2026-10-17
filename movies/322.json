@@ -1,0 +1,43 @@
+{
+    "id": "322",
+    "title": "Yalan Dünya 82. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Rıza ve Deniz nişan tarihi belirleyip, ailelerine bildirirler. Artık daha fazla kaçacak yerleri kalmayan iki tarafta iyice köşeye sıkışmıştır. Kocabaşlar’ın maddi durumları hakkında laf sokmaları, Çiğdem’in nişanı abartmasına neden olur. Ancak istedikleri masalsı nişanı karşılayacak paraları gerçekten yoktur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c92.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eedfcf45af1064b70c92",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S7\/HLS_VOD\/42155_8161\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "321",
+        "title": "Yalan Dünya 81. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c8f.jpg"
+    },
+    "next_movie_data": {
+        "id": "323",
+        "title": "Yalan Dünya 83. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c95.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
