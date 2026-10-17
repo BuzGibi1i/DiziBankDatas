@@ -1,0 +1,48 @@
+{
+    "id": "528",
+    "title": "E.D.H.O. Bölüm 72",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 72",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/09\/19\/960x565\/1505488127901.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/72\/db3aa5a5-88eb-45a0-8078-5d5f77174071.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/72\/db3aa5a5-88eb-45a0-8078-5d5f77174071_0750.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "527",
+        "title": "E.D.H.O. Bölüm 71",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/05\/30\/960x565\/1496043544987.jpg"
+    },
+    "next_movie_data": {
+        "id": "529",
+        "title": "E.D.H.O. Bölüm 73",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/09\/26\/960x565\/1506327003226.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
