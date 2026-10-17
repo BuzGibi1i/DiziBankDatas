@@ -1,0 +1,43 @@
+{
+    "id": "330",
+    "title": "Yalan Dünya 90. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Kocabaş Ailesi’nin kadınlarını yemeklerle tavlayan Deniz, Şehmuz’un da gönlüne yapmak için bir fikir ararken öneri Rıza’dan gelir. Nişanlısının aklına uyan Deniz de, Şehmuz’a amca yerine baba demeye başlar. Ancak, İzmir’den dönmesini beklemediği babası Timur’un ani gelişi ortalığın karışmasına neden olur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/546d7a19f63099156807837d.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/546d7a19f63099156807837d",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S8\/HLS_VOD\/59506_ec36\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "329",
+        "title": "Yalan Dünya 89. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee1cf45af1064b70ca7.jpg"
+    },
+    "next_movie_data": {
+        "id": "331",
+        "title": "Kanıt 01. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6674252bd21b93d96ba31d66.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
