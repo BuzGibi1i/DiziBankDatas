@@ -6,6 +6,7 @@
     "description": "Benim Annem Bir Melek - Bölüm 40",
     "hide_description": false,
     "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/21\/298x178\/1490100622946.jpg",
+    "backdrop": "",
     "badges": {
         "featured": false,
         "recommended": false
@@ -15,11 +16,17 @@
             "id": "2",
             "name": "Atv Dizileri",
             "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
-            "movie_count": 262
+            "movie_count": 263
         }
     ],
     "actors": [],
     "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=9GwOp0oDFH0",
+            "is_active": 1
+        },
         {
             "name": "ATV Direct (HLS)",
             "type": "m3u8",
@@ -44,5 +51,5 @@
         "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/3f4f76a544bd9fb865e26017.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-17T15:31:09+03:00"
+    "last_updated": "2026-10-17T17:53:29+03:00"
 }
