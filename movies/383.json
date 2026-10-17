@@ -1,0 +1,43 @@
+{
+    "id": "383",
+    "title": "Kanıt 53. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kubilay Gezer. İyi kalpli, yardımsever, dürüst bir taksi şoförü. Yeni doğacak bebeği için evine biraz daha fazla para götürebilmek için çalışırken, ölü bulundu.\nTalihsiz kurban bir gasp olayına mı kurban gitmişti? Son müşterileri kimlerdi? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bd79d21b93d96ba31f81.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bd79d21b93d96ba31f81",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/4d4a_1106\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "382",
+        "title": "Kanıt 52. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bd51d21b93d96ba31f77.jpg"
+    },
+    "next_movie_data": {
+        "id": "384",
+        "title": "Kanıt 54. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd5cf45af1064b71f3d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
