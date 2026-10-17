@@ -1,0 +1,43 @@
+{
+    "id": "311",
+    "title": "Yalan Dünya 71. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Gülistan, bebeğine bakması için bir hemşire tutuyor. Ancak hemşire çok güzel olunca, Deniz ve Nurhayat kıskançlık krizine giriyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c71.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eeddcf45af1064b70c71",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S5\/HLS_VOD\/31728_9286\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "310",
+        "title": "Yalan Dünya 70. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c6e.jpg"
+    },
+    "next_movie_data": {
+        "id": "312",
+        "title": "Yalan Dünya 72. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c74.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
