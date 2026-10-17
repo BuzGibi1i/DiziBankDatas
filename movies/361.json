@@ -1,0 +1,43 @@
+{
+    "id": "361",
+    "title": "Kanıt 31. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Vahşice öldürülüp, iç çamaşırlarıyla ormanlık araziye atılmış kimliği belirsiz bir kadın ve ağzında bulunan Arapça dua!\nKomiser Selim, kadının kimliğini tespit edebilmek için alışılmadık bir yönteme başvurup, Irak emniyetindeki arkadaşını devreye sokarken, Başkomiser Orhan cinayeti çözebilmek için, Avrupa Polis Birliği Europol bünyesinde, kara büyü cinayetlerini soruşturmak için Ankara’da kurulan birimin başındaki Komiser Kaya’yı aradı.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e9434d2ae784923ec81cac5.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5e9434d2ae784923ec81cac5",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/30aa_1321\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "360",
+        "title": "Kanıt 30. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e90142549678311e839aa4b.jpg"
+    },
+    "next_movie_data": {
+        "id": "362",
+        "title": "Kanıt 32. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e957849402011315c8fbf70.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
