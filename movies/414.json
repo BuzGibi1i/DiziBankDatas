@@ -1,0 +1,43 @@
+{
+    "id": "414",
+    "title": "Kanıt 84. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Otuz dört yaşındaki grafiker İlkan Bakırcı, ofisinde boğazı kesilmiş olarak bulundu. İşyerinin hemen yakınında gerçekleşen trafik kazasında ise, kimliği belirsiz Doğu Avrupalı bir kadın hayatını kaybetti. İki olayın bağlantılı olduğunun anlaşılması ise uzun sürmedi.\n\nKazada ölen kadın, İlkan Bakırcı’nın ofisindeki partiye katılan bir seks işçisi miydi? Cinayeti görmüş ve kaçarken arabanın altında kalmış olabilir miydi? Kadına çarpan şoförün gördüğünü söylediği ve kadını takip eden gizemli adam kimdi? Yoksa İlkan’ın katili de aynı adam mıydı?\n",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f98.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efdbcf45af1064b71f98",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/2f7b_782\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "413",
+        "title": "Kanıt 83. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f95.jpg"
+    },
+    "next_movie_data": {
+        "id": "415",
+        "title": "Kanıt 85. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f9b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
