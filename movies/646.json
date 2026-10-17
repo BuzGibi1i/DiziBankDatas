@@ -1,0 +1,48 @@
+{
+    "id": "646",
+    "title": "E.D.H.O. Bölüm 190",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 190",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/04\/12\/eskiya-dunyaya-hukumdar-olmaz-1618213857148.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 262
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/190_sqbc\/1e4630fe-23a5-4231-9760-c2d024c785ac.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/190_sqbc\/1e4630fe-23a5-4231-9760-c2d024c785ac_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "645",
+        "title": "E.D.H.O. Bölüm 189",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/04\/05\/eskiya-dunyaya-hukumdar-olmaz-1617610030990.jpg"
+    },
+    "next_movie_data": {
+        "id": "647",
+        "title": "E.D.H.O. Bölüm 191",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/04\/19\/eskiya-dunyaya-hukumdar-olmaz-1618817848675.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:09+03:00"
+}
