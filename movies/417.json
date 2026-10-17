@@ -1,0 +1,43 @@
+{
+    "id": "417",
+    "title": "Kanıt 87. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Başarılı ve yetenekli bir spor eğitmeni! Karmaşık ilişkiler! Ve akıllara durgunluk veren bir son!\n\nÖzellikle orta yaşlı kadınlara kilo kontrolü için ders veren Peker Balcı, çalıştığı spor salonunda ölü bulundu. Başı kardiyo aletinin ağırlıkları altında ezilmişti. Onun kadar güçlü ve atak bir adamın, nasıl bu şekilde öldürüldüğü ise tam bir soru işaretiydi.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c070d21b93d96ba32050.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679c070d21b93d96ba32050",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3958_396\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "416",
+        "title": "Kanıt 86. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f9e.jpg"
+    },
+    "next_movie_data": {
+        "id": "418",
+        "title": "Kanıt 88. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdccf45af1064b71fa4.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-17T15:31:10+03:00"
+}
