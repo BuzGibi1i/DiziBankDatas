@@ -1,0 +1,43 @@
+{
+    "id": "81",
+    "title": "Akasya Durağı 027. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Karılarına kızan Osman ile Mehmet Hoca, evlerini terk edip, durakta yatıp kalkmaya başlıyor.\r\nİki erkek çocuk babası olacağını sanan Osman, hastanede iki kızı olduğunu öğrenince, kendisini kandırdığı için Safiye ile kavga eder ve evi terk eder. Osman, durakta yatıp kalkmaya başlar. Bütün şoförler Osman’a evine dönmesini önerirler. Ama Osman kararlıdır. Safiye’den boşanacaktır. \r\nMehmet’in kızı Nurten, kendisinden yirmi yaş büyük zengin bir adamla flört etmektedir. Mehmet bunu öğrenince çok sinirlenir ve Nurten’e bir tokat atar. Şükran attığı tokat yüzünden Mehmet’le kavga eder ve Mehmet evi terk eder. Mehmet de Osman gibi karısından boşanmak istemektedir. \r\nSinan kriz yüzünden eve para getiremeyince kaynanası Şaziment’ten fırça yer. Bunun üzerine kendine yeni bir iş bulur. Çok zengin bir kadının özel şoförlüğünü yapacaktır. Çok da iyi para kazanacaktır. Sinan duraktaki herkese hava atarak taksiciliği bırakır. Fakat çalıştığı evde de işler yolunda gitmeyecektir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041bb40201132a01ec3ac.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200665_706e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "80",
+        "title": "Akasya Durağı 026. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041b549678326243027f6.jpg"
+    },
+    "next_movie_data": {
+        "id": "82",
+        "title": "Akasya Durağı 028. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c1e50aa9372888e5a8.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

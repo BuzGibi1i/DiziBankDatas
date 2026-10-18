@@ -1,0 +1,38 @@
+{
+    "id": "150",
+    "title": "Akasya Durağı 084. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Aysel, kızı Tuğçe ve sanayici kocası Kemal Bey ile birlikte rüya gibi zengin bir hayat sürmektedirler. Fakat Kemal Bey’in işleri bozulur ve iflas eder. İflası gururuna yediremeyen Kemal Bey intihar edince Aysel ve kızı Tuğçe bu tatlı rüyadan uyanmak zorunda kalırlar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae064afe50aa9372888e5c7.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae064afe50aa9372888e5c7",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149767_3564\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "next_movie_data": {
+        "id": "151",
+        "title": "Akasya Durağı 085. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0652a86857632047d4902.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

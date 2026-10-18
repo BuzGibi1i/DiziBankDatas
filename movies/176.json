@@ -1,0 +1,43 @@
+{
+    "id": "176",
+    "title": "Akasya Durağı 110. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ünlü manken Merve Şen’in katalog çekimi vardır. Duraktan taksi isterler ve Arif gelir. Merve ile Arif takside tanışırlar. Arif kızdan çok hoşlanır ve iltifatlar eder. Merve, Arif’ten kurtulmak için ona yalandan bir cep telefonu numarası verir. Arif daha sonra telefon numarasını arar. Şişman Ayten adında bir kadının telefonudur bu. Arif, Ayten’e buluşmak istediğini söyler. Ayten bu teklifin, iltifatların üstüne atlar ve Arif’i evine çağırır. Arif koşa koşa Ayten’in evine gider. Gerçekle karşılaşınca şoke olur ancak Ayten’in ağabeyleri Arif’i evliliğe zorlarlar.\nSinan’a lotodan para çıkar. Şaziment, Sinan’ın paralarını elinden alır ve gidip altına çevirir. Bir gazeteci bu olayı haber yapar. Şaziment gazeteye çıkar. Seyit’in taksisine binen Hıdır ve Turgay, gazetedeki haberi okur ve Seyit’ten Şaziment’in adresini alıp, onu kaçırır ve Sinan’dan fidye isterler.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae07325f0dc1e3c6cba85dc.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae07325f0dc1e3c6cba85dc",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/152996_55db\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "175",
+        "title": "Akasya Durağı 109. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae072b2496783262430285a.jpg"
+    },
+    "next_movie_data": {
+        "id": "177",
+        "title": "Akasya Durağı 111. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae073b9f0dc1e30f8039876.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

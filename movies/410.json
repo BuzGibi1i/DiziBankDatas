@@ -1,0 +1,43 @@
+{
+    "id": "410",
+    "title": "Kanıt 80. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sokak ortasında bulunan, saçları ıslak ve alelacele giyinmiş gibi görünen kurban, nasıl öldürülmüştü? Cebinden çıkan mermilerin sırrı neydi? Birini mi kovalıyor, yoksa birinden mi kaçıyordu?\n\nHer cevap, yeni bir soruya neden oluyordu. Soruşturma sırasında bulunan kamera kayıtlarındaki görüntülerden, işkence gördüğü ve tecavüze uğradığı anlaşılan kız kimdi? Kayıp olan kız hala hayatta mıydı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c04dd21b93d96ba32048.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679c04dd21b93d96ba32048",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/0089_793\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "409",
+        "title": "Kanıt 79. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c022d21b93d96ba3203d.jpg"
+    },
+    "next_movie_data": {
+        "id": "411",
+        "title": "Kanıt 81. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdacf45af1064b71f8f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

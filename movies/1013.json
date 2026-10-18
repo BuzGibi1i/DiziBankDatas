@@ -1,0 +1,42 @@
+{
+    "id": "1013",
+    "title": "Çukur - Bölüm 60",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 27. Bölümünde (Çukur 60. Bölüm);Yamaç, Mahsun'un izini yakalarken, ikili arasında yaşanacak aksiyon dolu yüzleşme nefesleri kesiyor.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/04\/10\/2EE31950CEE6CE27D6CC59BA07AAE8F2_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1012",
+        "title": "Çukur - Bölüm 59",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1014",
+        "title": "Çukur - Bölüm 61",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

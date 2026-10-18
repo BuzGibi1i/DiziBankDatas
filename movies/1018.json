@@ -1,0 +1,42 @@
+{
+    "id": "1018",
+    "title": "Çukur - Bölüm 65",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. sezonun 32. bölümünde (65. Bölüm); Koçovalılar birbirlerinden bugüne kadar verdikleri kayıpların hesabını soracaklar.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/05\/14\/69D8A9658DF0BFB7E61E6BE715613CD3_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1017",
+        "title": "Çukur - Bölüm 64",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1019",
+        "title": "Çukur - Bölüm 66",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

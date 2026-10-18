@@ -1,0 +1,42 @@
+{
+    "id": "990",
+    "title": "Çukur - Bölüm 37",
+    "year": 2018,
+    "language": "tr",
+    "description": "Çukur 37. Bölümünde; Yamaç, Vartolu ve Cumali güçlerini birleştirir. Koçovalı Kardeşler, Çukur'u yeniden kazanmak için harekete geçerler.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2024\/04\/16\/A83C3927A6E238A7BC45E719C84FC4AB_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "989",
+        "title": "Çukur - Bölüm 36",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "991",
+        "title": "Çukur - Bölüm 38",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

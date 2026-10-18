@@ -1,0 +1,42 @@
+{
+    "id": "212",
+    "title": "Akasya Durağı 146. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/vXbOfRslvZU\/hqdefault.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=vXbOfRslvZU",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "211",
+        "title": "Akasya Durağı 145. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/cJhVlbDfW9o\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "213",
+        "title": "Akasya Durağı 147. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/Mf4MBC1z1bQ\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

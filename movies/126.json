@@ -1,0 +1,43 @@
+{
+    "id": "126",
+    "title": "Akasya Durağı 060. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Nuri Baba’nın oğlu Mert, babasının karşı çıkmasına rağmen hala dansöz Işıl’la birliktedir. Işıl’ın belalısı Haydar hapisten çıkar. Işıl parasını almak için Mert’e bir tezgâh kurar. Mert parayı Işıl’a teslim etmek için gittiğinde Haydar, Mert’i bıçaklar. \nOsman’ın karısı Safiye’nin evine bir üfürükçü gelir. Onlara büyü yapıldığını söyler ve büyüyü kaldırmak için evdeki bütün altınları okumak istediğini söyler. Üfürükçüye inanan Safiye altınları okuması için kadına verir. Fakat üfürükçünün oyununa gelir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06584496783262430281a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06584496783262430281a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201644_c1e0\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "125",
+        "title": "Akasya Durağı 059. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0657656593434781bebd9.jpg"
+    },
+    "next_movie_data": {
+        "id": "127",
+        "title": "Akasya Durağı 061. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04199f0dc1e30f80397e2.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

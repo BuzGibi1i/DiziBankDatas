@@ -1,0 +1,43 @@
+{
+    "id": "754",
+    "title": "İşler Güçler 34.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Salih ve Cavit için kırmızı alarm...Salih ve Ekürisi Cavit için kırmızı alarm. Banka soygunu planları öyle pek filmlerdeki gibi değilmiş. Plan B icin kolları sıvıyor Salih ve Cavit. Planı gerçekleştirmek için Münir ve Boomcu Onur'u da ikna etmeleri gerek. Ahmet ve Feride konuşarak anlaşamama evresindeler. Birinin akım dediğini diğeri salkım anlıyor ve işler karışıyor. Yayın Günü    :  26 Mart Salı Yayın Saati    :  22.30",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/daf2272043c2a0404efb92db.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=AlmavrkQF8I",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "753",
+        "title": "İşler Güçler 33.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/552f19eb40638c20052a92b0.jpg"
+    },
+    "next_movie_data": {
+        "id": "755",
+        "title": "İşler Güçler 35.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/040039ce4409b0317d9cdabf.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "235",
+    "title": "Akasya Durağı 169. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir marketin on bininci müşterisi olan Osman ve ailesi Amerika tatili kazanıyor. Ancak bindikleri uçak korsanlar tarafından kaçırılınca ortalık şenleniyor.\n\nSinan’ın taksisine bir maymun biner. Sinan’ın durağa götürdüğü maymun, etrafta duran şeyleri çalmaya başlar ve durakta herkesin eşyaları bir bir kaybolur.\n\nGüven, Gülbin’in kuaföründe çalışan Müjde’ye kafayı takar. Ancak kız ona yüz vermez. Vakkas kız tavlama tekniklerini iyi bildiğini iddia eder ve Güven’e kız tavlama taktikleri hakkında bilgi verir. Ancak aynı kızdan Vakkas da hoşlanmaktadır ve Güven’in beğendiği kızın, kendisinin de beğendiği kız olduğunu bilmemektedir.\n\nOsman ve ailesi, bir marketin, on bininci müşterisine hediye edeceği Amerika tatilini kazanırlar. Osmanlar hemen Amerika’ya yolculuk için uçağa binerler fakat uçağı korsanlar kaçırır. Hayri bir şekilde uçak içinden görüntüyü internete sızdırır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e63.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef7cf45af1064b70e63",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160515_bfdb\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "234",
+        "title": "Akasya Durağı 168. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e60.jpg"
+    },
+    "next_movie_data": {
+        "id": "236",
+        "title": "Akasya Durağı 170. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e66.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1016",
+    "title": "Çukur - Bölüm 63",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 30. Bölümünde (Çukur 63. Bölüm);  Bir kayıpla daha baş edecek gücü olmayan Koçovalılar, dört bir koldan Akşın'ı bulmak için seferber olacak.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/04\/30\/416DDFA0E18C58C4CC355F683C1553A5_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1015",
+        "title": "Çukur - Bölüm 62",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1017",
+        "title": "Çukur - Bölüm 64",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

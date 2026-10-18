@@ -1,0 +1,43 @@
+{
+    "id": "369",
+    "title": "Kanıt 39. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sahilde bir silahlı saldırı ihbarı alan ekip, kimliği belirsiz genç bir kızın cesediyle karşılaşır. Yerde yatanın, Türkiye’nin en büyük holding patronlarından birinin kızı olduğunu öğrenmeleri de uzun sürmez. Ela, hız, heyecan ve adrenalin tutkusu yüzünden kendi sonunu mu hazırlamıştır? Yoksa olayın arkasında, para, gizemli\nihaleler, aşk, kıskançlık ya da tüm bunlardan çok daha büyük bir güç mü vardır?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5a586573a781b60320a958ec.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5a586573a781b60320a958ec",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/7cce_1115\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "368",
+        "title": "Kanıt 38. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/RiyxyZENxHg\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "370",
+        "title": "Kanıt 40. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bc82d21b93d96ba31f38.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

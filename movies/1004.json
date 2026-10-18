@@ -1,0 +1,42 @@
+{
+    "id": "1004",
+    "title": "Çukur - Bölüm 51",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 18. Bölümünde;Koçovalılar, Yamaç'ın sağlığının giderek iyiye gittiğine sevinirken Yamaç'ın aldığı bir karar, onu yeniden tehlikeye sürükleyecek.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/02\/05\/2F8191C92BA7CD6B5B21CD561D107619_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1003",
+        "title": "Çukur - Bölüm 50",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1005",
+        "title": "Çukur - Bölüm 52",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

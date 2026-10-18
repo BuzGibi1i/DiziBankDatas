@@ -1,0 +1,48 @@
+{
+    "id": "585",
+    "title": "E.D.H.O. Bölüm 129",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 129",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/03\/20\/eskiya-dunyaya-hukumdar-olmaz-1553071306392.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/129_k5pf\/a1473f79-b5b8-4b54-98b6-43191e6da7df.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/129_k5pf\/a1473f79-b5b8-4b54-98b6-43191e6da7df_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "584",
+        "title": "E.D.H.O. Bölüm 128",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/03\/11\/eskiya-dunyaya-hukumdar-olmaz-1552287826736.jpg"
+    },
+    "next_movie_data": {
+        "id": "586",
+        "title": "E.D.H.O. Bölüm 130",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/03\/25\/eskiya-dunyaya-hukumdar-olmaz-1553497864276.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

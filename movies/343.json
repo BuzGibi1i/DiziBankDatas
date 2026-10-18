@@ -1,0 +1,43 @@
+{
+    "id": "343",
+    "title": "Kanıt 13. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Büşra Erman 20 yaşında. Tiyatro bölümü öğrencisi. Kız yurdunda, kendi odasında yüzünden tek kurşunla vurularak öldürülmüş halde bulundu. Başkomiser Orhan ve yardımcısı Selim, ilk bakışta  kıskançlık cinayeti olarak görülen Büşra’nın ölümünü aydınlatmak için harekete geçti.\nBüşra gerçekten kıskanç sevgilisi Cenk tarafından mı öldürülmüştü? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b87cd21b93d96ba31e98.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b87cd21b93d96ba31e98",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f029_1568\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "342",
+        "title": "Kanıt 12. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b852d21b93d96ba31e8e.jpg"
+    },
+    "next_movie_data": {
+        "id": "344",
+        "title": "Kanıt 14. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b8a2d21b93d96ba31ea1.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

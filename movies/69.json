@@ -1,0 +1,43 @@
+{
+    "id": "69",
+    "title": "Akasya Durağı 015. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Çapkınlık peşinde koşan Sinan ile Osman, AIDS korkusuyla karşı karşıya kalıyor.\r\nTuğçe, Erhan adında bir lise öğrencisine evde matematik dersi vermeye başlar. Melahat ve Murat, Tuğçe’nin ders vermesine karşıdırlar. Fakat Tuğçe onları dinlemez. Şükran, hamile olduğundan şüphelenir. Şükranın hamile olduğunu öğrenen çocuklar evde kıyameti koparırlar. Hiç biri bu yeni bebeği istememektedir. Mehmet Öğretmen ise çocuklarının aksine bebeği istemektedir. \r\nSeyit ve Zeyno’nun borçları giderek artmaktadır. Zeyno çalışmak istediğini söyler ama Seyit kabul etmez. Bunun üzerine Zeyno da gizlice Gülbin’in kuaför dükkanında çalışmaya başlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039b340201132a01ec386.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162392_ab1b\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "68",
+        "title": "Akasya Durağı 014. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a86ce436345c661105.jpg"
+    },
+    "next_movie_data": {
+        "id": "70",
+        "title": "Akasya Durağı 016. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04160e50aa9372888e59e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "371",
+    "title": "Kanıt 41. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "TÃ¼rkiyeânin sevgilisi Berk SÃ¼mer, âSÄ±nÄ±rsÄ±zlarâ adlÄ± dizinin setinde, Ã§ekimler sÄ±rasÄ±nda gÃ¶ÄsÃ¼nden vuruldu! Berkâin rakibi Atakan TuncaânÄ±n olayla bir ilgisi var mÄ±ydÄ±? Kuru sÄ±kÄ± kurÅunlarla, gerÃ§ek kurÅunlarÄ± kim deÄiÅtirdi? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ea00ce73ab166190c654b9e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ea00ce73ab166190c654b9e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3c43_1116\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "370",
+        "title": "Kanıt 40. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bc82d21b93d96ba31f38.jpg"
+    },
+    "next_movie_data": {
+        "id": "372",
+        "title": "Kanıt 42. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58ca43ede50aa9237816d060.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "196",
+    "title": "Akasya Durağı 130. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "HÃ¼so ve Fiko, Ramazanâda davul Ã§alÄ±p, para kazanmak isterler ancak bu iÅi korsan yapmaktan baÅka Ã§areleri yoktur. Ä°kili, gerÃ§ek Ramazan davulcularÄ± ile karÅÄ±laÅÄ±nca ortalÄ±k karÄ±ÅÄ±r. GÃ¼lbin, kuafÃ¶r salonunda iÅlerin yoluna girmesi iÃ§in deÄiÅiklik yapar ve dÃ¼kkÃ¢nÄ± ikiye bÃ¶lÃ¼p erkeklere de hizmet verir. DÃ¼kkÃ¢nda GÃ¼lbin bir erkeÄin saÃ§larÄ±nÄ± keserken, Åaziment de baÅka birini traÅ eder. Ancak Sinan bu olayÄ± duyduÄunda bÃ¼yÃ¼k kavga Ã§Ä±karÄ±r. Pavyon ÅarkÄ±cÄ±sÄ± Cansu, Ã¼niversiteli ÅofÃ¶r Emreâye kur yapÄ±nca Ä°pek kÄ±skanÃ§lÄ±k yapar, duraktakiler de onun Emreâye olan ilgisini fark ederler.\nÃÄ±nar, Dilek ile evlenmenin yollarÄ±nÄ± ararken mafya babasÄ± Tahir, onun bu derdine Ã§Ã¶zÃ¼m bulacaÄÄ±nÄ± sÃ¶yler ve OsmanâÄ±n karÅÄ±sÄ±na dikilir. Tahirâden korkan Osman, Dilekâi vermeye razÄ± olur ancak, istenme iÅleri bitince Osman ailesini taksiye bindirir ve kaÃ§ma giriÅiminde bulunur. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef3cf45af1064b70e24.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef3cf45af1064b70e24",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/157418_f663\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "195",
+        "title": "Akasya Durağı 129. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9c69d21b93d96ba321f1.jpg"
+    },
+    "next_movie_data": {
+        "id": "197",
+        "title": "Akasya Durağı 131. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e27.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

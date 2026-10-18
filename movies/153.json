@@ -1,0 +1,43 @@
+{
+    "id": "153",
+    "title": "Akasya Durağı 087. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akasya Durağı 087. Bölüm",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0664186857632047d4920.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=KCDy0ITa4UY",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "152",
+        "title": "Akasya Durağı 086. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae065c76ce436345c66119e.jpg"
+    },
+    "next_movie_data": {
+        "id": "154",
+        "title": "Akasya Durağı 088. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae066beac1fe339f48b59df.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

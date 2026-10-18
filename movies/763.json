@@ -1,0 +1,43 @@
+{
+    "id": "763",
+    "title": "İşler Güçler 6. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ahmet, Murat ve Sadi film çekme hayalleri kuran ve parayı toplamak için 'Meslek Hikâyeleri' adlı belgesel programında sunuculuk yapan üç aktördür. Amaçları bu programdan para topladıktan sonra gişe rekorları kıracak bir film çekmektir fakat çektikleri program yayınlanmayınca daha iyi bir bölüm çekmek için kolları sıvarlar.",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/ezye8Q9yZlc\/maxresdefault.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=ezye8Q9yZlc",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "726",
+        "title": "İşler Güçler 5. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b43f9eec4858867fc36f7a58.jpg"
+    },
+    "next_movie_data": {
+        "id": "727",
+        "title": "İşler Güçler 7.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/99f814074356bdac850eeb45.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

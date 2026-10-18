@@ -1,0 +1,43 @@
+{
+    "id": "352",
+    "title": "Kanıt 22. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Karmaşık ilişkiler. Tükenmiş evlilikler. Ve adım adım yaklaşan ölüm…\nAyla Sönmez. Doğum günü için evinde verdiği kostümlü baloda, havuzda boğulmuş olarak bulundu. Abartılı kostümü yüzünden kurtulamamıştı. Çok geçmeden ölüm nedeninin anafilaktik şok olduğunun öğrenilmesi kaza ihtimalini akıllardan sildi.\nAyla’yı kim, neden öldürmek istemişti? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba2dd21b93d96ba31efc.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679ba2dd21b93d96ba31efc",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/763e_1590\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "351",
+        "title": "Kanıt 21. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba02d21b93d96ba31ef2.jpg"
+    },
+    "next_movie_data": {
+        "id": "353",
+        "title": "Kanıt 23. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba55d21b93d96ba31f08.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

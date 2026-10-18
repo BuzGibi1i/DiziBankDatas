@@ -1,0 +1,43 @@
+{
+    "id": "274",
+    "title": "Yalan Dünya 34. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Emir’e bir sırrını paylaşan Çağatay, Cihangir’in karışmasına sebep oluyor. Rıza, Deniz’i, Bünyamin Zerrin'i, Emir kafedeki kızları, Orçun Eylem’i etkisi altına almak için meşhur dut likörünün peşine düşüyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70c02.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed3cf45af1064b70c02",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/e65e_1316\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "273",
+        "title": "Yalan Dünya 33. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bff.jpg"
+    },
+    "next_movie_data": {
+        "id": "275",
+        "title": "Yalan Dünya 35. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed4cf45af1064b70c05.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

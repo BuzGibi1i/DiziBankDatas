@@ -1,0 +1,43 @@
+{
+    "id": "166",
+    "title": "Akasya Durağı 100. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akasya Durağı’nın yeni yerinde açılışı, halaylar, davul zurnalarla kutlanır. Mazhar Bey de bu güzel günde taksi şoförlerini yalnız bırakmaz.\nOsman Ağa yeni durağın ilk müşterisine gitmek için yola çıkar ancak Safiye no frost buzdolabı istemekte ve telefonla Osman’ı taciz etmektedir. Safiye’nin bitmek bilmeyen isteklerine sinirlenen Osman, şekeri yükselince insülin iğnesi yapar ve arabasının arka koltuğunu uzanır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06ca686857632047d4977.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06ca686857632047d4977",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150982_18fe\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "165",
+        "title": "Akasya Durağı 099. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06c406ce436345c6611db.jpg"
+    },
+    "next_movie_data": {
+        "id": "167",
+        "title": "Akasya Durağı 101. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06d3b4967832624302853.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

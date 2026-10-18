@@ -1,0 +1,38 @@
+{
+    "id": "55",
+    "title": "Akasya Durağı 001. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Evlerine ve bütün mal varlıklarına haciz gelmiştir. Aysel’in ve kızının gidecek hiçbir yerleri yoktur. \r\nKemal Beyin intiharını televizyon haberlerinden öğrenen Nuri Bey hemen Aysel’in yardımına koşar. Nuri Bey, yıllar önce Kemal Bey’in özel şoförü olarak çalışmıştır. Sonraları ayrılıp bir taksi durağı kurmuştur. Şimdi Kemal Bey’e ve ailesine olan vefa borcunu ödemek istemektedir. \r\nNuri Bey Aysel ve kızına kendi mahallelerinde eski ama şirin bir ev bulur. Aysel iş aramaya başlar. Eski tanıdıklarının vasıtası ile bir iş bulmayı ummaktadır. Fakat yüksek tahsili ve yabancılı dili olmadığı, bilgisayar kullanmayı da bilmediği için iş bulamaz. Anne kız bu hayat mücadelesinde birbirlerine destek olurlar. Bütün umutlarının bittiği anda yardımlarına yine Nuri Bey koşar. Aysel’e kendi taksi durağında şoförlük işi verir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0350a56593434781beb58.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/161929_b4b5\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "next_movie_data": {
+        "id": "56",
+        "title": "Akasya Durağı 002. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03574f0dc1e30f803977e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

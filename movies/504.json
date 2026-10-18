@@ -1,0 +1,48 @@
+{
+    "id": "504",
+    "title": "E.D.H.O. Bölüm 48",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 48",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/11\/22\/960x565\/1479802592797.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/048\/eskiya_dunyaya_hukumdar_olmaz_048.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/048\/eskiya_dunyaya_hukumdar_olmaz_048_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "503",
+        "title": "E.D.H.O. Bölüm 47",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/11\/15\/960x565\/1479108424344.jpg"
+    },
+    "next_movie_data": {
+        "id": "505",
+        "title": "E.D.H.O. Bölüm 49",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/11\/29\/960x565\/1480316856872.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

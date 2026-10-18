@@ -1,0 +1,43 @@
+{
+    "id": "162",
+    "title": "Akasya Durağı 096. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Dilek’in Yunanlı sevgilisi Stelyo, Dilek’le evlenmek istemektedir fakat Dilek, Osman’ın hışmından korkmaktadır. Stelyo’nun ısrarlarına dayanamayıp onu eve annesiyle tanıştırmaya getirir. Stelyo’nun Yunan olduğunu öğrenen Safiye, Dilek’e kızar fakat,  Stelyo’nun Yunanistan’da vergi birincisi olduğunu öğrenince de hemen bir plan yapar. Yunanlı Stelyo’yu Osman’la tanıştırırken onu Bulgar Türkü Selahattin yapar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06a91a781b60218225b84.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06a91a781b60218225b84",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150845_0b0e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "161",
+        "title": "Akasya Durağı 095. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae069f2496783262430282a.jpg"
+    },
+    "next_movie_data": {
+        "id": "163",
+        "title": "Akasya Durağı 097. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06b21f0dc1e3c6cba85ce.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

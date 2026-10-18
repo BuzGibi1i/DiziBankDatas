@@ -1,0 +1,43 @@
+{
+    "id": "400",
+    "title": "Kanıt 70. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Buzdolabından çıkan kesik el kime aitti? Üzerindeki akrep dövmesi ne anlama geliyordu?  Elin sahibi cinayete mi kurban gitmişti? Kesik elin tırnak altlarında tespit edilen DNA, katile mi aitti? Ya kısa bir süre sonra bir arabanın bagajında bulunan erkek cesedi? Kesik elle, bulunan ceset arasında bir bağlantısı var mıydı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bedbd21b93d96ba31fd5.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bedbd21b93d96ba31fd5",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/49d3_942\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "399",
+        "title": "Kanıt 69. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bea5d21b93d96ba31fca.jpg"
+    },
+    "next_movie_data": {
+        "id": "401",
+        "title": "Kanıt 71. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bf08d21b93d96ba31fe2.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

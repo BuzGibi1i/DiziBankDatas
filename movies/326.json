@@ -1,0 +1,38 @@
+{
+    "id": "326",
+    "title": "Yalan Dünya 86. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Artık nişan için geri sayım başlamıştır. Son hazırlıklar tamamlanırken beklenen ilk kriz, yüzükleri kimin takacağı konusunda çıkar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c9e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eee0cf45af1064b70c9e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S7\/HLS_VOD\/46270_efbb\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "325",
+        "title": "Yalan Dünya 85. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c9b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

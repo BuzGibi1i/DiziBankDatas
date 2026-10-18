@@ -1,0 +1,48 @@
+{
+    "id": "629",
+    "title": "E.D.H.O. Bölüm 173",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 173",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/11\/25\/eskiya-dunyaya-hukumdar-olmaz-1606252669643.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/173_i7t9\/1b2b3a7d-36c9-4ad1-8507-ed6d459b8fe5.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/173_i7t9\/1b2b3a7d-36c9-4ad1-8507-ed6d459b8fe5_1200.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "628",
+        "title": "E.D.H.O. Bölüm 172",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/11\/16\/eskiya-dunyaya-hukumdar-olmaz-1605518594116.jpg"
+    },
+    "next_movie_data": {
+        "id": "630",
+        "title": "E.D.H.O. Bölüm 174",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/11\/30\/eskiya-dunyaya-hukumdar-olmaz-1606726732250.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "135",
+    "title": "Akasya Durağı 069. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hastanede çok az ömrü kaldığını öğrenen Osman, bu acıyla yaşayamayacağını düşünüp, kendisini vurması için kiralık bir katil tutuyor. Osman, Tolga’nın Leyla’ya getirdiği baklavayı yiyince şeker komasına girer ve hastaneye kaldırılır. Osman acı bir gerçekle karşılaşır. Çok az ömrü kalmıştır. Bu acıyla yaşayamayacağını düşünen Osman kendisini vurması için bir kiralık katil tutar. \nSinan’ın taksisine binen bir müşterisi, Sinan’ın şoförlüğünü çok beğenir ve ona iş teklif eder. Sinan duraktan ayrılıp turizm firmasında işe girer. Fakat yeni işinde onu büyük bir sürpriz beklemektedir. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041e049678326243027f8.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041e049678326243027f8",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149346_2ce7\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "134",
+        "title": "Akasya Durağı 068. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041d86ce436345c66113b.jpg"
+    },
+    "next_movie_data": {
+        "id": "136",
+        "title": "Akasya Durağı 070. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041eaf0dc1e30f80397ef.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

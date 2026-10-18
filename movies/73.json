@@ -1,0 +1,43 @@
+{
+    "id": "73",
+    "title": "Akasya Durağı 019. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Durağın mülkünün sahibi Mazhar, Melahat’a aşk mektubu yazar ve mektubu ona iletmesi için Ali Kemal’e verir. Ali Kemal ve Sinan ise, Melahat’ın ağzından aşk mektupları yazıp Mazhar’a götürürler ve ondan para almaya başlarlar. \r\nOsman’ın babasının altın köstekli saati kaybolur. Osman, Safiye’nin saati sattığından şüphelenmektedir. Bu yüzden kavga ederler ve Osman akşam döndüğünde saati evde görmek istediğini söyler. Şaziment bir medyumun suya bakarak kaybolan eşyaları bulduğunu söyleyince kadınlar adresi alıp medyuma giderler. Fakat aldıkları adres yanlış olunca başlarına gelmeyen kalmaz. \r\nMurat’ın avukatlık stajı yapması gerekmektedir. Melahat, Murat’a eski bir tanıdığının hukuk bürosunda staj ayarlar. Murat büroya gider. Yanında staj yapacağı Ahu Hanım, Murat’ı görür görmez ondan etkilenir. \r\nNuri Baba ile Ayşen arasındaki ilişki ise dolu dizgin ilerlemektedir. Ayşen hasta oğlunun tedavisi için para gerekli olduğunu söyleyince Nuri Baba Ayşen’e para yardımında bulunur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418aac1fe339f48b59c3.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162511_7185\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "72",
+        "title": "Akasya Durağı 018. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418286857632047d48ba.jpg"
+    },
+    "next_movie_data": {
+        "id": "74",
+        "title": "Akasya Durağı 020. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419156593434781beb92.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

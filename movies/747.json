@@ -1,0 +1,43 @@
+{
+    "id": "747",
+    "title": "İşler Güçler 27.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ekip, kariyer planlarının derdine düşer!İşler Güçler'de 'Kayp'ın beklenmedik sona erişi yüzünden, bütün ekip bir anda boşta kalmıştır. Şenol kendini etik değerlerle savunsa da, bütün ekibin öfkesini üstüne çekmiştir. Feride'den kariyer için neler yapılabileceğini öğrenen kadro, kariyerinin derdine düşer. Bir kaç gün süren bunalımlardan sonra, toparlanmanın vakti  gelmiştir. Şenol'un ise ekiple barışmak için deneyeceği şeyler vardır. Yayın Günü    :  22 Ocak Salı Yayın Saati    :  23.00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/735a3be0454d925716321556.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=pCsn290qKIk",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "746",
+        "title": "İşler Güçler 26.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a82c22274367a688af767256.jpg"
+    },
+    "next_movie_data": {
+        "id": "748",
+        "title": "İşler Güçler 28.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/48d3c6e24c6ab850858a7141.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

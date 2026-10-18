@@ -1,0 +1,43 @@
+{
+    "id": "427",
+    "title": "Kanıt 97. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kare Mimarlık’ın genç ve başarılı mimarı Berrin Uzel, şirketin düzenlediği bir kutlama partisi sırasında öldürüldü. Boğazına sivri bir cisim saplanmış olan maktulün tırnak altlarındaki deri hücreleri kime aitti? Çöp kovasında bulunan kanlı peçeteler neyi işaret ediyordu?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0d1d21b93d96ba32070.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679c0d1d21b93d96ba32070",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/1933_1074\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "426",
+        "title": "Kanıt 96. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fbc.jpg"
+    },
+    "next_movie_data": {
+        "id": "428",
+        "title": "Kanıt 98. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fc2.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

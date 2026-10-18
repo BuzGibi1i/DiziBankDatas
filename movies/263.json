@@ -1,0 +1,38 @@
+{
+    "id": "263",
+    "title": "Yalan Dünya 23. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Nurhayat ile Rıza’nın düğün hazırlıkları tam gaz devam etmektedir. Ancak nikahın telaşına dalan Kocabaşlar ve Nurhayat, Rıza’nın doğum gününü unutmuştur. Bu duruma çok gücenen Rıza, beklenmedik bir sürprizle karşı karşıya kalır. Yaz tatilinde bir sinema filmine evet diyen Emir, Açılay’ın aynı projede yer almasını sağlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be1.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed1cf45af1064b70be1",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/2f98_390\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "262",
+        "title": "Yalan Dünya 22. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bde.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

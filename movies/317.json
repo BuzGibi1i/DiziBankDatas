@@ -1,0 +1,43 @@
+{
+    "id": "317",
+    "title": "Yalan Dünya 77. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Timur’a daha genç görünmek isteyen Vasfiye, bir dizi estetik yaptırıyor. Ancak işi abartınca estetik kurbanı oluyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c83.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eedecf45af1064b70c83",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S7\/HLS_VOD\/37310_1516\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "316",
+        "title": "Yalan Dünya 76. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c80.jpg"
+    },
+    "next_movie_data": {
+        "id": "318",
+        "title": "Yalan Dünya 78. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedecf45af1064b70c86.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

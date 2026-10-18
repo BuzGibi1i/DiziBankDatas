@@ -1,0 +1,43 @@
+{
+    "id": "198",
+    "title": "Akasya Durağı 132. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Naciye cinayetten hapse girmiÅ, iri kÄ±yÄ±m, vurduÄu yerden ses getiren ve Tahirâin eski yavuklusu olan kadÄ±ndÄ±r. BulunduÄu hapishanede koÄuÅ aÄalÄ±ÄÄ± yapar. Naciye, Tahirâin Åaziment ile evleneceÄini Ã¶Ärenince Ã§ok sinirlenir. Tahir iÃ§in intikam planlarÄ± yaparken tahliye mÃ¼jdesi gelir. Eleni, Nuri Baba ile nikah tazelemeye karar verir ve bu arada diÄer kadÄ±nlarÄ± da kocalarÄ± ile nikah tazelemeleri iÃ§in kÄ±ÅkÄ±rtÄ±r. Hep birlikte nikah dairesinde kocalarÄ± ile yeniden nikah masasÄ±na oturacaklarÄ±nda kapÄ± aniden aÃ§Ä±lÄ±r ve Naciye elinde silah ile iÃ§eri dalar. Duygu, Emreâye aÅÄ±ktÄ±r ve bir yolunu bulup onunla yakÄ±nlaÅmak ister. Duyguânun sinsi planÄ± sayesinde, sabah kapÄ±sÄ±na gelip zile basan Ä°pek, ÅaÅkÄ±nlÄ±k iÃ§inde kalacaktÄ±r. Duygu bir yolunu bulmuÅ ve Ermeânin evinde kalmÄ±ÅtÄ±r. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e2a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef4cf45af1064b70e2a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158083_8473\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "197",
+        "title": "Akasya Durağı 131. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e27.jpg"
+    },
+    "next_movie_data": {
+        "id": "199",
+        "title": "Akasya Durağı 133. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e2d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

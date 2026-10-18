@@ -1,0 +1,43 @@
+{
+    "id": "146",
+    "title": "Akasya Durağı 080. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, at yarışından yüklü miktarda para kazınıyor ve televizyonlara ganyan talihlisi diye haber oluyor. Ardından da mafya Sinan’ın ve ailesinin peşine düşüyor. \nŞile yakınlarında nükleer atık variller bulunur. Olay yerine gelen nükleer araştırmalar ekibi, araştırma yaparken Arif ve Seyit oradan geçmektedirler. Kostümleri gören Arif onları uzaylı sanınca işler karışır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053ccf0dc1e3c6cba8537.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae053ccf0dc1e3c6cba8537",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149624_542f\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "145",
+        "title": "Akasya Durağı 079. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053c1ac1fe339f48b59cc.jpg"
+    },
+    "next_movie_data": {
+        "id": "147",
+        "title": "Akasya Durağı 081. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0541656593434781bebbe.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

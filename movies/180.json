@@ -1,0 +1,43 @@
+{
+    "id": "180",
+    "title": "Akasya Durağı 114. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan taksisine binen genç bir kıza, içinde örümcekler olan bir kavanoz ile şaka yapmaya kalkışınca, kız, üzerindeki örümcekten kurtulmak için korku ile buluzunu ve eteğini çıkarır. Sinan kahkahalarla gülerek bunun bir kamera şakası olduğunu söyler ve genç kızdan el sallamasını ister. Şaka televizyondan yayınlanır, herkes çok eğlenir. Ancak eğlenmeyen bir kişi vardır, o da genç kızın mafya sevgilisi Ejder. Ejder bu şakayı Sinan’a fena ödetecektir. Fiko yanında Hüso Ağa ile hayvan taşıyan bir kamyonda, sefalet içinde İstanbul’a gelir. Ancak Fiko, Aney’in ne tür erkeklerden hoşlandığını bildiği için planı iyi hazırlamıştır. İstanbul’a gelince bir limuzin kiralar ve Aney, Hüso Ağa ile çok zengin bir adammış gibi tanıştırılır. Aney ile Hüso Ağa vals yaparken Seyit onları görür. Ancak ikisinin beraberliği mutlu sona doğru gitmektedir. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae074eb56593434781bec59.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae074eb56593434781bec59",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/153421_e50b\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "179",
+        "title": "Akasya Durağı 113. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0748686857632047d4996.jpg"
+    },
+    "next_movie_data": {
+        "id": "181",
+        "title": "Akasya Durağı 115. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae07548f0dc1e30f8039883.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

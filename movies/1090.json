@@ -1,0 +1,42 @@
+{
+    "id": "1090",
+    "title": "Çukur - Bölüm 116",
+    "year": 2021,
+    "language": "tr",
+    "description": "Çukur 4. Sezon 24. Bölümünde (116. Bölüm) Yamaç, mahalledeki sokaklarda geçmişini ararken şaşırtıcı yeniliklerle karşılaşacak. Bir süre etrafında olup bitenleri anlamaya çalıştıktan sonra Cumali'nin karşısına çıktığında onun da çok değişmiş olduğunu görec",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2021\/02\/16\/D85CF39EE7FA03B9A0B62AF0176E6E50_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1089",
+        "title": "Çukur - Bölüm 115",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1091",
+        "title": "Çukur - Bölüm 117",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

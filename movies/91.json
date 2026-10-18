@@ -1,0 +1,43 @@
+{
+    "id": "91",
+    "title": "Akasya Durağı 037. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman’ın taksisine binen bir reklamcı Osman’ın yüzünü çok beğenir ve reklam teklifinde bulunur. Osman bu işlerde tarağı olmadığını söylese de duraktaki şoförler Osman’a oynaması için baskı yaparlar. Osman para için reklamda oynamayı kabul eder. Fakat Osman’ı büyük bir sürpriz beklemektedir. Mehmet Hoca eskiden tanıdığı bayan bir öğretmenle karşılaşır. Bayan öğretmenin tayini İstanbul’a çıkmıştır. Mehmet Hoca arkadaşına yardımcı olur ve onu bildiği temiz bir otele yerleştirir. Şükran Mehmet’le kadını otelin önünde görünce Mehmet’in kendisini aldattığını düşünmeye başlar. Seyit taksisine Sururi adında çok zengin bir adam alır. Sururi sarhoştur ve yalnızlıktan şikayet etmektedir. Seyit adama üzülür. Kısa sürede Seyit’le arkadaş olan Sururi ona kaset yapma sözü verir. Seyit şoförlükten istifa eder. Ama işler hiç de umduğu gibi gitmeyecektir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422404207c23e8e2d013.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200889_bbfa\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "90",
+        "title": "Akasya Durağı 036. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0421e49678326243027fd.jpg"
+    },
+    "next_movie_data": {
+        "id": "92",
+        "title": "Akasya Durağı 038. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042296ce436345c661142.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

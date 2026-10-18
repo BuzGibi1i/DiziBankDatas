@@ -1,0 +1,43 @@
+{
+    "id": "79",
+    "title": "Akasya Durağı 025. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman, Sinan’a bir şaka hazırlıyor. Buna göre; Osman ve Seyit kendilerine soyguncu süsü verip, Sinan’ın taksisine bineceklerdir. Fakat Sinan’ın taksisine gerçek soyguncular binince işler karışıyor. \r\nMurat bir yayaya çarptığı gerekçesi ile nezarettedir. Murat’ın peşini bir türlü bırakmayan Ahu,\r\nbu sefer de Murat’ı savunmak bahanesiyle gelip onu ziyaret eder. Bu sırada Melahat da karakola Murat’ı ziyarete gelir ve Ahu ile Murat’ın tartışmasını duyar. Melahat, Murat’ın suçsuz olduğunu anlar. \r\nOsman, bebeklerinin kız olduğunu henüz öğrenmemiştir. Sinan, Osman’a durakta bu konuyla ilgili şakalar yapar ve onu sinirlendirir. Bunun üzerine Osman, Sinan’a asla unutamayacağı bir şaka yapmak ister. Osman ve Seyit kendilerine soyguncu süsü verip, maske takarak Sinan’ın taksisine bineceklerdir. Sinan bunu öğrenir. Fakat Sinan’ın taksisine gerçek soyguncular biner. Sinan gerçek soyguncuları Osman ve Seyit sanınca işler karışır. \r\nDoktor Levent, Melahat’a duyduğu aşkı itiraf eder. Melahat da Levent’e karşı boş değildir. Fakat Levent’in ayrıldığı eski eşi Arzu ortaya çıkar. Arzu, Melahat’la Levent’in kavuşmalarına izin vermeyecektir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041aff0dc1e30f80397e9.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200659_7062\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "78",
+        "title": "Akasya Durağı 024. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a986857632047d48c5.jpg"
+    },
+    "next_movie_data": {
+        "id": "80",
+        "title": "Akasya Durağı 026. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041b549678326243027f6.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "425",
+    "title": "Kanıt 95. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "KimliÄi belirsiz bir kadÄ±n ormanda gÃ¶mÃ¼lÃ¼ olarak bulundu. Ãok geÃ§meden aynÄ± bÃ¶lgede bulunan ikinci bir ceset akÄ±llara, o bilindik soruyu getirdi. Ä°ki kadÄ±nÄ±n da katili aynÄ± kiÅi olabilir miydi? KÄ±sa sÃ¼re sonra bulunan Ã¼Ã§Ã¼ncÃ¼ bir ceset ise olaylarÄ± daha da karÄ±ÅtÄ±rdÄ±. ÃÃ§ kadÄ±nÄ±n da kaderini birbirine baÄlayan neydi? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efddcf45af1064b71fb9.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efddcf45af1064b71fb9",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/cda8_501\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "424",
+        "title": "Kanıt 94. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0b2d21b93d96ba32067.jpg"
+    },
+    "next_movie_data": {
+        "id": "426",
+        "title": "Kanıt 96. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fbc.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

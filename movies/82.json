@@ -1,0 +1,43 @@
+{
+    "id": "82",
+    "title": "Akasya Durağı 028. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan’ın yaptığı bir işgüzarlığın ardından ortalık yine şenleniyor. Sinan, ABD Başkanı Barack Obama’nın bir akrabasının Türkiye’de olduğunu öğrenince hemen harekete geçer ve Obayana’yı televizyonlara Barack Obama’nın akrabası olarak çıkartır. Safiye ve Osman, Obayana’nın  Obama’nın akrabası olduğunu öğrendiklerinde şoke olurlar. Başkan Barack Obama ile dünür olacaklardır. Obayana, Dilek’i istemeye gelir. Ama bu sırada yaşanan beklenmedik bir gelişme her şeyi altüst eder. \r\nAli Kemal’in dayısı, Ali Kemal’i köyden arar ve ona, annesinin, hasımlarının babası Tursun’a kaçtığını, bu işi temizlemenin de kendisine düştüğünü söyler. Ali Kemal, Tursun’u vurmak için bir tabanca alır. Anası ve Tursun onu ziyarete geldiklerinde Tursun’u vuracaktır. Fakat gelişmeler hiç de Ali Kemal’in umduğu gibi gitmez.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c1e50aa9372888e5a8.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200668_7074\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "81",
+        "title": "Akasya Durağı 027. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041bb40201132a01ec3ac.jpg"
+    },
+    "next_movie_data": {
+        "id": "83",
+        "title": "Akasya Durağı 029. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c656593434781beba3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

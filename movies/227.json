@@ -1,0 +1,43 @@
+{
+    "id": "227",
+    "title": "Akasya Durağı 161. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hayri’yi kendi kasabasındaki belediye başkanı arar ve beldedeki festivale katılıp sihirbazlık yapmasını, Dilek’in de şarkı söylemesini rica eder. Hayri başkanı kıramaz ve “tamam” der. Osman, Dilek’in şarkı söylemesini istemediği için, Hayri bir plan yapar ve teyzesinin ölüm döşeğinde olduğunu söyleyip, Dilek’i alır ve gider. Ancak Hayri’nin yalanın ortaya çıkması çok uzun sürmez. Seyit’e komşusu cilve yapmaktadır. Kadın, elinde yaptığı kekle Seyit’in evine gelir ve zorla kendini davet ettirir. Bu sırada Zeyno içeri girer. Gördüklerini yanlış anlayan Zeyno evi terk eder ve teyzesinin yanına gider. Seyit de Zeyno’yu eve geri döndürebilmek için teyzesinin evinin önünde açlık grevine başlar.   Eleni, Nuri Baba’nın kıyafetlerine takmıştır. Bunun üstüne Nuri Baba, gençlerin alışveriş yaptığı bir yerden alışveriş yapar, saçına da uzunca bir peruk takar ve Eleni’yle buluşmaya gider. Eleni çok beğenir. Nuri Baba bir de motosiklet bulmuştur ve onunda dolaşmaktadır. Eleniyle buluşan Nuri Baba, motosikletiyle durak yakınlarındayken Osman’la kaza yaparlar ve tartışmaya başlarlar. Bu sırada Eleni ve Nuri Baba kaskı çıkarınca duraktan koşup gelenler de şaşırıp kalırlar. İpek’in taksisine binen reklamcı müşteri İpek’i çok beğenir ve reklamda oynatmak ister. Adam İpek’i duş jeli reklamında oynatmak istemektedir. İpek kimsenin haberi olmadan reklamcıyı arar ve reklam işini alır fakat, çekimlerde soyunması gerektiğini söylerler. İpek işten vazgeçer, vakti olmayan reklamcı bir büstiyerle işi halledebileceklerine İpek’i ikna eder. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4b.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef6cf45af1064b70e4b",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158767_1f10\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "226",
+        "title": "Akasya Durağı 160. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e48.jpg"
+    },
+    "next_movie_data": {
+        "id": "228",
+        "title": "Akasya Durağı 162. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

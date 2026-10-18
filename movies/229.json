@@ -1,0 +1,43 @@
+{
+    "id": "229",
+    "title": "Akasya Durağı 163. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman’ın ailesi tatile gitmek ister. Osman, Nuri Baba’yla konuşarak karavanını ödünç alır ve cümbür cemaat yola çıkarlar. Yolda, otostop çeken mini şortlu bir kıza rastlarlar. Osman ve Hayri kızı karavana alır. Kız, bir süre sonra tuvalet ihtiyacı olduğunu söyler ve durular. Bu sırada polisler gelir, Osmanlar’ın karavanında arama yapar ve tarihi eser değeri olan bir heykelcik bulurlar. Kız, tarihi eser kaçırmaktadır ve polisleri görünce kaçar. Kız yakalanır ve polisler Osmanlar’ı bırakırlar. Şile’ye gidip tatil yapmaya başlayan Osmanlar’ın yanına iki genç gelir ve kumun çok şifalı olduğunu söylerler. Osmanlar’ı kuma gömen iki hırsız, onları soyar ve karavanı da alıp giderler.\n\nİpek ve Merve beraber tenise başlamaya karar veriler. Tenis hocaları oldukça yakışıklıdır. Arif ve Emre kıskançlık yaparlar. Kursa gelen ikili, hocaların kızlara kur yaptıklarını duyunca onları döverler.\n\nGüven sahte parfüm satan bir arkadaşıyla karşılaşır ve sahte parfüm işine girmeye karar verir. Duraktakiler, Babalar Günü hediyesi olarak Nuri Baba’ya Güven’in parfümlerinden alırlar. Güven evde parfümleri yaparken Sinan’a yakalanır ve uygun bir komisyonla anlaşırlar. Duraktakiler sahte parfümden kaşınmaya başlayınca Sinan, parfümlerin sahte olduğunu söyler. Tüm ahali de Güven’in peşine düşer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e51.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef6cf45af1064b70e51",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160362_e800\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "228",
+        "title": "Akasya Durağı 162. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4e.jpg"
+    },
+    "next_movie_data": {
+        "id": "230",
+        "title": "Akasya Durağı 164. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e54.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

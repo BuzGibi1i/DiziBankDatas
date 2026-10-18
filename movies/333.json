@@ -1,0 +1,43 @@
+{
+    "id": "333",
+    "title": "Kanıt 03. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Başkomiser Orhan ve yardımcısı Selim, bir yandan kurbanın kimliğini tespit etmeye çalışırlarken diğer yandan da cinayeti aydınlatmak zorundadırlar. Kısa zamanda kendilerini karmakarışık ilişkiler yumağının ortasında bulurlar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c799d21b93d96ba3208b.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679c799d21b93d96ba3208b",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3f12_1539\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "332",
+        "title": "Kanıt 02. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667421b1d21b93d96ba31d5d.jpg"
+    },
+    "next_movie_data": {
+        "id": "334",
+        "title": "Kanıt 04. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b3acd21b93d96ba31e3e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

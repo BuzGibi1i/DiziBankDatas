@@ -1,0 +1,43 @@
+{
+    "id": "191",
+    "title": "Akasya Durağı 125. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Merve, Arif’e sürpriz yapmak için onun nüfus cüzdanını alıp nikâh için gün almaya gider ancak, yapılan küçük bir araştırmanın ardından Arif‘in evli olduğu çıkar. Bu arada bir esnaf durağa gelir ve Arif’in kendilerinden beyaz eşya aldığını, borcunu da ödemediğini söyler. Bir kadın kucağında bebekle gelir ve bebeğin babasının Arif olduğunu söyler. Arif de duraktakiler kadar şaşkındır. Anlaşılır ki, biri Arif’in kimlik bilgilerini kullanarak her türlü dolandırıcılığı yapmaktadır. Sinan parlak bir fikir bulur. Arif Keser’e bir market çekilişinden araba çıktığı anonsunu yaptırır. Dolandırıcı arabayı almaya geldiğinde de yakalanır. Nuri Baba hastalanmış ve işe gidememiştir. Şoför eşleri Nuri Baba’nın yalnız olduğu için kendine bakamadığını düşünüp ona uygun eş adayını yanlarına alıp giderken, Sinan da Nuri Baba’ya bakıcı kadın gönderir ancak işler karışır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9c0ad21b93d96ba321ce.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/667a9c0ad21b93d96ba321ce",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/157324_5608\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "190",
+        "title": "Akasya Durağı 124. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9bded21b93d96ba321c3.jpg"
+    },
+    "next_movie_data": {
+        "id": "192",
+        "title": "Akasya Durağı 126. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5bebdd2649678321f035f2af.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

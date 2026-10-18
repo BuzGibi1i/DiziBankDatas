@@ -1,0 +1,48 @@
+{
+    "id": "582",
+    "title": "E.D.H.O. Bölüm 126",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 126",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/02\/25\/eskiya-dunyaya-hukumdar-olmaz-1551079224415.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/126_q9rk\/7801f6f2-e02c-4b8b-a9e8-160d65b476ae.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/126_q9rk\/7801f6f2-e02c-4b8b-a9e8-160d65b476ae_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "581",
+        "title": "E.D.H.O. Bölüm 125",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/02\/18\/eskiya-dunyaya-hukumdar-olmaz-1550475136795.jpg"
+    },
+    "next_movie_data": {
+        "id": "583",
+        "title": "E.D.H.O. Bölüm 127",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/03\/04\/eskiya-dunyaya-hukumdar-olmaz-1551683100742.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

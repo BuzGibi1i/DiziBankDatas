@@ -1,0 +1,42 @@
+{
+    "id": "1019",
+    "title": "Çukur - Bölüm 66",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. sezonun 33. bölümünde (66. Bölüm);  Sena ve Akşın'ın kayıplarının ardından yeni bir kaybın yaşanması Çukur'da hiçbir şeyi eskisi gibi yapmayacak ve tüm dengeleri alt üst edecek.  ",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/05\/22\/10D56E8F57AC46C80F2DEC46D6D6DE21_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1018",
+        "title": "Çukur - Bölüm 65",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1020",
+        "title": "Çukur - Bölüm 67",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

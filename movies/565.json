@@ -1,0 +1,48 @@
+{
+    "id": "565",
+    "title": "E.D.H.O. Bölüm 109",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 109",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/10\/01\/eskiya-dunyaya-hukumdar-olmaz-1538378258317.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/109_1iq4\/654404db-085f-4e3d-8172-56d85eb30380.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/109_1iq4\/654404db-085f-4e3d-8172-56d85eb30380_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "564",
+        "title": "E.D.H.O. Bölüm 108",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/09\/22\/eskiya-dunyaya-hukumdar-olmaz-1537609385417.jpg"
+    },
+    "next_movie_data": {
+        "id": "566",
+        "title": "E.D.H.O. Bölüm 110",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2018\/10\/08\/eskiya-dunyaya-hukumdar-olmaz-1538982840493.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

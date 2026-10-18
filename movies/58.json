@@ -1,0 +1,43 @@
+{
+    "id": "58",
+    "title": "Akasya Durağı 004. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Melahat, kocasÄ±ndan miras kalan borÃ§lar nedeniyle bÃ¼yÃ¼k sÄ±kÄ±ntÄ± yaÅÄ±yor. \r\nMelahat, kocasÄ±ndan miras kalan borÃ§larÄ± nasÄ±l Ã¶deyeceÄini dÃ¼ÅÃ¼nÃ¼rken Murat bir Ã§Ã¶zÃ¼m bulur. Burak'la TuÄÃ§e'yi ayÄ±rmak iÃ§in, ailesi Burak'Ä± Amerika'ya gÃ¶ndermeye karar verir. Bu arada Burak ve TuÄÃ§e de herkesten gizli nikÃ¢h kÄ±ymaya hazÄ±rlanmaktadÄ±rlar. Sinan'Ä±n baÅÄ±na talihsiz bir kaza gelir. Ama kazayÄ± talihsiz yapan bir mafyanÄ±n arabasÄ±na Ã§arpmasÄ±dÄ±r. Adamlar Sinan'Ä± tehdit ederek para koparmaya Ã§alÄ±ÅÄ±r.\r\nAli Kemal, radyoda DJ'lik yapan Peri'ye abayÄ± yakar ve duraktakilerin de cesaretlendirmesiyle eline Ã§iÃ§eÄini alÄ±p tanÄ±Åmaya gider. Ama baÅÄ±na geleceklerden habersizdir. ÅofÃ¶r Mehmet'in kÄ±zÄ± HÃ¼lya'nÄ±n evdekilere bir sÃ¼rprizi vardÄ±r. Sevgilisi Cenk, HÃ¼lya'ya evlenme teklif etmiÅtir. Ama ailesinin yanÄ±tÄ± HÃ¼lya'yÄ± ÅaÅÄ±rtÄ±r.\r\nBurak'Ä±n annesi Ahu, Melahat'Ä± gÃ¶rmeye duraÄa gelir. SÃ¶ylediklerine baÅta Melahat olmak Ã¼zere bÃ¼tÃ¼n ÅofÃ¶rler Ã§ok sinirlenir. Seyit'le pavyona gittiÄi iÃ§in GÃ¼lbin'le arasÄ± kÃ¶tÃ¼ olan Sinan'Ä± barÄ±ÅtÄ±ran da Seyit olur. Ama Sinan yine de GÃ¼lbin ve kaynana Åaziment'i kÄ±zdÄ±rmayÄ± baÅarÄ±r. Bu sefer durum Ã§ok ciddidir. Sinan'Ä± bavuluyla kapÄ± Ã¶nÃ¼ne koyarlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035f6f0dc1e3c6cba84f7.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/161949_e55e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "57",
+        "title": "Akasya Durağı 003. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035c4f0dc1e30f8039786.jpg"
+    },
+    "next_movie_data": {
+        "id": "59",
+        "title": "Akasya Durağı 005. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03636a781b60218225af1.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

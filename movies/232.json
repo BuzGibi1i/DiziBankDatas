@@ -1,0 +1,43 @@
+{
+    "id": "232",
+    "title": "Akasya Durağı 166. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan’ın ikiz kardeşi Yaman, mafya babasıdır ve başka bir mafya peşindedir. Yaman kadın kılığında peşindekilerden kaçmaya çalışır. Bu sırada Sinan’ın aracına binen bir müşteri, içi para dolu olan çantasını takside unutur. Ali Kemal televizyon kanallarını arar ve ellerinde para dolu çanta olduğunu söyler. Amacı, Akasya Durağının reklamını yapmaktır. Yaman da haberi izler ve Sinan’ı tv’de para dolu çanta bulmuş şekilde görür. Yaman’ın adamı taksisine binerek Sinan’ı Yaman’a getirir. Yaman, Sinan ı eve kilitler ve Sinan’ın yerine geçer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef7cf45af1064b70e5a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160461_add0\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "231",
+        "title": "Akasya Durağı 165. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e57.jpg"
+    },
+    "next_movie_data": {
+        "id": "233",
+        "title": "Akasya Durağı 167. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

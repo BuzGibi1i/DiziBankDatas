@@ -1,0 +1,38 @@
+{
+    "id": "264",
+    "title": "Yalan Dünya 24. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Rıza’nın nikahtan kaçması büyük skandala neden olur. Gelinliği ile ortada kalan Nurhayat’ı kimse sakinleştiremez. Herkes Rıza’yı ararken o ise Deniz’i bulmak için İzmir yollarına düşer. Fakat numarasını değiştiren Deniz’e ulaşmak hiç de kolay değildir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be4.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed1cf45af1064b70be4",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/39b2_384\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "next_movie_data": {
+        "id": "265",
+        "title": "Yalan Dünya 25. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70be7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

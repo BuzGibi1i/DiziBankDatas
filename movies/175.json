@@ -1,0 +1,43 @@
+{
+    "id": "175",
+    "title": "Akasya Durağı 109. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Seyit’in akrabası olan Baran, köyden sevdiği kız Berivan ile evlenmek için istanbul’a gelmiştir. Baran, Seyit’ten kendisine büyüklük etmesini ister. Seyit ve Arif birlikte Berivan’ı istemeye giderler. Ancak kız isteme sırasında öyle gelişmeler olur ki, sonunda kabak Seyit’in başına patlar ve kızın ağabeyleri, Seyit’in Berivan ile evlenip kız kardeşlerinin adını temize çıkarmasını şart koşarlar. Seyit’in başı gerçekten büyük beladadır. Tolga ve Leyla hızla evliliğe doğru giderlerken, Tolga’nın kapısına bir bebek bırakılır. Bebek Tolga’ya çok benzemektedir. Leyla evlilikle ilgili kararlarını askıya alır. Tolga ile büyük anlaşmazlığa düşer. Ancak olanlara sevinen bir kişi vardır o da Ramazan Baba. Çünkü tüm bu tezgah onun başının altından çıkmıştır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae072b2496783262430285a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae072b2496783262430285a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/152995_8a22\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "174",
+        "title": "Akasya Durağı 108. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0726904207c23e8e2d090.jpg"
+    },
+    "next_movie_data": {
+        "id": "176",
+        "title": "Akasya Durağı 110. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae07325f0dc1e3c6cba85dc.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,48 @@
+{
+    "id": "633",
+    "title": "E.D.H.O. Bölüm 177",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 177",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/12\/21\/eskiya-dunyaya-hukumdar-olmaz-1608537273920.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/177_08qm\/bee2c4ec-1f07-440e-ad9d-561524114594.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/177_08qm\/bee2c4ec-1f07-440e-ad9d-561524114594_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "632",
+        "title": "E.D.H.O. Bölüm 176",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/12\/14\/eskiya-dunyaya-hukumdar-olmaz-1607940420715.jpg"
+    },
+    "next_movie_data": {
+        "id": "634",
+        "title": "E.D.H.O. Bölüm 178",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/12\/28\/eskiya-dunyaya-hukumdar-olmaz-1609147027961.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

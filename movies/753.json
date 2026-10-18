@@ -1,0 +1,43 @@
+{
+    "id": "753",
+    "title": "İşler Güçler 33.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bütün sermayesini ‘Erol İle İbrahim’ filmine yatıran Hakkı ve Şenol kaçınılmaz sona doğru ilerliyor. Ümitsizlikle bir çıkış yolu arayışındalar.Düştükleri denizde sarılacak bir yılanları dahi yok. Erol ile İbrahim belki de  yanlış seçimdi, zararın neresinden dönersek kardır diyerek planlarını değiştirip dağıtımcı firma ile görüşmeye başlıyorlar. Yayın Günü    :  19 Mart Salı Yayın Saati    :  23.00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/552f19eb40638c20052a92b0.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=wF2TJVqi878",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "752",
+        "title": "İşler Güçler 32.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/14b210bc4b68a2459aa09023.jpg"
+    },
+    "next_movie_data": {
+        "id": "754",
+        "title": "İşler Güçler 34.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/daf2272043c2a0404efb92db.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

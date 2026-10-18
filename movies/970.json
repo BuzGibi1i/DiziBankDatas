@@ -1,0 +1,42 @@
+{
+    "id": "970",
+    "title": "Çukur - Bölüm 17",
+    "year": 2018,
+    "language": "tr",
+    "description": "Çukur'un 17. bölümünde; Vartolu'nun evinden çıkan cenaze tüm dengeleri sonsuza kadar değiştirecektir. Çukur'daki yüzleşme serisi hiç olmadığı kadar sert devam edecektir. Çukur'a gelen davetsiz misafir fırtına etkisi yaratacaktır.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2024\/04\/04\/7CA4B1CF5FF99367A8271F46FCF04F55_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "969",
+        "title": "Çukur - Bölüm 16",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "971",
+        "title": "Çukur - Bölüm 18",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

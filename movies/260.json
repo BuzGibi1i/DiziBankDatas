@@ -1,0 +1,43 @@
+{
+    "id": "260",
+    "title": "Yalan Dünya 20. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Rıza’nın yalanı Deniz'i derinden etkiliyor. Kimseye belli etmese de Deniz büyük bunalıma giriyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd8.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed0cf45af1064b70bd8",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/b36d_956\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "259",
+        "title": "Yalan Dünya 19. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bd5.jpg"
+    },
+    "next_movie_data": {
+        "id": "261",
+        "title": "Yalan Dünya 21. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed0cf45af1064b70bdb.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

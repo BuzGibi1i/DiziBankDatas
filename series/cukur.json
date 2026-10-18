@@ -1,0 +1,826 @@
+{
+    "id": "8",
+    "slug": "cukur",
+    "title": "Çukur",
+    "description": "Çukur, Ay Yapım imzalı, ilk bölümü 23 Ekim 2017 tarihinde yayımlanan, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Gökhan Horzum ve Damla Serim'in birlikte kaleme aldıkları, aksiyon ve dram türündeki Türk yapımı televizyon dizisidir. 4 sezondan oluşan dizi, 7 Haziran 2021 tarihinde yayımlanan 131. bölümü ile final yaparak sona erdi.",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
+    "seasons": [
+        {
+            "season": 1,
+            "title": "1. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
+            "description": "Çukur, Ay Yapım imzalı, ilk bölümü 23 Ekim 2017 tarihinde yayımlanan, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Gökhan Horzum ve Damla Serim'in birlikte kaleme aldıkları, aksiyon ve dram türündeki Türk yapımı televizyon dizisidir. 4 sezondan oluşan dizi, 7 Haziran 2021 tarihinde yayımlanan 131. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Çukur - Bölüm 1",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/954.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Çukur - Bölüm 2",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/955.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Çukur - Bölüm 3",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/956.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Çukur - Bölüm 4",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/957.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Çukur - Bölüm 5",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/958.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Çukur - Bölüm 6",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/959.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Çukur - Bölüm 7",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/960.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Çukur - Bölüm 8",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/961.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Çukur - Bölüm 9",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/962.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Çukur - Bölüm 10",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/963.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Çukur - Bölüm 11",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/964.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Çukur - Bölüm 12",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/965.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Çukur - Bölüm 13",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/966.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Çukur - Bölüm 14",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/967.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Çukur - Bölüm 15",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/968.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Çukur - Bölüm 16",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/969.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Çukur - Bölüm 17",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/970.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Çukur - Bölüm 18",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/971.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Çukur - Bölüm 19",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/972.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Çukur - Bölüm 20",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/973.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Çukur - Bölüm 21",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/974.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Çukur - Bölüm 22",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/975.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Çukur - Bölüm 23",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/976.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Çukur - Bölüm 24",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/977.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Çukur - Bölüm 25",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/978.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Çukur - Bölüm 26",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/979.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Çukur - Bölüm 27",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/980.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Çukur - Bölüm 28",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/981.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Çukur - Bölüm 29",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/982.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Çukur - Bölüm 30",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/983.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Çukur - Bölüm 31",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/984.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Çukur - Bölüm 32",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/985.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Çukur - Bölüm 33",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/986.json"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "title": "2. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
+            "description": "Çukur, Ay Yapım imzalı, ilk bölümü 23 Ekim 2017 tarihinde yayımlanan, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Gökhan Horzum ve Damla Serim'in birlikte kaleme aldıkları, aksiyon ve dram türündeki Türk yapımı televizyon dizisidir. 4 sezondan oluşan dizi, 7 Haziran 2021 tarihinde yayımlanan 131. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Çukur - Bölüm 34",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/987.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Çukur - Bölüm 35",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/988.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Çukur - Bölüm 36",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/989.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Çukur - Bölüm 37",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/990.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Çukur - Bölüm 38",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/991.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Çukur - Bölüm 39",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/992.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Çukur - Bölüm 40",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/993.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Çukur - Bölüm 41",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/994.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Çukur - Bölüm 42",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/995.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Çukur - Bölüm 43",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/996.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Çukur - Bölüm 44",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/997.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Çukur - Bölüm 45",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/998.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Çukur - Bölüm 46",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/999.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Çukur - Bölüm 47",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1000.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Çukur - Bölüm 48",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1001.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Çukur - Bölüm 49",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1002.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Çukur - Bölüm 50",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1003.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Çukur - Bölüm 51",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1004.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Çukur - Bölüm 52",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1005.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Çukur - Bölüm 53",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1006.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Çukur - Bölüm 54",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1007.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Çukur - Bölüm 55",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1008.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Çukur - Bölüm 56",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1009.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Çukur - Bölüm 57",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1010.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Çukur - Bölüm 58",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1011.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Çukur - Bölüm 59",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1012.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Çukur - Bölüm 60",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1013.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Çukur - Bölüm 61",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1014.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Çukur - Bölüm 62",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1015.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Çukur - Bölüm 63",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1016.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Çukur - Bölüm 64",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1017.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Çukur - Bölüm 65",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1018.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Çukur - Bölüm 66",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1019.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Çukur - Bölüm 67",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1020.json"
+                }
+            ]
+        },
+        {
+            "season": 3,
+            "title": "3. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
+            "description": "Çukur, Ay Yapım imzalı, ilk bölümü 23 Ekim 2017 tarihinde yayımlanan, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Gökhan Horzum ve Damla Serim'in birlikte kaleme aldıkları, aksiyon ve dram türündeki Türk yapımı televizyon dizisidir. 4 sezondan oluşan dizi, 7 Haziran 2021 tarihinde yayımlanan 131. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Çukur - Bölüm 68",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1043.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Çukur - Bölüm 69",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1044.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Çukur - Bölüm 70",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1045.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Çukur - Bölüm 71",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1046.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Çukur - Bölüm 72",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1047.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Çukur - Bölüm 73",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1048.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Çukur - Bölüm 74",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1049.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Çukur - Bölüm 75",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1050.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Çukur - Bölüm 76",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1051.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Çukur - Bölüm 77",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1052.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Çukur - Bölüm 78",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1053.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Çukur - Bölüm 79",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1054.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Çukur - Bölüm 80",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1055.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Çukur - Bölüm 81",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1056.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Çukur - Bölüm 82",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1057.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Çukur - Bölüm 83",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1058.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Çukur - Bölüm 84",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1059.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Çukur - Bölüm 85",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1060.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Çukur - Bölüm 86",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1061.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Çukur - Bölüm 87",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1062.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Çukur - Bölüm 88",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1063.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Çukur - Bölüm 89",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1064.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Çukur - Bölüm 90",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1065.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Çukur - Bölüm 91",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1066.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Çukur - Bölüm 92",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1067.json"
+                }
+            ]
+        },
+        {
+            "season": 4,
+            "title": "4. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
+            "description": "Çukur, Ay Yapım imzalı, ilk bölümü 23 Ekim 2017 tarihinde yayımlanan, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Gökhan Horzum ve Damla Serim'in birlikte kaleme aldıkları, aksiyon ve dram türündeki Türk yapımı televizyon dizisidir. 4 sezondan oluşan dizi, 7 Haziran 2021 tarihinde yayımlanan 131. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 2,
+                    "title": "Çukur - Bölüm 94",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1068.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Çukur - Bölüm 95",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1069.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Çukur - Bölüm 96",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1070.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Çukur - Bölüm 97",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1071.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Çukur - Bölüm 98",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1072.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Çukur - Bölüm 99",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1073.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Çukur - Bölüm 100",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1074.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Çukur - Bölüm 101",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1075.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Çukur - Bölüm 102",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1076.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Çukur - Bölüm 103",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1077.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Çukur - Bölüm 104",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1078.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Çukur - Bölüm 105",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1079.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Çukur - Bölüm 106",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1080.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Çukur - Bölüm 107",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1081.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Çukur - Bölüm 108",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1082.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Çukur - Bölüm 109",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1083.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Çukur - Bölüm 110",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1084.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Çukur - Bölüm 111",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1085.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Çukur - Bölüm 112",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1086.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Çukur - Bölüm 113",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1087.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Çukur - Bölüm 114",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1088.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Çukur - Bölüm 115",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1089.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Çukur - Bölüm 116",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1090.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Çukur - Bölüm 117",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1091.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Çukur - Bölüm 118",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1092.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Çukur - Bölüm 119",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1093.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Çukur - Bölüm 120",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1094.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Çukur - Bölüm 121",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1095.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Çukur - Bölüm 122",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1096.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Çukur - Bölüm 123",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1097.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Çukur - Bölüm 124",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1098.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Çukur - Bölüm 125",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1099.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Çukur - Bölüm 126",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1100.json"
+                },
+                {
+                    "episode": 35,
+                    "title": "Çukur - Bölüm 127",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1101.json"
+                },
+                {
+                    "episode": 36,
+                    "title": "Çukur - Bölüm 128",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1102.json"
+                },
+                {
+                    "episode": 37,
+                    "title": "Çukur - Bölüm 129",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1103.json"
+                },
+                {
+                    "episode": 38,
+                    "title": "Çukur - Bölüm 130",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1104.json"
+                },
+                {
+                    "episode": 39,
+                    "title": "Çukur - Bölüm 131",
+                    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+                    "details_url": "movies\/1105.json"
+                }
+            ]
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "140",
+    "title": "Akasya Durağı 074. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman’ın taksisinde oyuncak bir ayı unutulur. Osman da oyuncak ayıyı ikiz bebekleri oynasın diye eve getirir. Fakat Osman oyuncağın içinde uyuşturucu saklandığının farkında değildir. Mafya uyuşturucunun peşine düşer ve Safiye’leri rehin alır. Osman’ı çok zor saatler beklemektedir. \r\nSinan televizyonda çok zengin bir adamın kayıp eşini aradığını görür. Kayıp eşin yerini bildirene para ödülü vardır. Sinan kaybolan eşin Seyit’in annesi Fato Aney’e benzediğini görünce hemen planını uygulamak için harekete geçer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae05368e50aa9372888e5bf.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae05368e50aa9372888e5bf",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=Ib489hH8gbc",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "139",
+        "title": "Akasya Durağı 073. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae052f34967832624302806.jpg"
+    },
+    "next_movie_data": {
+        "id": "141",
+        "title": "Akasya Durağı 075. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae05377f0dc1e3c6cba8530.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

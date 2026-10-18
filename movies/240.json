@@ -1,0 +1,38 @@
+{
+    "id": "240",
+    "title": "Akasya Durağı 174. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osmanlar sabah uyanırlar, Hayri bir telaşla eve girer ve taksinin çalındığını söyler. Bir mafya elemanı, Sinan’ın taksisine biner ve inerken cüzdanını düşürür. Sinan cüzdanı vermek üzere adamın yanına gider ve adamın, birilerine at yarışı tüyoları verdiğini duyar. Hemen ganyan bayiine gider ve o atlara oynar. Sinan büyük parayı kazanır ve parayı tahsil eder. Mafya da Sinan’ın peşine düşer.\r\n\r\nİpek ev işlerine yetişemez ve Emre ile ev işlerini paylaşma kararı alırlar. Emre ne yapacağını bilemez ve duraktakilere danışır Seyit, Emre’ye akıl verir ve beceriksizmiş gibi yapmasını söyler.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e72.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef8cf45af1064b70e72",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160672_fccd\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "239",
+        "title": "Akasya Durağı 173. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

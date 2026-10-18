@@ -1,0 +1,43 @@
+{
+    "id": "237",
+    "title": "Akasya Durağı 171. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yapımcılar, Hayri’nin şakalarını beğenir ve Osman Baba’ya şaka yapmalarını isterler. Perili bir köşk bulurlar ve Osman’ı orda korkutmaya karar verirler. Durağı, “özellikle Osman’ı istiyoruz” diye müşteri gibi arar ve bu esnada gideceği yerin perili köşk olduğu konusunda korkuturlar. Osman köşke gelir, kimse olmayınca eve girer. Hayri ve tayfası da Osman’ı korkuturlar. Osman kalp krizi geçirir. Doktor, Osman’ın ölüm haberini verir. Mezarlığa giderler ve bu sırada Hayri helallik ister. Osman tabuttan çıkarak Hayri’yi yakalar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e69.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef7cf45af1064b70e69",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160644_29d5\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "236",
+        "title": "Akasya Durağı 170. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e66.jpg"
+    },
+    "next_movie_data": {
+        "id": "238",
+        "title": "Akasya Durağı 172 .Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6c.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

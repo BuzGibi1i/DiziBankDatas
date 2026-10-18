@@ -1,0 +1,43 @@
+{
+    "id": "87",
+    "title": "Akasya Durağı 033. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman bir yandan evlerine gelen kayınvalidesi ile, diğer yandan da evlenmelerine izin vermediği için intihar girişiminde bulunan kızı Dilek ve Obayana ile uğraşıyor.\r\nTuğçe’nin reklam filmindeki rol arkadaşı şarkıcı Tuna, Tuğçe’nin sevgili olduğunu iddia eder. Murat bunu duyunca çılgına döner ve Tuna ile konuşmaya gider. Tuna’nın yeni çıkan kasetinin reklamı için böyle bir demeç verdiği anlaşılınca, Murat, Tuna’yı döver. \r\nOsman ve Safiye ikiz bebeklerle başa çıkamayınca Safiye memleketten annesi Mukadder’i çağırır. Haberi duyan Osman küplere biner. Çünkü Osman kaynanası Mukadder’den çok korkmaktadır. Mukadder ise Osman’ın anasından emdiği sütü burnundan getirmeye kararlıdır. \r\nHapisten yeni çıkan Bitirim Sırrı, mahallede Melahat’ın başına bela olur. Melahat, Sırrı ile başa çıkamayacağını anlayınca duraktaki şoförlerden yardım ister. Duraktaki şoförler Sırrı’ya dersini bildirmek için güzel bir oyun hazırlarlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0420940201132a01ec3b4.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200836_bb90\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "86",
+        "title": "Akasya Durağı 032. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041fe49678326243027fa.jpg"
+    },
+    "next_movie_data": {
+        "id": "88",
+        "title": "Akasya Durağı 034. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04213e50aa9372888e5b6.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

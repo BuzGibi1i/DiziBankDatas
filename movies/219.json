@@ -1,0 +1,38 @@
+{
+    "id": "219",
+    "title": "Akasya Durağı 153. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Çınar, Dilek’e; kendisini terk ettiğini söylediği bir mektup bırakmış ve gitmiştir. Üstelik Dilek’le kıyılan nikahın, nikah memuru da sahtedir. Bunun üstüne Osman, Çınar’ı vurmak için aramış fakat bulamamıştır. Dilek’e yeni damat adayları bakmaktadır. Sonunda Safiye’nin tanıdığı olan Hayri’yle (Bican Günalan) evlendirme kararı alır. Dilek bir anda yeni bir ilişkiye yelken açmıştır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e33.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef4cf45af1064b70e33",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158423_c58f\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "next_movie_data": {
+        "id": "220",
+        "title": "Akasya Durağı 154. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e36.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

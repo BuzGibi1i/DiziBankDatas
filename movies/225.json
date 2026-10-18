@@ -1,0 +1,43 @@
+{
+    "id": "225",
+    "title": "Akasya Durağı 159. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Merve, Arif’e, bir teknede bikini çekimine gideceğini söyler, Arif de itiraz eder. Ancak Merve kararlıdır. Arif durumu Hayri’yle paylaşır, Hayri de Arif’ten taraf olur. Merve teknede çekimdedir. Arif bir sandalla, Merve’nin bulunduğu teknenin yanına gelir ve ikili tartışmaya başlar. Merve, Arif’e hemen gitmezse ondan boşanacağını söyler. Arif çaresizce sahile geri döner ve Hayri’yi arar. Hayri olaya el atar ve sahil güvenlik kostümü giyip Zodyak botla tekneye yanaşır.\n\nSinan borçlarını ödeyebilmek için Şaziment’ten altınlarını istemektedir. Güven de iş kurabilmek için paranın peşindedir. Sinan duraktakilerden de borç ister fakat kimse yanaşmaz Bu sırada Osman ve Hayri yağlı güreş yapmaya karar vermişlerdir. Sinan hemen bu güreşi kazanca çevirir ve bahisleri açar. Herkes şansını Osman Aga’dan yana kullanırken Sinan, Hayri’den yana kullanır ve oyuna getirdikleri Osman’ı Hayri yener.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e45.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef5cf45af1064b70e45",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158732_2973\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "224",
+        "title": "Akasya Durağı 158. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e42.jpg"
+    },
+    "next_movie_data": {
+        "id": "226",
+        "title": "Akasya Durağı 160. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e48.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "759",
+    "title": "İşler Güçler 39. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İbrahim ile Erol, post prodüksiyonla süslenip vizyona çıkacağı salon ararken, üçlü hayatını düzene koyma çabasında. Feride’den ümidini kesmiş olan Ahmet kendini ulvi amaçlara adıyor. Ulvi amaçlardan ümidini kesmiş olan Murat, kendini Pınar’a adıyor. Dünürüyle sorunlar yaşayan Sadi ise, pes etme niyetinde… Bu sırada ise, eski bir dostun ziyareti bütün dengeleri alt üst ediyor.",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/84812e7d47e581b7a5c83008.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=8HjXja16MQY",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "758",
+        "title": "İşler Güçler 38. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b4a32651488dac5e858706f5.jpg"
+    },
+    "next_movie_data": {
+        "id": "760",
+        "title": "İşler Güçler 40. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/33a4f4fb4c2ea70da30dbb2e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

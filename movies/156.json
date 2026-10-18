@@ -1,0 +1,43 @@
+{
+    "id": "156",
+    "title": "Akasya Durağı 090. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman’ın taksisinde unutulan çantada, bir döviz bürosunun yüklü miktardaki parası vardır. Osman örnek bir vatandaş olarak parayı sahibine teslim eder ve bu sırada kameralara açıklamalar yapar. Bu paraya ihtiyacı olmadığını, kendisinin alın teri ile kazandığı yeterli ölçüde serveti olduğunu söyler. Haberi izleyen ve eskiden Osman’ı tanıyan bir kadın, onun bahsettiği servetinden faydalanmak için kolları sıvar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06798ac1fe339f48b59e3.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06798ac1fe339f48b59e3",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149793_5941\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "155",
+        "title": "Akasya Durağı 089. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06717e50aa9372888e5dd.jpg"
+    },
+    "next_movie_data": {
+        "id": "157",
+        "title": "Akasya Durağı 091. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae067fd6ce436345c6611bf.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

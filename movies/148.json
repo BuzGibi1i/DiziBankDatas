@@ -1,0 +1,43 @@
+{
+    "id": "148",
+    "title": "Akasya Durağı 082. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan çapkınlık yapayım derken, kendisini büyük bir belanın ortasında buluyor. Havaalanında iki güzel kız, Alfredo Rossi adında daha önce hiç görmedikleri bir turisti beklemektedirler. Çapkın Sinan hemen kızlara kendini Alfred Rossi olarak tanıtır ve kızlarla birlikte evlerine gider. Fakat Sinan’ın yerine geçtiği Alfredo Rossi gerçekte bir uyuşturucu kuryesidir. Sinan kendisini belanın ortasında buluverir. Leyla’nın babası Ramazan Baba, Tolga’nın annesi Muazzez Hanım’a abayı yakmıştır. Gazi arkadaşlarını toplayıp bir plan yapar ve Muazzez Hanım’ı zorla kaçırır. Tolga ve Leyla her yerde Muazzez’i ararken Ramazan Baba gizlice düğün yapmaktadır. Ali Kemal’in dayısı Tursun onu ziyarete gelir. Seyit’in annesi Fato Aney Tursun’a abayı yakar. Ali Kemal ikisinin arasını yapmaya çalışır. Olayı öğrenen Seyit ortalığı ayağa kaldırır. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae05466496783262430280a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae05466496783262430280a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149638_3be8\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "147",
+        "title": "Akasya Durağı 081. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0541656593434781bebbe.jpg"
+    },
+    "next_movie_data": {
+        "id": "149",
+        "title": "Akasya Durağı 083. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae061cbac1fe339f48b59d1.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "751",
+    "title": "İşler Güçler 31.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yapımını Limon Yapım'ın Yapımcılığını Hayri Aslan'ın yaptığı İşler Güçler'de ödeme günü!Ahmet, Feride'nin moralini düzeltmeye çalıştıkça kafası daha da karışıyor.Murat, Pınar'ın gizemini çözmeye çok yakın.Sadi, filme Türkiye çapında bir yıldızı dahil etmenin peşindeyken hiç açmaması gereken kapıları aralıyor.",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/dbf8b1c0436e990fb0ee95b4.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=liFsAzisrKg",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "750",
+        "title": "İşler Güçler 30.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4a5760bc4a61a3af1aef9cb0.jpg"
+    },
+    "next_movie_data": {
+        "id": "752",
+        "title": "İşler Güçler 32.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/14b210bc4b68a2459aa09023.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

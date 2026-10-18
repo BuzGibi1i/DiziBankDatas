@@ -1,0 +1,43 @@
+{
+    "id": "341",
+    "title": "Kanıt 11. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ateş Cevheroğlu. İstanbul’un köklü, zengin ailelerinden birinin oğlu ve Cevheroğlu Holding Yönetim Kurulu Başkanı. Sık sık avlanmaya gittiği ormanda vurulmuş olarak bulundu. Ölümü bir av kazası mı, yoksa kaza süsü verilmiş bir cinayet miydi? Başkomiser Orhan ve yardımcısı Selim, Cevheroğlu Ailesi ile görüştüklerinde, Ateş Bey’in babası Hikmet Bey’in de üç hafta önce öldüğünü öğrendiler. Oldukça sağlıklı olmasına rağmen kalp krizi geçirmiş, üstelik arkasında şüpheli bir vasiyet bırakmıştı. Soruşturma ilerledikçe, cinayeti aydınlatabilmek için Cevheroğlu Ailesi’nin sakladıkları sırrı öğrenmeleri gerektiğini anlayan Başkomiser Orhan ve yardımcısı Selim, araştırmalarını derinleştirdiler. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b803d21b93d96ba31e82.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b803d21b93d96ba31e82",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/6ad3_1563\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "340",
+        "title": "Kanıt 10. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b7cdd21b93d96ba31e76.jpg"
+    },
+    "next_movie_data": {
+        "id": "342",
+        "title": "Kanıt 12. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b852d21b93d96ba31e8e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

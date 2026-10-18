@@ -1,0 +1,43 @@
+{
+    "id": "94",
+    "title": "Akasya Durağı 040. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman pehlivan, kendisini yağlı güreşte kimsenin yenemeyeceğini iddia eder. Kendisini yenene kızı Dilek’i vereceğini söyler. Bunun üzerine Obayana, Osman’a meydan okur. Osman ve Obayana güreşe tutuşurlar. Fakat Osman’ın bilmediği bir şey vardır. Sinan güreşe hile karıştırmıştır. \r\nSinan durağın sahibi Mazhar’la kaynanası Şaziment’i evlendirmek için kolları sıvar. Şaziment, Mazhar’ın servetini duyunca evliliği hemen kabul eder. Fakat nikah töreninde Şaziment’i bir sürpriz beklemektedir. \r\nZeyno nikah yüzüğünü kaybetmiştir. Kuaförde Zeyno’yu gören bir kadın onu çok beğenir. Yüzüğü olmadığını görünce de bekar olduğunu sanır ve oğlu için beğenir. Kadın Zeyno’yu istemek için evlerine gidince Seyit kıyameti kopartır. \r\nBu arada Eleni Hanım’ın yeğeni Anastasia tatil için Türkiye’ye gelir. Hep birlikte eğlenmek için tavernaya giderler. Fakat Anastasia, Murat’ı çok beğenince tavernada işler karışır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0423be50aa9372888e5ba.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200923_bc3e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "93",
+        "title": "Akasya Durağı 039. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422ff0dc1e30f80397f7.jpg"
+    },
+    "next_movie_data": {
+        "id": "95",
+        "title": "Akasya Durağı 041. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042414967832624302800.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

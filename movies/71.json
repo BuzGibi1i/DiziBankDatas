@@ -1,0 +1,43 @@
+{
+    "id": "71",
+    "title": "Akasya Durağı 017. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Erhan, Murat’ı bayıltır ve Tuğçe’yi Şile’de bir dav evine kaçırır. Murat kendine gelince hemen durağı arar. Ve duraktakilere Tuğçe’nin kaçırıldığı haberini verir. Melahat haberi alınca yıkılır. Bütün şoförler bir araya gelir ve Tuğçe’nin bulunması için aramalara başlarlar. \r\nSinan’ın kaynanası Şaziment zamanında Sinan’ın parasıyla aldığı bilezikleri bozdurmak istemektedir. Sinan ise bileziklerin satılmasına karşı çıkar. Şaziment Sinan’ın inadına bilezikleri satacaktır. Sinan bileziklerin satışını engellemek için maske takıp Şaziment’i gasp etmek ister, fakat hiç hesapta olmayan gelişmeler yaşanınca işler karışır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041786ce436345c66112a.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162493_3e42\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "70",
+        "title": "Akasya Durağı 016. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04160e50aa9372888e59e.jpg"
+    },
+    "next_movie_data": {
+        "id": "72",
+        "title": "Akasya Durağı 018. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418286857632047d48ba.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

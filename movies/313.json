@@ -1,0 +1,43 @@
+{
+    "id": "313",
+    "title": "Yalan Dünya 73. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Deniz, Kocabaşlar’a iyi bir oyuncu olduğu kadar iyi de bir ev kızı olduğunu kanıtlamak için büyük çaba sarf ederken, Nurhayat da Fırat’ın Yazgısı dizisine konuk oyuncu oluyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c77.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eeddcf45af1064b70c77",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S5\/HLS_VOD\/33640_7753\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "312",
+        "title": "Yalan Dünya 72. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c74.jpg"
+    },
+    "next_movie_data": {
+        "id": "314",
+        "title": "Yalan Dünya 74. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eeddcf45af1064b70c7a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

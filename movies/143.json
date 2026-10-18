@@ -1,0 +1,43 @@
+{
+    "id": "143",
+    "title": "Akasya Durağı 077. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman ile Sinan hapishaneye giriyor. Ancak suÃ§ iÅledikleri iÃ§in deÄil, define bulup kÃ¶Åeyi dÃ¶nmek istedikleri iÃ§in! Safiye, televizyondaki bir kÃ¼ltÃ¼r yarÄ±ÅmasÄ±ndan bir haftalÄ±k Bodrum tatili kazanÄ±r. Osman bu haberi duyunca Ã§ok sevinir ve ailece yola Ã§Ä±karlar. Yolda baÅlarÄ±na gelen felaketler yetmezmiÅ gibi, otelde de onlarÄ± bÃ¼yÃ¼k bir sÃ¼rpriz beklemektedir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053a5f0dc1e30f803980f.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae053a5f0dc1e30f803980f",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=dGCFoqKlII4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "142",
+        "title": "Akasya Durağı 076. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0539656593434781bebbb.jpg"
+    },
+    "next_movie_data": {
+        "id": "144",
+        "title": "Akasya Durağı 078. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053b5f0dc1e3c6cba8535.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

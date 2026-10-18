@@ -1,0 +1,42 @@
+{
+    "id": "1071",
+    "title": "Çukur - Bölüm 97",
+    "year": 2020,
+    "language": "tr",
+    "description": "Çukur'un 4. Sezon 5. Bölümünde (97. Bölümünde); Yamaç'ın Cengiz'in adamı olduğunu öğrenen Cumali boş durmayacak ve onu cezalandırmak için Çukur'un bütün gücüyle Erdenetler'e saldıracak.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2020\/10\/05\/441B1647155C07B7AF37A4A9F47FA7F7_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1070",
+        "title": "Çukur - Bölüm 96",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1072",
+        "title": "Çukur - Bölüm 98",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

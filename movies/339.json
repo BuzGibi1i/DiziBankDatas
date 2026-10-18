@@ -1,0 +1,43 @@
+{
+    "id": "339",
+    "title": "Kanıt 09. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Şener Kahveci. Türkiye’nin önde gelen iş adamlarından biri... Çok önemli bir ihale öncesinde, masaj yaptırmaya gittiği salonda, Filipinli masöz Ruth Mirando’yla birlikte ölü bulundu. Aynı masaj salonunda çalışan Ruth’un ev arkadaşı, masöz Amelia Cruz ise ortadan kaybolmuştu. Şüpheler kayıp olan Amelia’nın üzerinde yoğunlaşırken, asıl soru Şener’i kimin öldürtmek istediğiydi…",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b798d21b93d96ba31e6a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b798d21b93d96ba31e6a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/7e4c_1556\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "338",
+        "title": "Kanıt 08. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b74bd21b93d96ba31e60.jpg"
+    },
+    "next_movie_data": {
+        "id": "340",
+        "title": "Kanıt 10. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b7cdd21b93d96ba31e76.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

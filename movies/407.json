@@ -1,0 +1,43 @@
+{
+    "id": "407",
+    "title": "Kanıt 77. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Uykusunda hayatını kaybeden Güneri Kalhan, defin raporunu hazırlayan doktora göre, kalp krizi geçirmişti. Herkes, bu ölüm yüzünden birbirini suçlarken karısı otopsi yapılmasını istedi. Ancak büyük bir sorun vardı: Güneri Kalhan’ın cesedi kayıptı! \n",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bfd9d21b93d96ba32025.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bfd9d21b93d96ba32025",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/3530_948\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "406",
+        "title": "Kanıt 76. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bfbad21b93d96ba32019.jpg"
+    },
+    "next_movie_data": {
+        "id": "408",
+        "title": "Kanıt 78. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bffed21b93d96ba3202f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

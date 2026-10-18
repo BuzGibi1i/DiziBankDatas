@@ -1,0 +1,43 @@
+{
+    "id": "394",
+    "title": "Kanıt 64. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Åefik Tahinci. GÃ¼venilir bir bÃ¼rokrat. Uyku bozukluÄu sendromu yaÅayan hastalardan sadece biri. YaygÄ±n deyiÅle bir uyurgezer. Bir otel odasÄ±nda Ã¼stÃ¼ baÅÄ± kan iÃ§inde uyandÄ±ÄÄ±nda hiÃ§bir Åey hatÄ±rlamÄ±yordu. AklÄ±na eskiden beri tanÄ±dÄ±ÄÄ± Orhan BaÅkomiserâi aramaktan baÅka bir Åey gelmemiÅti. Ãok geÃ§meden otelin baÅka bir odasÄ±nda karÄ±sÄ± Ã¶lÃ¼ bulundu! En son evinde uykuya daldÄ±ÄÄ±nÄ± sÃ¶yleyen Åefik Tahinci, otele nasÄ±l gelmiÅti? HalasÄ±na gideceÄini sÃ¶yleyen karÄ±sÄ±nÄ±n aynÄ± otelde ne iÅi vardÄ±? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd7cf45af1064b71f5b.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efd7cf45af1064b71f5b",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/5479_1049\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "393",
+        "title": "Kanıt 63. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd7cf45af1064b71f58.jpg"
+    },
+    "next_movie_data": {
+        "id": "395",
+        "title": "Kanıt 65. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be50d21b93d96ba31fb3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "724",
+    "title": "İşler Güçler 3. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İkinci kez yayınlanmayan programlarının  ardından üçlümüz,  kafa dinlemek için kendilerini Ahmet’in evine kapatmışlardır. Yayınlanmayan program nedeni ile yapımcı da iyice kızmış, üçlünün yayınlanabilecek bir bölüm çekmeleri için şartları  iyice zorlamaya karar vermiştir.Çekim günü planlanır. Belirlenen röportajlarda, Murat’ı bir sürpriz beklemektedir Sadi, ailevi sorunlarıyla mesleki kariyeri bir arada götürmekte zorlanmakta, Ahmet ise  yakaladığı Feride ile yakınlaşma şansını kaçırmak istememektedir. Başarılı bir çekim gününün  ardından, her şey çok planlı giderken unuttukları şeyse; gecenin süprizlere gebe olduğudur.Yayın Günü    : 12 Temmuz  PerşembeYayın Saati    :  22.00 ",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c3c2a0a74b69b1e0866b3025.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=MiUenMu8Cv4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "723",
+        "title": "İşler Güçler 2. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8dcc46f345238427f7fabe47.jpg"
+    },
+    "next_movie_data": {
+        "id": "725",
+        "title": "İşler Güçler 4. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d7bd5f16491a9e22a1eebd27.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

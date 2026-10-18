@@ -1,0 +1,43 @@
+{
+    "id": "66",
+    "title": "Akasya Durağı 012. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Mehmet Hoca’nın taksisine binen iki kişi, Hoca’yı gasp edip, bıçakla ağır yaralıyorlar.\r\n\r\nMurat ve Tuğçe ambulansla hastaneye kaldırılırlar. Haberi alan Nuri Baba, Melahat ve Tuğçe hastaneye koşarlar. Murat kazayı ucuz atlatmıştır. Fakat hastanede herkesi bir sürpriz beklemektedir. \r\nMelahat’ın taksisine binen erkek müşteriler sözlü tacizlerde bulunurlar. Melahat bu tür tacizlerin önüne geçmek için önlem alır. Fakat aldığı önlem başta Tuğçe olmak üzere herkesi şaşırtır.  \r\nSeyit’in taksisine binen bir adam paketini bagajda unutur. Sinan ve Osman bagajdaki paketin bomba olabileceğinden şüphelenirler. Kutunun içinden saat tiktakları da gelince içinde saatli bomba olduğunu düşünüp kendi yöntemleriyle imha ederler. Fakat gerçek hiç de sandıkları gibi değildir. \r\nAli Kemal, Sinan’ın telefonunu kullanarak hoşlandığı kızla mesajlaşır. Gülbin ve Şaziment mesajların Sinan’a ait olduklarını sanırlar ve evde kızılca kıyamet kopar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0381904207c23e8e2cfe3.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162355_cf0b\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "65",
+        "title": "Akasya Durağı 011. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03813f0dc1e3c6cba84fe.jpg"
+    },
+    "next_movie_data": {
+        "id": "67",
+        "title": "Akasya Durağı 013. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a1e50aa9372888e571.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

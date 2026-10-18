@@ -1,0 +1,43 @@
+{
+    "id": "415",
+    "title": "Kanıt 85. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kendisini her Åeyiyle iÅine adamÄ±Å hÄ±rslÄ± bir paparazzi! Asla ortaya Ã§Ä±kmamasÄ± gereken fotoÄraflar! Ve korkulan son!\n\nMagazin dergisi FlashlifeâÄ±n acar muhabiri Arif Ä°stek, evinde Ã¶lÃ¼ bulundu. Ãstelik fotoÄraf makinesinin hafÄ±za kartÄ± da kayÄ±ptÄ±! ÃalÄ±ÅtÄ±ÄÄ± derginin genel yayÄ±n yÃ¶netmeni, Arifâin hangi haberin peÅinde olduÄunu bile bilmediÄini sÃ¶ylÃ¼yordu.\n\nDerginin genel yayÄ±n yÃ¶netmeni ne saklÄ±yordu? Arif kendisi gibi paparazzi olan arkadaÅÄ±nÄ± o gece neden eve Ã§aÄÄ±rmÄ±ÅtÄ±? KÄ±sa zaman Ã¶nce Arifâi Åikayet eden pop ÅarkÄ±cÄ±sÄ±nÄ±n olayla bir ilgisi var mÄ±ydÄ±?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f9b.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efdbcf45af1064b71f9b",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/bc50_609\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "414",
+        "title": "Kanıt 84. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f98.jpg"
+    },
+    "next_movie_data": {
+        "id": "416",
+        "title": "Kanıt 86. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f9e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

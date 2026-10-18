@@ -1,0 +1,43 @@
+{
+    "id": "365",
+    "title": "Kanıt 35. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Gecenin karanlığına karışan bir gölge! Bir valiz! Tanınmaması için yüzü yakılmış ve on parçaya bölünerek ayrı ayrı poşetlere konulmuş bir ceset… Başkomiser Orhan ve Komiser Selim, vahşi bir cinayete kurban giden maktulün kimliğini tespit edebilmek için hangi yöntemden yararlanacaklardı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e995e6f933ccb365039a072.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5e995e6f933ccb365039a072",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/cdd1_1313\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "364",
+        "title": "Kanıt 34. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e981b7eebc8302364dfc406.jpg"
+    },
+    "next_movie_data": {
+        "id": "366",
+        "title": "Kanıt 36. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/r4gP1oqteAk\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

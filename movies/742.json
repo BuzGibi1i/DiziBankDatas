@@ -1,0 +1,43 @@
+{
+    "id": "742",
+    "title": "İşler Güçler 22. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yapımını Limon Yapımın Yapımcılığını Hayri Aslan'ın yaptığı İşler Güçlerde Feride'den haber alamayan Ahmet, küçük çaplı bir heyecan yaşarken, Ecevit dörtlünün içindeki safları netleştiriyor. Sadi, yeni işinde yaşadığı zorlukları yenmeye çalışırken, Murat eski bir arkadaşıyla karşılaşıyor. Kanaldan yayın onayı için gelecek haberin heyecanıyla bekleyen ekipte,dengeleri Salih Abi'nin depresyonu bozuyor..Yayın Günü: 4 Aralık SalıYayın Saati: 22.30",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/049180694e1696f511e46237.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=eGWixHYOcsI",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "741",
+        "title": "İşler Güçler 21. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/bb8c31064ffabd30e86a24c0.jpg"
+    },
+    "next_movie_data": {
+        "id": "743",
+        "title": "İşler Güçler 23. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e8279f54c338793968ca7c5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

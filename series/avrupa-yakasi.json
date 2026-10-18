@@ -1,0 +1,1204 @@
+{
+    "id": "7",
+    "slug": "avrupa-yakasi",
+    "title": "Avrupa Yakası",
+    "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+    "seasons": [
+        {
+            "season": 1,
+            "title": "1. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası - Bölüm 1",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/20\/avrupa-yakasi-1695229585926.jpg",
+                    "details_url": "movies\/764.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası - Bölüm 2",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833038604.jpg",
+                    "details_url": "movies\/765.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası - Bölüm 3",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833170687.jpg",
+                    "details_url": "movies\/766.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası - Bölüm 4",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833210697.jpg",
+                    "details_url": "movies\/767.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası - Bölüm 5",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833249378.jpg",
+                    "details_url": "movies\/768.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası - Bölüm 6",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833266805.jpg",
+                    "details_url": "movies\/769.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası - Bölüm 7",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833300602.jpg",
+                    "details_url": "movies\/770.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası - Bölüm 8",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833332093.jpg",
+                    "details_url": "movies\/771.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası - Bölüm 9",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833349265.jpg",
+                    "details_url": "movies\/772.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası - Bölüm 10",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833386555.jpg",
+                    "details_url": "movies\/773.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası - Bölüm 11",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695833420712.jpg",
+                    "details_url": "movies\/774.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası - Bölüm 12",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695677587724.jpg",
+                    "details_url": "movies\/775.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası - Bölüm 13",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695677774693.jpg",
+                    "details_url": "movies\/776.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası - Bölüm 14",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695677900418.jpg",
+                    "details_url": "movies\/777.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası - Bölüm 15",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695678139800.jpg",
+                    "details_url": "movies\/778.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası - Bölüm 16",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695735331762.jpg",
+                    "details_url": "movies\/779.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası - Bölüm 17",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695735395545.jpg",
+                    "details_url": "movies\/780.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası - Bölüm 18",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695735821972.jpg",
+                    "details_url": "movies\/781.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası - Bölüm 19",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/26\/avrupa-yakasi-1695735903901.jpg",
+                    "details_url": "movies\/782.json"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "title": "2. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası - Bölüm 20",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/27\/avrupa-yakasi-1695846317199.jpg",
+                    "details_url": "movies\/783.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası - Bölüm 21",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/28\/avrupa-yakasi-1695887673276.jpg",
+                    "details_url": "movies\/784.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası - Bölüm 22",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/28\/avrupa-yakasi-1695887739357.jpg",
+                    "details_url": "movies\/785.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası - Bölüm 23",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/28\/avrupa-yakasi-1695887802350.jpg",
+                    "details_url": "movies\/786.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası - Bölüm 24",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/28\/avrupa-yakasi-1695933241174.jpg",
+                    "details_url": "movies\/787.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası - Bölüm 25",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/29\/avrupa-yakasi-1695977026823.jpg",
+                    "details_url": "movies\/788.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası - Bölüm 26",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/29\/avrupa-yakasi-1695977303014.jpg",
+                    "details_url": "movies\/789.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası - Bölüm 27",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/09\/29\/avrupa-yakasi-1695977376897.jpg",
+                    "details_url": "movies\/790.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası - Bölüm 28",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/02\/avrupa-yakasi-1696194613934.jpg",
+                    "details_url": "movies\/791.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası - Bölüm 29",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696282171477.jpg",
+                    "details_url": "movies\/792.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası - Bölüm 30",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696282142840.jpg",
+                    "details_url": "movies\/793.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası - Bölüm 31",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696282118655.jpg",
+                    "details_url": "movies\/794.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası - Bölüm 32",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696282199449.jpg",
+                    "details_url": "movies\/795.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası - Bölüm 33",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696340350532.jpg",
+                    "details_url": "movies\/796.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası - Bölüm 34",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696340196023.jpg",
+                    "details_url": "movies\/797.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası - Bölüm 35",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696340254440.jpg",
+                    "details_url": "movies\/798.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası - Bölüm 36",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/03\/avrupa-yakasi-1696340112986.jpg",
+                    "details_url": "movies\/799.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası - Bölüm 37",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/04\/avrupa-yakasi-1696408957197.jpg",
+                    "details_url": "movies\/800.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası - Bölüm 38",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/04\/avrupa-yakasi-1696409010060.jpg",
+                    "details_url": "movies\/801.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Avrupa Yakası - Bölüm 39",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/04\/avrupa-yakasi-1696409075308.jpg",
+                    "details_url": "movies\/802.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Avrupa Yakası - Bölüm 40",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/04\/avrupa-yakasi-1696408871213.jpg",
+                    "details_url": "movies\/803.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Avrupa Yakası - Bölüm 41",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/17\/avrupa-yakasi-1697567644395.jpg",
+                    "details_url": "movies\/804.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Avrupa Yakası - Bölüm 42",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/17\/avrupa-yakasi-1697567736624.jpg",
+                    "details_url": "movies\/805.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Avrupa Yakası - Bölüm 43",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/17\/avrupa-yakasi-1697567844216.jpg",
+                    "details_url": "movies\/806.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Avrupa Yakası - Bölüm 44",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/17\/avrupa-yakasi-1697567939168.jpg",
+                    "details_url": "movies\/807.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Avrupa Yakası - Bölüm 45",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/18\/avrupa-yakasi-1697617743748.jpg",
+                    "details_url": "movies\/808.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Avrupa Yakası - Bölüm 46",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/18\/avrupa-yakasi-1697618231610.jpg",
+                    "details_url": "movies\/809.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Avrupa Yakası - Bölüm 47",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/18\/avrupa-yakasi-1697618285127.jpg",
+                    "details_url": "movies\/810.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Avrupa Yakası - Bölüm 48",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/18\/avrupa-yakasi-1697618381643.jpg",
+                    "details_url": "movies\/811.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Avrupa Yakası - Bölüm 49",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/19\/avrupa-yakasi-1697696542274.jpg",
+                    "details_url": "movies\/812.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Avrupa Yakası - Bölüm 50",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/19\/avrupa-yakasi-1697696643895.jpg",
+                    "details_url": "movies\/813.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Avrupa Yakası - Bölüm 51",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/19\/avrupa-yakasi-1697696835651.jpg",
+                    "details_url": "movies\/814.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Avrupa Yakası - Bölüm 52",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/19\/avrupa-yakasi-1697696926230.jpg",
+                    "details_url": "movies\/815.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Avrupa Yakası - Bölüm 53",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698741735986.jpg",
+                    "details_url": "movies\/816.json"
+                },
+                {
+                    "episode": 35,
+                    "title": "Avrupa Yakası - Bölüm 54",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/26\/avrupa-yakasi-1698302444237.jpg",
+                    "details_url": "movies\/817.json"
+                },
+                {
+                    "episode": 36,
+                    "title": "Avrupa Yakası - Bölüm 55",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/26\/avrupa-yakasi-1698302469075.jpg",
+                    "details_url": "movies\/818.json"
+                },
+                {
+                    "episode": 37,
+                    "title": "Avrupa Yakası - Bölüm 56",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/26\/avrupa-yakasi-1698302548682.jpg",
+                    "details_url": "movies\/819.json"
+                },
+                {
+                    "episode": 38,
+                    "title": "Avrupa Yakası - Bölüm 57",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/26\/avrupa-yakasi-1698302573361.jpg",
+                    "details_url": "movies\/820.json"
+                },
+                {
+                    "episode": 39,
+                    "title": "Avrupa Yakası - Bölüm 58",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/27\/avrupa-yakasi-1698413238036.jpg",
+                    "details_url": "movies\/821.json"
+                }
+            ]
+        },
+        {
+            "season": 3,
+            "title": "3. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası - Bölüm 59",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/27\/avrupa-yakasi-1698413329846.jpg",
+                    "details_url": "movies\/822.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası - Bölüm 60",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/27\/avrupa-yakasi-1698413394368.jpg",
+                    "details_url": "movies\/823.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası - Bölüm 61",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/27\/avrupa-yakasi-1698413466071.jpg",
+                    "details_url": "movies\/824.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası - Bölüm 62",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698733866896.jpg",
+                    "details_url": "movies\/825.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası - Bölüm 63",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698734900345.jpg",
+                    "details_url": "movies\/826.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası - Bölüm 64",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698741311211.jpg",
+                    "details_url": "movies\/827.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası - Bölüm 65",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698741476708.jpg",
+                    "details_url": "movies\/828.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası - Bölüm 66",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/10\/31\/avrupa-yakasi-1698741611526.jpg",
+                    "details_url": "movies\/829.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası - Bölüm 67",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/02\/avrupa-yakasi-1698927678125.jpg",
+                    "details_url": "movies\/830.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası - Bölüm 68",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/02\/avrupa-yakasi-1698927763724.jpg",
+                    "details_url": "movies\/831.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası - Bölüm 69",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/02\/avrupa-yakasi-1698927863293.jpg",
+                    "details_url": "movies\/832.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası - Bölüm 70",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/02\/avrupa-yakasi-1698927956199.jpg",
+                    "details_url": "movies\/833.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası - Bölüm 71",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168558794.jpg",
+                    "details_url": "movies\/834.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası - Bölüm 72",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168588664.jpg",
+                    "details_url": "movies\/835.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası - Bölüm 73",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168621131.jpg",
+                    "details_url": "movies\/836.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası - Bölüm 74",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168646775.jpg",
+                    "details_url": "movies\/837.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası - Bölüm 75",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168528546.jpg",
+                    "details_url": "movies\/838.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası - Bölüm 76",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168492779.jpg",
+                    "details_url": "movies\/839.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası  - Bölüm 77",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699169248700.jpg",
+                    "details_url": "movies\/840.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Avrupa Yakası  - Bölüm 78",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699169116714.jpg",
+                    "details_url": "movies\/841.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Avrupa Yakası  - Bölüm 79",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699169064520.jpg",
+                    "details_url": "movies\/842.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Avrupa Yakası  - Bölüm 80",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168982067.jpg",
+                    "details_url": "movies\/843.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Avrupa Yakası  - Bölüm 81",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/08\/16\/avrupa-yakasi-1692166309465.jpg",
+                    "details_url": "movies\/844.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Avrupa Yakası  - Bölüm 82",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168818203.jpg",
+                    "details_url": "movies\/845.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Avrupa Yakası  - Bölüm 83",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168756270.jpg",
+                    "details_url": "movies\/846.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Avrupa Yakası  - Bölüm 84",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168725778.jpg",
+                    "details_url": "movies\/847.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Avrupa Yakası  - Bölüm 85",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/05\/avrupa-yakasi-1699168697594.jpg",
+                    "details_url": "movies\/848.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Avrupa Yakası  - Bölüm 86",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860474121.jpg",
+                    "details_url": "movies\/849.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Avrupa Yakası  - Bölüm 87",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860432909.jpg",
+                    "details_url": "movies\/850.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Avrupa Yakası  - Bölüm 88",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860373721.jpg",
+                    "details_url": "movies\/851.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Avrupa Yakası  - Bölüm 89",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860345125.jpg",
+                    "details_url": "movies\/852.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Avrupa Yakası  - Bölüm 90",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860299859.jpg",
+                    "details_url": "movies\/853.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Avrupa Yakası  - Bölüm 91",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/13\/avrupa-yakasi-1699860249699.jpg",
+                    "details_url": "movies\/854.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Avrupa Yakası  - Bölüm 92",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/16\/avrupa-yakasi-1700088219171.jpg",
+                    "details_url": "movies\/855.json"
+                },
+                {
+                    "episode": 35,
+                    "title": "Avrupa Yakası  - Bölüm 93",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461032082.jpg",
+                    "details_url": "movies\/856.json"
+                }
+            ]
+        },
+        {
+            "season": 4,
+            "title": "4. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası  - Bölüm 94",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460975681.jpg",
+                    "details_url": "movies\/857.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası  - Bölüm 95",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460900618.jpg",
+                    "details_url": "movies\/858.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası  - Bölüm 96",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460835704.jpg",
+                    "details_url": "movies\/859.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası  - Bölüm 97",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460782289.jpg",
+                    "details_url": "movies\/860.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası  - Bölüm 98",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460718496.jpg",
+                    "details_url": "movies\/861.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası  - Bölüm 99",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460663629.jpg",
+                    "details_url": "movies\/862.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası  - Bölüm 100",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700460574155.jpg",
+                    "details_url": "movies\/863.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası  - Bölüm 101",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461172762.jpg",
+                    "details_url": "movies\/864.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası  - Bölüm 102",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461470010.jpg",
+                    "details_url": "movies\/865.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası  - Bölüm 103",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461424744.jpg",
+                    "details_url": "movies\/866.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası  - Bölüm 104",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461383092.jpg",
+                    "details_url": "movies\/867.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası  - Bölüm 105",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461324343.jpg",
+                    "details_url": "movies\/868.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası  - Bölüm 106",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461280687.jpg",
+                    "details_url": "movies\/869.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası  - Bölüm 107",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461226356.jpg",
+                    "details_url": "movies\/870.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası  - Bölüm 108",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/11\/20\/avrupa-yakasi-1700461121038.jpg",
+                    "details_url": "movies\/871.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası  - Bölüm 109",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/07\/avrupa-yakasi-1701950202800.jpg",
+                    "details_url": "movies\/872.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası  - Bölüm 110",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/07\/avrupa-yakasi-1701950152628.jpg",
+                    "details_url": "movies\/873.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası  - Bölüm 111",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/07\/avrupa-yakasi-1701950085537.jpg",
+                    "details_url": "movies\/874.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası  - Bölüm 112",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/07\/avrupa-yakasi-1701937264999.jpg",
+                    "details_url": "movies\/875.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Avrupa Yakası  - Bölüm 113",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/07\/avrupa-yakasi-1701932476720.jpg",
+                    "details_url": "movies\/876.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Avrupa Yakası  - Bölüm 114",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702161372933.jpg",
+                    "details_url": "movies\/877.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Avrupa Yakası  - Bölüm 115",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702161230243.jpg",
+                    "details_url": "movies\/878.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Avrupa Yakası  - Bölüm 116",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702161547935.jpg",
+                    "details_url": "movies\/879.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Avrupa Yakası  - Bölüm 117",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702161684098.jpg",
+                    "details_url": "movies\/880.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Avrupa Yakası  - Bölüm 118",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702161848600.jpg",
+                    "details_url": "movies\/881.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Avrupa Yakası  - Bölüm 119",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702162007530.jpg",
+                    "details_url": "movies\/882.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Avrupa Yakası  - Bölüm 120",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/10\/avrupa-yakasi-1702162193728.jpg",
+                    "details_url": "movies\/883.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Avrupa Yakası  - Bölüm 121",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/13\/avrupa-yakasi-1702416039737.jpg",
+                    "details_url": "movies\/884.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Avrupa Yakası  - Bölüm 122",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/13\/avrupa-yakasi-1702415989167.jpg",
+                    "details_url": "movies\/885.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Avrupa Yakası  - Bölüm 123",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/13\/avrupa-yakasi-1702415904232.jpg",
+                    "details_url": "movies\/886.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Avrupa Yakası  - Bölüm 124",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/22\/avrupa-yakasi-1703254036060.jpg",
+                    "details_url": "movies\/887.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Avrupa Yakası  - Bölüm 125",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/22\/avrupa-yakasi-1703254100526.jpg",
+                    "details_url": "movies\/888.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Avrupa Yakası  - Bölüm 126",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/22\/avrupa-yakasi-1703254168476.jpg",
+                    "details_url": "movies\/889.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Avrupa Yakası  - Bölüm 127",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/22\/avrupa-yakasi-1703254208791.jpg",
+                    "details_url": "movies\/890.json"
+                },
+                {
+                    "episode": 35,
+                    "title": "Avrupa Yakası  - Bölüm 128",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/22\/avrupa-yakasi-1703254339233.jpg",
+                    "details_url": "movies\/891.json"
+                },
+                {
+                    "episode": 36,
+                    "title": "Avrupa Yakası  - Bölüm 129",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/25\/avrupa-yakasi-1703458330177.jpg",
+                    "details_url": "movies\/892.json"
+                },
+                {
+                    "episode": 37,
+                    "title": "Avrupa Yakası  - Bölüm 130",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2023\/12\/25\/avrupa-yakasi-1703458404023.jpg",
+                    "details_url": "movies\/893.json"
+                }
+            ]
+        },
+        {
+            "season": 5,
+            "title": "5. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası  - Bölüm 131",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576226309.jpg",
+                    "details_url": "movies\/894.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası  - Bölüm 132",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576214744.jpg",
+                    "details_url": "movies\/895.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası  - Bölüm 133",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576305228.jpg",
+                    "details_url": "movies\/896.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası  - Bölüm 134",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576325480.jpg",
+                    "details_url": "movies\/897.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası  - Bölüm 135",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576343942.jpg",
+                    "details_url": "movies\/898.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası  - Bölüm 136",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576368948.jpg",
+                    "details_url": "movies\/899.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası  - Bölüm 137",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576398277.jpg",
+                    "details_url": "movies\/900.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası  - Bölüm 138",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576447939.jpg",
+                    "details_url": "movies\/901.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası  - Bölüm 139",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576467682.jpg",
+                    "details_url": "movies\/902.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası  - Bölüm 140",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/07\/avrupa-yakasi-1704576498972.jpg",
+                    "details_url": "movies\/903.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası  - Bölüm 141",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/10\/avrupa-yakasi-1704868709140.jpg",
+                    "details_url": "movies\/904.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası  - Bölüm 142",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/10\/avrupa-yakasi-1704868764059.jpg",
+                    "details_url": "movies\/905.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası  - Bölüm 143",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/10\/avrupa-yakasi-1704868808723.jpg",
+                    "details_url": "movies\/906.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası  - Bölüm 144",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/10\/avrupa-yakasi-1704868849885.jpg",
+                    "details_url": "movies\/907.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası - Bölüm 145",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/nDMKnSI2QlQ\/maxresdefault.jpg",
+                    "details_url": "movies\/908.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası - Bölüm 146",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/26\/avrupa-yakasi-1706256069947.jpg",
+                    "details_url": "movies\/909.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası - Bölüm 147",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/26\/avrupa-yakasi-1706256266074.jpg",
+                    "details_url": "movies\/910.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası  - Bölüm 148",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/27\/avrupa-yakasi-1706308941853.jpg",
+                    "details_url": "movies\/911.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası - Bölüm 149",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/28\/avrupa-yakasi-1706394034371.jpg",
+                    "details_url": "movies\/912.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Avrupa Yakası - Bölüm 150",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/28\/avrupa-yakasi-1706393974965.jpg",
+                    "details_url": "movies\/913.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Avrupa Yakası - Bölüm 151",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/29\/avrupa-yakasi-1706506917330.jpg",
+                    "details_url": "movies\/914.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Avrupa Yakası - Bölüm 152",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/29\/avrupa-yakasi-1706507012147.jpg",
+                    "details_url": "movies\/915.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Avrupa Yakası - Bölüm 153",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/01\/29\/avrupa-yakasi-1706507059951.jpg",
+                    "details_url": "movies\/916.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Avrupa Yakası - Bölüm 154",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/04\/avrupa-yakasi-1706999645302.jpg",
+                    "details_url": "movies\/917.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Avrupa Yakası - Bölüm 155",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/04\/avrupa-yakasi-1706999600357.jpg",
+                    "details_url": "movies\/918.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Avrupa Yakası - Bölüm 156",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/04\/avrupa-yakasi-1706999546290.jpg",
+                    "details_url": "movies\/919.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Avrupa Yakası - Bölüm 157",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/05\/avrupa-yakasi-1707114001471.jpg",
+                    "details_url": "movies\/920.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Avrupa Yakası  - Bölüm 158",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/05\/avrupa-yakasi-1707114107579.jpg",
+                    "details_url": "movies\/921.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Avrupa Yakası - Bölüm 159",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/v5g73hiJRBg\/maxresdefault.jpg",
+                    "details_url": "movies\/922.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Avrupa Yakası - Bölüm 160",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372325493.jpg",
+                    "details_url": "movies\/923.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Avrupa Yakası - Bölüm 161",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372423619.jpg",
+                    "details_url": "movies\/924.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Avrupa Yakası - Bölüm 162",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372487124.jpg",
+                    "details_url": "movies\/925.json"
+                }
+            ]
+        },
+        {
+            "season": 6,
+            "title": "6. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/8\/8d\/Avrupa_Yakas%C4%B1_poster.png",
+            "description": "Avrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Avrupa Yakası - Bölüm 163",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087096719.jpg",
+                    "details_url": "movies\/926.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Avrupa Yakası - Bölüm 164",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087157583.jpg",
+                    "details_url": "movies\/927.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Avrupa Yakası - Bölüm 165",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087220598.jpg",
+                    "details_url": "movies\/928.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Avrupa Yakası - Bölüm 166",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087274472.jpg",
+                    "details_url": "movies\/929.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Avrupa Yakası - Bölüm 167",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087335909.jpg",
+                    "details_url": "movies\/930.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Avrupa Yakası - Bölüm 168",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/16\/avrupa-yakasi-1708087378406.jpg",
+                    "details_url": "movies\/931.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Avrupa Yakası - Bölüm 169",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/17\/avrupa-yakasi-1708201757888.jpg",
+                    "details_url": "movies\/932.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Avrupa Yakası - Bölüm 170",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/17\/avrupa-yakasi-1708201709352.jpg",
+                    "details_url": "movies\/933.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Avrupa Yakası - Bölüm 171",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/17\/avrupa-yakasi-1708201655390.jpg",
+                    "details_url": "movies\/934.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Avrupa Yakası - Bölüm 172",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/24\/avrupa-yakasi-1708801155144.jpg",
+                    "details_url": "movies\/935.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Avrupa Yakası - Bölüm 173",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/24\/avrupa-yakasi-1708801416098.jpg",
+                    "details_url": "movies\/936.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Avrupa Yakası - Bölüm 174",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/24\/avrupa-yakasi-1708801477276.jpg",
+                    "details_url": "movies\/937.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Avrupa Yakası - Bölüm 175",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/24\/avrupa-yakasi-1708801532350.jpg",
+                    "details_url": "movies\/938.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Avrupa Yakası - Bölüm 176",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/26\/avrupa-yakasi-1708931016087.jpg",
+                    "details_url": "movies\/939.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Avrupa Yakası - Bölüm 177",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/26\/avrupa-yakasi-1708931081612.jpg",
+                    "details_url": "movies\/940.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Avrupa Yakası - Bölüm 178",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192356896.jpg",
+                    "details_url": "movies\/941.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Avrupa Yakası - Bölüm 179",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192449981.jpg",
+                    "details_url": "movies\/942.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Avrupa Yakası - Bölüm 180",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192530262.jpg",
+                    "details_url": "movies\/943.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Avrupa Yakası - Bölüm 181",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/01\/avrupa-yakasi-1709272862537.jpg",
+                    "details_url": "movies\/944.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Avrupa Yakası - Bölüm 182",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/01\/avrupa-yakasi-1709272926877.jpg",
+                    "details_url": "movies\/945.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Avrupa Yakası - Bölüm 183",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/01\/avrupa-yakasi-1709272999086.jpg",
+                    "details_url": "movies\/946.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Avrupa Yakası - Bölüm 184",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/07\/avrupa-yakasi-1709762572416.jpg",
+                    "details_url": "movies\/947.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Avrupa Yakası - Bölüm 185",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/07\/avrupa-yakasi-1709762662668.jpg",
+                    "details_url": "movies\/948.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Avrupa Yakası - Bölüm 186",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/07\/avrupa-yakasi-1709762701546.jpg",
+                    "details_url": "movies\/949.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Avrupa Yakası - Bölüm 187",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/08\/avrupa-yakasi-1709847373736.jpg",
+                    "details_url": "movies\/950.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Avrupa Yakası - Bölüm 188",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/08\/avrupa-yakasi-1709847419303.jpg",
+                    "details_url": "movies\/951.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Avrupa Yakası - Bölüm 189",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/08\/avrupa-yakasi-1709847459255.jpg",
+                    "details_url": "movies\/952.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Avrupa Yakası - Bölüm 190",
+                    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/03\/08\/avrupa-yakasi-1709847507941.jpg",
+                    "details_url": "movies\/953.json"
+                }
+            ]
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

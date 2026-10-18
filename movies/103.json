@@ -1,0 +1,43 @@
+{
+    "id": "103",
+    "title": "Akasya Durağı 049. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Seyit’in, kardeşleri Zeyno’yu aldattığını düşünen ağabeyleri Seyit’e yanlışının hesabını sormaya karar veriyor.\nZeyno, Seyit’i menejeri Petek’in evinde yarı çıplak yakalayınca bebeğini alıp evi terk eder. Seyit, Zeyno’ya suçsuz olduğunu anlatmaya çalışır ama Zeyno dinlemez. Abilerini çağırır ve kendisini köye götürmelerini ister. Zeyno’nun abileri ise Seyit’ten yaptığı yanlışın hesabını sormaya karar verirler. Seyit’in hayatı tehlikededir. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0427e56593434781bebb2.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0427e56593434781bebb2",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201096_bd98\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "102",
+        "title": "Akasya Durağı 048. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042a256593434781bebb5.jpg"
+    },
+    "next_movie_data": {
+        "id": "104",
+        "title": "Akasya Durağı 050. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0428fa781b60218225b46.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

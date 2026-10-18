@@ -1,0 +1,43 @@
+{
+    "id": "70",
+    "title": "Akasya Durağı 016. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tuğçe’nin ders verdiği öğrenci Erhan, Tuğçe’yi takıntı haline getirmiştir. Sürekli Tuğçe’ye telefonlar etmekte, her yerde onu izlemektedir. Erhan, Murat’ın taksiyle Tuğçe’yi okula bırakıp aldığını fark edince bir plan yapar. Murat’ın taksisini gasp eder ve Tuğçe’yi kaçırır. \r\n\r\nŞükran, Safiye ve Şaziment, gençleşmek için peeling yaptırıp yüzlerinin derisini soydurmaya karar verirler. Fakat yüzlerinin derisi fazla soyulunca üçü de çok korkunç göründüklerini fark ederler. \r\n\r\nDilek’in zenci sevgilisi Obayana, Osman’la konuşmak için durağa gelir. Sinan, Obayana’yı zenci futbolcu diye ikinci ligdeki bir futbol kulübüne satar. Fakat Obayana’nın futbol oynayamadığı ortaya çıkınca kulüp başkanı Sinan’ın peşine düşer.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04160e50aa9372888e59e.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162485_967b\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "69",
+        "title": "Akasya Durağı 015. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039b340201132a01ec386.jpg"
+    },
+    "next_movie_data": {
+        "id": "71",
+        "title": "Akasya Durağı 017. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041786ce436345c66112a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

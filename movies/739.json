@@ -1,0 +1,43 @@
+{
+    "id": "739",
+    "title": "İşler Güçler 19. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kayıp'a yönetmen aranırken oluşan boşlukta Ahmet ve Murat, Çalgı Çengi'ye konsantre olmuştur. Çekimler için Ankara'ya yol alırlar.Ahmet, Feride'nin doğumgünü hediyesi için akla karayı seçerken; Sadi ve Murat, Serpil için centilmence bir mücadeleye tutuşarlar. Bir yandan da ekip dizinin sponsorluk sorumlusu ve Şenol Baytar'ın kardeşi Aslı Baytar ile tanışır. Yayın Günü :  6 Kasım Salı Yayın Saati :  22.15",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6973f3b545efa46bf55f6bef.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=ouKxJ5UNgkk",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "738",
+        "title": "İşler Güçler 18.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/40e6bf59470d97919c9879b9.jpg"
+    },
+    "next_movie_data": {
+        "id": "740",
+        "title": "İşler Güçler 20.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7353476a439980da188bd478.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

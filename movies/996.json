@@ -1,0 +1,42 @@
+{
+    "id": "996",
+    "title": "Çukur - Bölüm 43",
+    "year": 2018,
+    "language": "tr",
+    "description": "Çukur 2. sezon 10. bölümde (Çukur 43. Bölüm); Çeto'nun elindeki en büyük kozu olan Saadet'i devreye sokması Vartolu'nun Salih'ten vazgeçmesine ve eski günlerdeki Vartolu'ya dönüşmesine neden olacak. ",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2018\/11\/26\/9226B081158C63695485068106A7F191_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "995",
+        "title": "Çukur - Bölüm 42",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "997",
+        "title": "Çukur - Bölüm 44",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

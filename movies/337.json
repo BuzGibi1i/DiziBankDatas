@@ -1,0 +1,43 @@
+{
+    "id": "337",
+    "title": "Kanıt 07. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Marmara Denizi açıklarında kimliği belirsiz, bedeni suda kalmaktan yoğun bir şekilde deforme olmuş bir ceset bulunur. Olay basit bir tekne kazası gibi gözükmektedir. Kurbanın kimliğinin tespiti için yola düşen Orhan ve Selim kendilerini hiç de beklemedikleri karışık ilişkiler yumağının ortasında bulurlar. Artık her şey, yalan ve gerçeği birbirinden ayıracak kanıtları gün yüzüne çıkarmaya kalmıştır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b54dd21b93d96ba31e57.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b54dd21b93d96ba31e57",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/da06_1551\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "336",
+        "title": "Kanıt 06. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b4fbd21b93d96ba31e4a.jpg"
+    },
+    "next_movie_data": {
+        "id": "338",
+        "title": "Kanıt 08. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b74bd21b93d96ba31e60.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

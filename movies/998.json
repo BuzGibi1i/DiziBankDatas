@@ -1,0 +1,42 @@
+{
+    "id": "998",
+    "title": "Çukur - Bölüm 45",
+    "year": 2018,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 12. Bölümünde (Çukur 45. Bölüm);  Ersoy'un Yamaç'a olan teklifi Koçovalılar ile Karakuzular arasındaki mücadelenin rengini değiştirecek. ",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2018\/12\/04\/CB7FA2F3ED7956C387EAFA14790A1154_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "997",
+        "title": "Çukur - Bölüm 44",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "999",
+        "title": "Çukur - Bölüm 46",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

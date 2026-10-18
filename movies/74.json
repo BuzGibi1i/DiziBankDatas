@@ -1,0 +1,43 @@
+{
+    "id": "74",
+    "title": "Akasya Durağı 020. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Uyuşturucu komasına giren Okan hastaneye kaldırılır. Mehmetler, oğullarının uyuşturucu kullandığını öğrendiklerinde şoke olurlar. Mehmet duraktaki şoförlerin de yardımıyla, Okan’ı uyuşturucu batağına düşüren zehir tacirlerinin peşine düşer. \r\nBu arada şöhret yolunda ilerleyen Seyit’in çektiği Anadolu Rep klipi televizyonda gösterilir. Fakat tepkiler hiç de Seyit’in beklediği gibi değildir. \r\nOsman dil bilmediği için taksisine binen bir müşterinin kendisine hakaret ettiğini sanır ve turistle kavga edip karakolluk olur. Komiser, Nuri Baba’ya, şoförlere pratik İngilizce dersi aldırması için baskı yapar. Şoförler buna isyan ederler. Bu yaştan sonra öğrenci olmak istemezler. Fakat İngilizce dersi için gelen öğretmeni gördüklerinde fikirleri değişir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419156593434781beb92.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162522_88fc\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "73",
+        "title": "Akasya Durağı 019. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418aac1fe339f48b59c3.jpg"
+    },
+    "next_movie_data": {
+        "id": "75",
+        "title": "Akasya Durağı 021. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419740201132a01ec3a9.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

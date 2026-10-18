@@ -1,0 +1,43 @@
+{
+    "id": "145",
+    "title": "Akasya Durağı 079. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akıl hastanesine yatan eski bir şoför arkadaşını ziyarete giden Osman ve Arif, bir oldu bittinin ardından, kendilerini de hastanenin hastaları arasında buluyorlar.  \nOsman’ın eski bir şoför arkadaşı akıl hastanesine yatmıştır. Osman arkadaşını ziyaret etmek ister. Arif daha önce akıl hastanesinde yattığı için Osman’ı alıp hastaneye götürür. Fakat iki hasta Osman’la Arifi bayıltıp elbiselerini giyip kaçarlar. Osman’la Arif uyandıklarında kimseyi deli olmadıklarına inandıramazlar. \nBir kuyumcu soyulur. Hırsızın çaldığı altınlar Sinan’ın eline geçer ve Sinan zengin oldum diye sevinir. Ancak Sinan’ın çantası Ali Kemal’in çantası ile karışınca Sinan’ın bütün hayalleri suya düşeer. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053c1ac1fe339f48b59cc.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae053c1ac1fe339f48b59cc",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149613_5a7f\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "144",
+        "title": "Akasya Durağı 078. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053b5f0dc1e3c6cba8535.jpg"
+    },
+    "next_movie_data": {
+        "id": "146",
+        "title": "Akasya Durağı 080. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053ccf0dc1e3c6cba8537.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

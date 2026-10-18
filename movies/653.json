@@ -1,0 +1,48 @@
+{
+    "id": "653",
+    "title": "E.D.H.O. Bölüm 197",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 197",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/06\/02\/eskiya-dunyaya-hukumdar-olmaz-1622627691084.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/197_ezex\/e952acae-3111-4f60-90ee-b8575e43592e.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/197_ezex\/e952acae-3111-4f60-90ee-b8575e43592e_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "652",
+        "title": "E.D.H.O. Bölüm 196",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/06\/02\/eskiya-dunyaya-hukumdar-olmaz-1622628057870.jpg"
+    },
+    "next_movie_data": {
+        "id": "654",
+        "title": "E.D.H.O. Bölüm 198",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2021\/06\/07\/eskiya-dunyaya-hukumdar-olmaz-1623052728602.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

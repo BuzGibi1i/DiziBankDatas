@@ -1,0 +1,42 @@
+{
+    "id": "1010",
+    "title": "Çukur - Bölüm 57",
+    "year": 2019,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 24. Bölümünde; (Çukur 57. Bölüm); Çeto, Mahsun ve Koçovalı Kardeşler'e karşı hain planlar yapmaya devam ederken, İdris tüm oğullarıyla bir araya gelerek Çukur'u eski günlerine götürecek. ",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2019\/03\/22\/21B1A796AAC9A83836FD3E69DFC32622_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1009",
+        "title": "Çukur - Bölüm 56",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1011",
+        "title": "Çukur - Bölüm 58",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

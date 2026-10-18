@@ -1,0 +1,43 @@
+{
+    "id": "370",
+    "title": "Kanıt 40. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Geleceği görebildiğini iddia eden iki falcı kardeş! Ve bir cinayet! Nükhet Kuzgun evinde çıkan yangında, yanarak hayatını kaybetti. Ancak adli tıp, olayın görünenden daha farklı olduğunu ortaya çıkardı. Falcılık yapan Nükhet Kuzgun öldürülmüştü!\nYanmış bir olay yerinde, polisleri katile götürecek ipuçlarını bulmak mümkün mü?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bc82d21b93d96ba31f38.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bc82d21b93d96ba31f38",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/985f_1103\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "369",
+        "title": "Kanıt 39. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5a586573a781b60320a958ec.jpg"
+    },
+    "next_movie_data": {
+        "id": "371",
+        "title": "Kanıt 41. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ea00ce73ab166190c654b9e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

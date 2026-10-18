@@ -1,0 +1,43 @@
+{
+    "id": "267",
+    "title": "Yalan Dünya 27.Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Böbrek taşı ağrılarından şikayet eden Selahattin’e doktor,  sıcak küvette, bira içerek taşı düşürmeyi tavsiye ediyor. Gördüğü ilgi ve tatil havasından büyük keyif alan Selahattin, taşı düşürmesine rağmen hastaymış gibi davranmaya devam ediyor.\n\nAblası Deniz hakkında ileri geri konuştuğu için, Cihangir’in ortasında Bora’dan dayak yiyen Bünyamin rezil olurken, ablasının namusunu koruyan Bora ise efsaneleşir. Bora’nın Bünyamin’e verdiği ders kulaktan kulağa abartılarak yayılır. Birden bire herkesin kendisine saygıda kusur etmemesi Bora’yı önceleri çok şaşırtır ancak, kısa sürede ortama uyum sağlayarak tadını çıkartır. Selahattin’in ise böbrek taşı şikayeti vardır. Doktor tavsiyesi ile sıcak küvette, bira içerek taşı düşürmeye çalışan Selahattin, gördüğü ilgi ve tatil havasından büyük zevk almaya başlar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bed.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed1cf45af1064b70bed",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/eb6c_277\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "266",
+        "title": "Yalan Dünya 26. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed1cf45af1064b70bea.jpg"
+    },
+    "next_movie_data": {
+        "id": "268",
+        "title": "Yalan Dünya 28. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf0.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

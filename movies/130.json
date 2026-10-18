@@ -1,0 +1,43 @@
+{
+    "id": "130",
+    "title": "Akasya Durağı 064. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman kaçırılıyor ve kendisini bir düğünün ortasında buluyor. Üstelik bu düğünde damat da kendisi oluyor.  Zeyno hastadır. Bunu fırsat bilen Fato Aney, köyden Gülsüm adında bir kızı alıp gelir. Fato Aney, Gülsüm’ü ev işlerine yardımcı olması için getirdiğini söyler ama işin aslı hiç de öyle değildir. Taksisine binen bir kadın Osman’ı İsmail adında bir tanıdığına benzetir. Osman, İsmail olmadığını söyler fakat kadın inanmaz. Osman kaçırılır ve kendisini bir düğünün ortasında bulur. Üstelik bu düğünde damat kendisidir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041bd04207c23e8e2d009.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041bd04207c23e8e2d009",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201765_c2d2\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "129",
+        "title": "Akasya Durağı 063. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041b6f0dc1e3c6cba8520.jpg"
+    },
+    "next_movie_data": {
+        "id": "131",
+        "title": "Akasya Durağı 065. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c46ce436345c661138.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "379",
+    "title": "Kanıt 49. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Başkomiser Orhan, Komiser Selim ve Ayça, bugüne kadar sayısız cinayeti aydınlatıp, suçluları adalete teslim ettiler. Ama sokak ortasında uğradıkları silahlı saldırı, her şeyi sonsuza dek değiştirdi!",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bccfd21b93d96ba31f53.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bccfd21b93d96ba31f53",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/931d_1109\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "378",
+        "title": "Kanıt 48. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58d278bcf0dc1e197cc265d7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "75",
+    "title": "Akasya Durağı 021. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman kurbanlık koç almıştır. Fakat Dilek koçu kestirmek istemez. Osman kurbanı kasaba kestirmeyip kendi kesmeye kalkınca da olanlar olur. \r\nSeyit’in kayınpederi İstanbul’a kurbanlık koyun satmak için gelmiştir. Melahat’ı görür görmez aşık olur ve onunla evlenmeye karar verir. Seyit ve Zeyno, onu bu planından vazgeçirmeye çalışırlar. Fakat Seyit’in kayınpederi onları dinlemez. \r\nŞaziment, Safiye, Gülbin ve Şükran, hamam sefası yapmak için hamama gitmeye karar verirler. Can bunu duyunca Zeyno’nun peşine takılıp hamama gider. Hamamdaki kadınlar Can’dan rahatsız olunca hamamda kavga çıkar. \r\nMurat ve Tuğçe, Ahu meselesinden dolayı hala küskündürler. Melahat bayram geliyor diye onları barıştırır. Fakat Ahu’nun Murat’ın peşini bırakmaya hiç niyeti yoktur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419740201132a01ec3a9.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200185_66a2\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "74",
+        "title": "Akasya Durağı 020. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419156593434781beb92.jpg"
+    },
+    "next_movie_data": {
+        "id": "76",
+        "title": "Akasya Durağı 022. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0419d56593434781beb9d.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

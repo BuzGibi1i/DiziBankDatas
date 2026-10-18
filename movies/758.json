@@ -1,0 +1,43 @@
+{
+    "id": "758",
+    "title": "İşler Güçler 38. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İşler Güçler’ de hayat güzel!Ahmet, Feride’yi vazgeçirmek için elinden geleni ardına koymamaya kararlı. Tüm arkadaşlarını arkasına alıp müthiş planını uygulamaya koyuluyor. Sadi bir gizemin peşine düşerken karşısında bambaşka gizemleri buluyor.Murat Pınar’ın yanında biraz fazla mutlu sanki.Rüstem’in kaderi ise John Locke ile yine kesişiyor. Arkadaşlarının devam edebilmesi için onun ölmesi gerek.Yayın Günü    :  14 Mayıs  Salı Yayın Saati    :  23.00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b4a32651488dac5e858706f5.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=zUWnrkHfzbo",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "757",
+        "title": "İşler Güçler 37. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/730da8b04bd789f30e2724bc.jpg"
+    },
+    "next_movie_data": {
+        "id": "759",
+        "title": "İşler Güçler 39. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/84812e7d47e581b7a5c83008.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

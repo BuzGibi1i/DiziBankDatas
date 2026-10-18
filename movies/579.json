@@ -1,0 +1,48 @@
+{
+    "id": "579",
+    "title": "E.D.H.O. Bölüm 123",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 123",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/01\/28\/eskiya-dunyaya-hukumdar-olmaz-1548659111241.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/123_lbuf\/8e098b5c-1db1-404c-af22-5f3df218a4cd.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/123_lbuf\/8e098b5c-1db1-404c-af22-5f3df218a4cd_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "578",
+        "title": "E.D.H.O. Bölüm 122",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/01\/21\/eskiya-dunyaya-hukumdar-olmaz-1548052816775.jpg"
+    },
+    "next_movie_data": {
+        "id": "580",
+        "title": "E.D.H.O. Bölüm 124",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2019\/02\/11\/eskiya-dunyaya-hukumdar-olmaz-1549868766036.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

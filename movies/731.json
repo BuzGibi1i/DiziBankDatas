@@ -1,0 +1,43 @@
+{
+    "id": "731",
+    "title": "İşler Güçler 11. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yapımını Limon Yapımın, yapımcılığını Hayri Aslan'ın yaptığı İşler Güçler perşembelere yeni tatlar katmaya devam ediyor.  Ahmet, Feride'den özür dilemenin yollarını ararken zorlanıyor, Murat 'Kayıp' projesine karşı çıkan Tülay'ın önerilerini dikkate alıyor. Rüstem, Tülay'ı ve Murat'ı ikna etmenin peşinde. Sadi, Hale'sizliğin keyfini çıkartmayı deniyor... 'Nigar Tan' olayı yapımcıyı yeni çözümler aramaya yöneltirken, Salih'in hayat görüşünü değiştiriyor.İşler Güçler Yeni Bölümüyle Perşembe 22.00'de Star'da!",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1f25f5eb4e868f3358d568b5.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=ZLzeflFmCHM",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "730",
+        "title": "İşler Güçler 10. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b7792ad445989bf0efdf228c.jpg"
+    },
+    "next_movie_data": {
+        "id": "732",
+        "title": "İşler Güçler 12.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/413ca59e4c2aa2be57183aaf.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

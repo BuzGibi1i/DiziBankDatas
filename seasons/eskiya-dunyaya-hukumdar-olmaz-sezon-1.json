@@ -1,0 +1,250 @@
+{
+    "id": "13",
+    "series_id": "4",
+    "title": "1. Sezon",
+    "description": "Eşkıya Dünyaya Hükümdar Olmaz adlı dizinin ilk bölümü 8 Eylül 2015 tarihinde yayımlandı, 6 sezondan oluşan dizi, 15 Haziran 2021 tarihinde yayımlanan 199. bölümü ile sezon finali yaparak sona erdi.",
+    "poster": "https:\/\/www.faramedia.co\/wp-content\/uploads\/2020\/09\/Eskiya-Dunyaya-Hukumdar-Olmaz.jpg",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "E.D.H.O. Bölüm 1",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/08\/298x178\/1441791711848.jpg",
+            "details_url": "movies\/431.json"
+        },
+        {
+            "episode": 2,
+            "title": "E.D.H.O. Bölüm 2",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/15\/298x178\/1442042417140.jpg",
+            "details_url": "movies\/432.json"
+        },
+        {
+            "episode": 3,
+            "title": "E.D.H.O. Bölüm 3",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/22\/298x178\/1442566599772.jpg",
+            "details_url": "movies\/433.json"
+        },
+        {
+            "episode": 4,
+            "title": "E.D.H.O. Bölüm 4",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/09\/29\/298x178\/1443423599201.jpg",
+            "details_url": "movies\/434.json"
+        },
+        {
+            "episode": 5,
+            "title": "E.D.H.O. Bölüm 5",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/06\/298x178\/1444141047615.jpg",
+            "details_url": "movies\/435.json"
+        },
+        {
+            "episode": 6,
+            "title": "E.D.H.O. Bölüm 6",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/13\/298x178\/1444393599072.jpg",
+            "details_url": "movies\/436.json"
+        },
+        {
+            "episode": 7,
+            "title": "E.D.H.O. Bölüm 7",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/20\/298x178\/1444998233663.jpg",
+            "details_url": "movies\/437.json"
+        },
+        {
+            "episode": 8,
+            "title": "E.D.H.O. Bölüm 8",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/10\/27\/298x178\/1445604889531.jpg",
+            "details_url": "movies\/438.json"
+        },
+        {
+            "episode": 9,
+            "title": "E.D.H.O. Bölüm 9",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/03\/298x178\/1446209597028.jpg",
+            "details_url": "movies\/439.json"
+        },
+        {
+            "episode": 10,
+            "title": "E.D.H.O. Bölüm 10",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/10\/298x178\/1446815820121.jpg",
+            "details_url": "movies\/440.json"
+        },
+        {
+            "episode": 11,
+            "title": "E.D.H.O. Bölüm 11",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/17\/298x178\/1447426906611.jpg",
+            "details_url": "movies\/441.json"
+        },
+        {
+            "episode": 12,
+            "title": "E.D.H.O. Bölüm 12",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/11\/24\/298x178\/1448267819580.jpg",
+            "details_url": "movies\/442.json"
+        },
+        {
+            "episode": 13,
+            "title": "E.D.H.O. Bölüm 13",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/12\/01\/298x178\/1448637315105.jpg",
+            "details_url": "movies\/443.json"
+        },
+        {
+            "episode": 14,
+            "title": "E.D.H.O. Bölüm 14",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/12\/08\/298x178\/1449239565829.jpg",
+            "details_url": "movies\/444.json"
+        },
+        {
+            "episode": 15,
+            "title": "E.D.H.O. Bölüm 15",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/01\/12\/959x566\/1452590933339.jpg",
+            "details_url": "movies\/445.json"
+        },
+        {
+            "episode": 16,
+            "title": "E.D.H.O. Bölüm 16",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2015\/12\/22\/960x565\/1450687438643.jpg",
+            "details_url": "movies\/446.json"
+        },
+        {
+            "episode": 17,
+            "title": "E.D.H.O. Bölüm 17",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/01\/11\/959x566\/1452494341738.jpg",
+            "details_url": "movies\/447.json"
+        },
+        {
+            "episode": 18,
+            "title": "E.D.H.O. Bölüm 18",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/01\/12\/959x566\/1452265003013.jpg",
+            "details_url": "movies\/448.json"
+        },
+        {
+            "episode": 19,
+            "title": "E.D.H.O. Bölüm 19",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/01\/19\/959x566\/1452864243778.jpg",
+            "details_url": "movies\/449.json"
+        },
+        {
+            "episode": 20,
+            "title": "E.D.H.O. Bölüm 20",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/01\/26\/959x566\/1453470943593.jpg",
+            "details_url": "movies\/450.json"
+        },
+        {
+            "episode": 21,
+            "title": "E.D.H.O. Bölüm 21",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/02\/02\/959x566\/1454071160755.jpg",
+            "details_url": "movies\/451.json"
+        },
+        {
+            "episode": 22,
+            "title": "E.D.H.O. Bölüm 22",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/02\/09\/959x566\/1454682021875.jpg",
+            "details_url": "movies\/452.json"
+        },
+        {
+            "episode": 23,
+            "title": "E.D.H.O. Bölüm 23",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/02\/16\/959x566\/1455283065154.jpg",
+            "details_url": "movies\/453.json"
+        },
+        {
+            "episode": 24,
+            "title": "E.D.H.O. Bölüm 24",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/02\/23\/959x566\/1455890787070.jpg",
+            "details_url": "movies\/478.json"
+        },
+        {
+            "episode": 25,
+            "title": "E.D.H.O. Bölüm 25",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/01\/959x566\/1456497598762.jpg",
+            "details_url": "movies\/479.json"
+        },
+        {
+            "episode": 26,
+            "title": "E.D.H.O. Bölüm 26",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/08\/298x178\/1457102642503.jpg",
+            "details_url": "movies\/480.json"
+        },
+        {
+            "episode": 27,
+            "title": "E.D.H.O. Bölüm 27",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/15\/959x566\/1457704419009.jpg",
+            "details_url": "movies\/481.json"
+        },
+        {
+            "episode": 28,
+            "title": "E.D.H.O. Bölüm 28",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/22\/959x566\/1458309607389.jpg",
+            "details_url": "movies\/482.json"
+        },
+        {
+            "episode": 29,
+            "title": "E.D.H.O. Bölüm 29",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/29\/959x566\/1458912603111.jpg",
+            "details_url": "movies\/483.json"
+        },
+        {
+            "episode": 30,
+            "title": "E.D.H.O. Bölüm 30",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/05\/959x566\/1459514325575.jpg",
+            "details_url": "movies\/484.json"
+        },
+        {
+            "episode": 31,
+            "title": "E.D.H.O. Bölüm 31",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/12\/959x566\/1460117889554.jpg",
+            "details_url": "movies\/485.json"
+        },
+        {
+            "episode": 32,
+            "title": "E.D.H.O. Bölüm 32",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/19\/959x566\/1460721151608.jpg",
+            "details_url": "movies\/486.json"
+        },
+        {
+            "episode": 33,
+            "title": "E.D.H.O. Bölüm 33",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/26\/959x566\/1461400346548.jpg",
+            "details_url": "movies\/487.json"
+        },
+        {
+            "episode": 34,
+            "title": "E.D.H.O. Bölüm 34",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/05\/03\/959x566\/1462174968755.jpg",
+            "details_url": "movies\/488.json"
+        },
+        {
+            "episode": 35,
+            "title": "E.D.H.O. Bölüm 35",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/05\/10\/959x566\/1462779708388.jpg",
+            "details_url": "movies\/489.json"
+        },
+        {
+            "episode": 36,
+            "title": "E.D.H.O. Bölüm 36",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/05\/17\/960x565\/1463384595331.jpg",
+            "details_url": "movies\/490.json"
+        },
+        {
+            "episode": 37,
+            "title": "E.D.H.O. Bölüm 37",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/05\/24\/960x565\/1463990298309.jpg",
+            "details_url": "movies\/491.json"
+        },
+        {
+            "episode": 38,
+            "title": "E.D.H.O. Bölüm 38",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/05\/31\/959x566\/1464591768575.jpg",
+            "details_url": "movies\/492.json"
+        },
+        {
+            "episode": 39,
+            "title": "E.D.H.O. Bölüm 39",
+            "poster": "eskiya_dunyaya_hukumdar_olmaz_039_0400.mp4",
+            "details_url": "movies\/495.json"
+        },
+        {
+            "episode": 40,
+            "title": "E.D.H.O. Bölüm 40",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/06\/14\/959x566\/1465805021267.jpg",
+            "details_url": "movies\/496.json"
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "391",
+    "title": "Kanıt 61. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir doğum günü partisi! Cinayete kurban giden bir dadı! Onlarca davetli! Ve bir sürü şüpheli!\n \nMüge Uysal, bakıcılığını yaptığı küçük Emre’nin 3. doğum günü partisinde ölü bulundu. En önemli şüpheli, Emre’nin annesi Eda Kaya’ydı.\nFakat deliller ve devam eden soruşturma, partiye katılan birçok kişinin\nMüge’nin ölümüyle alakası olabileceğini gösteriyordu!\nEvin şoförüyle kurban arasında bir ilişki var mıydı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd6cf45af1064b71f52.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efd6cf45af1064b71f52",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/f7b9_1155\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "390",
+        "title": "Kanıt 60. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd6cf45af1064b71f4f.jpg"
+    },
+    "next_movie_data": {
+        "id": "392",
+        "title": "Kanıt 62. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be2bd21b93d96ba31fa4.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

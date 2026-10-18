@@ -1,0 +1,43 @@
+{
+    "id": "744",
+    "title": "İşler Güçler 24.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yapımını Limon Yapımın Yapımcılığını Hayri Aslan'ın yaptığı İşler Güçler'de İlk bölüm paraları yatmış, ekibe ekonomik sorunlarını halletmek için bir fırsat doğmuştur. Herkes kendi ihtiyaçlarına göre para harcama telaşına düşer. Bu sırada Murat yalnızlığına iyi gelecek ilacın peşine düşmüş, Sadi ise yeni dizisiyle yeni heyecanlara yelken açmıştır. Kanalın Kayp ile ilgili yeni planları vardır. Ve bu planda Ahmet ve Salih’in adları geçmektedir.Yayın Günü: 18 Aralık SalıYayın Saati: 22.15",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d80fbdc442b8a852e3adcd10.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=ur2W12ehsV8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "743",
+        "title": "İşler Güçler 23. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e8279f54c338793968ca7c5.jpg"
+    },
+    "next_movie_data": {
+        "id": "745",
+        "title": "İşler Güçler 25. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f19376e84cb8a6e85a05eb3e.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

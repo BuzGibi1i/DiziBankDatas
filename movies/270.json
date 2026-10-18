@@ -1,0 +1,43 @@
+{
+    "id": "270",
+    "title": "Yalan Dünya 30. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Deniz, Rıza’yı Nurhayat ile konuşması için yüreklendiriyor. Artık gizli gizli buluşmaktan yorulan ikili, Bora ve Nurhayat’a açılma konusunda karar alıyorlar.\n\nDeniz, Rıza’yı Nurhayat ile konuşması için yüreklendirir. Artık gizli gizli buluşmaktan yorulan ikili, Bora ve Nurhayat’a açılma konusunda karar alırlar. Ancak Rıza’nın zamanlaması çok yanlış olur. Dişçiden korkan Nurhayat, doktorunu lokal değil de tam anesteziye razı edemez. Çare olarak da bir güzellik salonunda kendine uyuşturucu etkisi yapan başka bir işlem uygulatır. Aldığı ilaçların etkisi altındayken de Rıza’nın itirafını dinler.\n\nTülay’ın konsomasyona çıkmasını istemeyen Selahattin, ona gündüz başka bir iş ayarlar. Ancak Tülay bu işi de esas mesleğine çevirmeyi başarır.\n\nEmir’in de başı aniden ortaya çıkan ve ondan para sızdırmaya çalışan sahte amcası ile derttedir. Bütün paparazziler onun amcasına yaptığı vefasızlığı haber yaparlar.\n\nAbisinin yalnızlığına çare bulmak isteyen Nurhayat,  psikolog zannettiği Zerrin’den ona da seans ayarlar. Bünyamin sorunlarını aşmanın yollarını ararken, Zerrin’in niyeti ise bambaşkadır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf6.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed2cf45af1064b70bf6",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/aaaa_114\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "269",
+        "title": "Yalan Dünya 29. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed2cf45af1064b70bf3.jpg"
+    },
+    "next_movie_data": {
+        "id": "271",
+        "title": "Yalan Dünya 31. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed3cf45af1064b70bf9.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

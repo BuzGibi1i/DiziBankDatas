@@ -1,0 +1,43 @@
+{
+    "id": "184",
+    "title": "Akasya Durağı 118. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, Osman’dan habersiz Dilek için bir gazinoda şarkıcılık işi bulmuştur. Dilek şarkı söylerken mekana bir Arap petrol kralı ve oğlu gelirler. Delikanlı Dilek’i görür görmez aşık olur ve onunla evlenmek ister. Safiye’nin de desteği ile Dilek’i zengin Arap ile evlendirme kararı alırlar ancak, düğün günü gelen üç Arap kadının da Dilek’in kumaları olduğu öğrenilince ortalık karışır.\nKendine iş arayan Hüso, eşek kılığında reklam ilanı dağıtan bir hemşerisi ile karşılaşır. Hemşerisi Hüso’ya bu işin çok kolay olduğunu, üstelik iyi para kazandığını söyler. Bu fikir Hüso ile Fiko’nun hoşuna gider ve soluğu işveren ajansta alırlar. Hüso ve Fikoy’a bir görev verilir. Ayı kılığında çocuk partisine gidip onları eğlendireceklerdir. Hüso ve Fiko zenginlerin oturduğu bir villaya gelirler. Çocuklar etraflarını sarar. Bu sırada bir çocuğun ayağı ile vurduğu top karşı villanın camını kırar. Hüso ile Fiko topu getirmek için koşup gittiklerinde içeride iki mafyanın, uyuşturucu satımı konusunda anlaşmazlığa düştükleri bir rakiplerini rehin almış olduklarını görürler. Rehin alınan adam öldürülürken, Hüso ile Fiko buna şahit olur ve korku ile ayrı yönlere kaçarlar. Biri mafya tarafından yakalanır ancak, diğeri kurtulur ve yardım istemeye gider.  ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9b11d21b93d96ba32195.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/667a9b11d21b93d96ba32195",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/153714_ae46\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "183",
+        "title": "Akasya Durağı 117. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9af4d21b93d96ba32188.jpg"
+    },
+    "next_movie_data": {
+        "id": "185",
+        "title": "Akasya Durağı 119. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667a9b33d21b93d96ba321a0.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

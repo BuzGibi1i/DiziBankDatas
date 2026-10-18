@@ -1,0 +1,49 @@
+{
+    "id": "923",
+    "title": "Avrupa Yakası - Bölüm 160",
+    "year": 2026,
+    "language": "tr",
+    "description": "📅 Yayın Tarihi: 17.04.2010\n\nAvrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372325493.jpg",
+    "backdrop": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372325493.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/avrupa-yakasi\/160_aiih\/9571d458-2017-41cb-aa5c-8db8aeebbe50.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/avrupa-yakasi\/160_aiih\/9571d458-2017-41cb-aa5c-8db8aeebbe50_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "922",
+        "title": "Avrupa Yakası - Bölüm 159",
+        "poster": "https:\/\/i.ytimg.com\/vi\/v5g73hiJRBg\/maxresdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "924",
+        "title": "Avrupa Yakası - Bölüm 161",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372423619.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

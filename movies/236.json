@@ -1,0 +1,43 @@
+{
+    "id": "236",
+    "title": "Akasya Durağı 170. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hayri’yi bir kamera şakası programının yapımcısı arar ve şaka yollamasını ister. Hayri kolunda sargı, ağzı köpürerek içeri girer ve kendisini köpek ısırdığını söyler. Osman ve evdekiler kaçarlarken, Dilek bir yandan da olanı biteni kameraya alır.\n\nGenç bir kıza araba çarpar. Kızı kimse aracına almak istemez. Arif, kızı aracına alarak hastaneye götürür. Kızın babası çok zengin bir iş adamıdır. Arif’in Akasya Durağı'nda çalıştığını öğrenir ve durağa giderek teşekkür edip, herkesi iftara davet eder. Yemekte Arif’e 50 bin liralık çek verir. Haberlere konu olan Arif’in annesi babası olmadığı haberde söylenir. Dolandırıcı yaşlı karı – koca, hemen bunu fırsat bilirler ve Arif’in karşısına biz senin aileniz diye çıkarlar. Arif şaşırır.\n\nZehra ve komşunun çocukları ses yarışmasına hazırlanmaktadırlar. Seyit hocalık yapar, çocukları durağa götürür ve orada da söyletir. Sinan yarışmadan para kazanılacağını duyunca işin içine Can ve Serkan’ı da dahil eder. Sinan yine sahtekarlık peşindedir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e66.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef7cf45af1064b70e66",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/160523_4d43\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "235",
+        "title": "Akasya Durağı 169. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e63.jpg"
+    },
+    "next_movie_data": {
+        "id": "237",
+        "title": "Akasya Durağı 171. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e69.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "376",
+    "title": "Kanıt 46. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Åirin Doruk, bir Åirketin insan kaynaklarÄ± departmanÄ±nda mÃ¼dÃ¼rdÃ¼. Lise son sÄ±nÄ±fta okuyan kÄ±zÄ± Ä°pek ise, Ã¼niversiteye hazÄ±rlanÄ±yordu. Gece geÃ§ saatlerde eve giren ÅÃ¼pheliler, anne ve kÄ±zÄ± vahÅice doÄradÄ±. Åirin Doruk olay yerinde hayatÄ±nÄ± kaybederken, aÄÄ±r yaralanan kÄ±zÄ± hastaneye kaldÄ±rÄ±ldÄ±. \nÅÃ¼pheliler kaÃ§ kiÅiydi? Olay yerinde bulunan asker kÃ¼nyesinin Ã¼zerinde yazanlar ne anlama geliyordu? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c7cfd21b93d96ba32095.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679c7cfd21b93d96ba32095",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/2ef8_1111\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "375",
+        "title": "Kanıt 45. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58cba0fa6ce43617348ab1f9.jpg"
+    },
+    "next_movie_data": {
+        "id": "377",
+        "title": "Kanıt 47. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bcaad21b93d96ba31f46.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

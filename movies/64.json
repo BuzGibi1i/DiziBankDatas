@@ -1,0 +1,43 @@
+{
+    "id": "64",
+    "title": "Akasya Durağı 010. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Banka soyguncuları, peşlerindeki polisi atlatamayınca Akasya Durağı’na giriyor ve şoförleri rehin alıyor.\r\nNuri Baba, oğlu Mert’in teröristlerle girdiği çatışmada kaybolduğunu öğrenince kalp krizi geçirir. Melahat ve Tuğçe ilk müdahaleyi yapar ve Nuri Baba’yı hastaneye kaldırırlar. Hayati tehlikesi olan Nuri Baba hemen yoğun bakıma alınır. Nuri Baba kalp krizini atlatabilecek mi? \r\nBu arada durağa Nuri Baba’nın bir arkadaşı gelir ve şoförlerden kızına direksiyon dersi vermelerini ister. Sinan’la Osman ders vermeyi kabul ederler, ancak Safiye ile Gülbin durumu yanlış anlayınca durakta işler karışır. \r\nEsra, Hayriye Hanım’a gelip Murat’tan hamile olduğunu söyler. Hayriye Hanım Murat’a bu bebek babasız doğarsa sana sütümü helal etmem der ve Esra ile evlenmesi için baskı yapar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0380c40201132a01ec37f.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162480_93e2\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "63",
+        "title": "Akasya Durağı 009. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0380540201132a01ec37a.jpg"
+    },
+    "next_movie_data": {
+        "id": "65",
+        "title": "Akasya Durağı 011. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03813f0dc1e3c6cba84fe.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

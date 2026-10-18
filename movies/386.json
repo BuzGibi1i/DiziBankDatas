@@ -1,0 +1,43 @@
+{
+    "id": "386",
+    "title": "Kanıt 56. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hırslı bir iş adamı! Güzel olduğu kadar başarılı bir yönetici! Beklenmedik bir cinayet ve kayıp bir kadın! Çok önemli bir ihale öncesinde, işadamı Demirkan Yüksel iş yerinde öldürüldü! Şirketin genel koordinatörü ise kayıplara karışmıştı! Kısa süre sonra maktulün yakın arkadaşı ve ortağının başına gelenler işleri daha da karıştırdı. Demirkan Yüksel’in ofisindeki dolapta bulunan uçak bileti ne anlama geliyordu?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bde3d21b93d96ba31f8d.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679bde3d21b93d96ba31f8d",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/9e80_1102\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "385",
+        "title": "Kanıt 55. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5bdfe96c04207c1f6c59a72e.jpg"
+    },
+    "next_movie_data": {
+        "id": "387",
+        "title": "Kanıt 57. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5bdfe97be50aa9162cbbed1a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

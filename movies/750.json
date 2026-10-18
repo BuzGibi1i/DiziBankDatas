@@ -1,0 +1,43 @@
+{
+    "id": "750",
+    "title": "İşler Güçler 30.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "İşler Güçler geri sayıyor!Ahmet bu masalda kimin kötü, kimin iyi, kimin mağdur olduğuna karar vermek zorundadır. Prensesin kendisi bile ejderhanın elinden kurtulması gerektiğinden habersizken, rolleri Ahmet'in biçmesi gerekecek. Prens mi olacak, yoksa cüce mi?Murat, tanımlanamayan gülümseyen objeyle ilk temastan sonra piramitlerin ardındaki sırrı çözmeye başlayacak. Sadi ise patlayacak. Haykırıyor ama kimse anlamıyor. Ve bunun S'leri söyleyememesiyle hiçbir ilgisi yok. Yayın Günü    :  19 Şubat Salı Yayın Saati    :  23.00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4a5760bc4a61a3af1aef9cb0.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=k3upl7NRO_Y",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "749",
+        "title": "İşler Güçler 29.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1c00741549579f87dca3fdcc.jpg"
+    },
+    "next_movie_data": {
+        "id": "751",
+        "title": "İşler Güçler 31.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/dbf8b1c0436e990fb0ee95b4.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

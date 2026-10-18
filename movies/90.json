@@ -1,0 +1,43 @@
+{
+    "id": "90",
+    "title": "Akasya Durağı 036. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Nuri Baba, Eleni ile evlilik kararı alır. Ama, Nuri Baba’nın askerden dönen oğlu Mert bu evliliğe karşı çıkar. \r\nSinan, hastalanan babasını ziyaret etmek üzere Adana’ya gitmek için yola çıkar . Ancak yolda otobüsü kaza yapar. Hayatını kaybedenlerin arasında Sinan’ın da ismi vardır. Duraktakiler habere çok üzülürler. Bu arada Mustafa adında Sinan’ın gizemli bir akrabası eve ziyarete gelmiştir. Herkes Mustafa’dan şüphelenmiştir. \r\nOsman’ın kızı Dilek bir organizatör bulur. Organizatör Dilek’i gazinoda çıkartacaktır. Safiye bütün mahalleye kızım assolist oldu diye hava atar. Fakat gittikleri gazinoda onları büyük bir sürpriz beklemektedir. \r\nZeyno, akrabası Hoşendam ile Seyit’i evlendirmek için çalışmalara devam etmektedir. Seyit’i baştan çıkartabilmesi için Hoşendam’a imaj yapan Zeyno acaba bu çabasında başarılı olabilecek midir?",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0421e49678326243027fd.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200884_bbf0\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "89",
+        "title": "Akasya Durağı 035. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae04218f0dc1e30f80397f3.jpg"
+    },
+    "next_movie_data": {
+        "id": "91",
+        "title": "Akasya Durağı 037. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422404207c23e8e2d013.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

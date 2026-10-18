@@ -1,0 +1,43 @@
+{
+    "id": "56",
+    "title": "Akasya Durağı 002. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Duraktaki şoförler kadından taksici olur mu olmaz mı diye iddiaya girerler. Melahat’in işteki ilk gününde aksilikler bir türlü peşini bırakmaz. Ve Melahat bu işi yapamayacağına inanıp işi bırakır. \r\nŞoför Osman’ın kızı Dilek okulun düzenlediği Abant gezisine gitmek için babasından izin ister. Fakat Osman izin vermeyince karısı Safiye kızı gizlice geziye gönderir. Osman’a da Dilek’in bir kız arkadaşına gittiğini söyler. Fakat gerçek ortaya çıkınca kızılca kıyamet kopar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03574f0dc1e30f803977e.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/161940_5e15\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "55",
+        "title": "Akasya Durağı 001. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0350a56593434781beb58.jpg"
+    },
+    "next_movie_data": {
+        "id": "57",
+        "title": "Akasya Durağı 003. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae035c4f0dc1e30f8039786.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "152",
+    "title": "Akasya Durağı 086. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan kendi hatası yüzünden taksiyi çaldırır. Nuri Baba bu duruma çok kızar. Fakat beklenmeyen bir şey olur. Hırsız, Sinan’a telefon eder ve taksiyi çaldığı için pişman olduğunu söyleyip, onları ailece yemeğe çağırır. Sinanlar taksiyi geri alacaklarını düşünürken, kendilerini daha kötü bir durumun içinde bulurlar. \nOsman bir banka soyguncusunun yakalanmasında polise yardımcı olur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae065c76ce436345c66119e.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae065c76ce436345c66119e",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149772_a1de\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "151",
+        "title": "Akasya Durağı 085. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0652a86857632047d4902.jpg"
+    },
+    "next_movie_data": {
+        "id": "153",
+        "title": "Akasya Durağı 087. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0664186857632047d4920.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "226",
+    "title": "Akasya Durağı 160. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir grup turist kızın oyununa gelip hipnoz edilen Sinan ve Güven, gözlerini karakolda açıyor.\n\nGüven’i bir arkadaşı arar ve rehberlik yapmasını ister. Güven, turistleri alıp gecekonduların arasında gezdirmektedir. Güven, turistlerle anlaşıp kızları, otele verdiklerin paranın yarısına eve götürür. Kızlar, Güven ve Sinan’ı oyun oynayacağız diye kandırırlar ve ellerindeki sarkaçla hipnotize ederler. Ardından da Güven ve Sinan kendilerini karakolda bulurlar.\n\nPostacı, Osman’a 7 senedir ödemediği 4000 TL’lik vergi borcunun tebligatını getirir. Osman, Safiye’den “sende vardır” diye para ister. Safiye, aslında parası olmasına rağmen, “param yok” der ve parayı bankaya yatırır. Alışveriş yapmak için para çeken Safiye dolandırılır. Osman hemen eve gelir. Narin, Safiye’nin bankada 8000 lirası olduğunu söyleyince Osman çılgına döner.\n\nİpek, gazetede ünlü tango hocası Gabriel Juan Roman Dos Santos Emilio Gustavo Matias’ın Türkiye ye geldiğini, üstelik kendi tango kursunda ders vereceğini görür. Dilek’le birlikte kursa gitmeye karar verirler. Matias çok yakışıklıdır. Emre de dans kursuna gitmek için Hayri’yi ikna eder. Matias, İpek’e figürler gösterince Emre sinirlenir ve Matis’la kavga eder.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e48.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef6cf45af1064b70e48",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158746_dbf8\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "225",
+        "title": "Akasya Durağı 159. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e45.jpg"
+    },
+    "next_movie_data": {
+        "id": "227",
+        "title": "Akasya Durağı 161. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

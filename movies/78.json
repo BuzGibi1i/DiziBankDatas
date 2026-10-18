@@ -1,0 +1,43 @@
+{
+    "id": "78",
+    "title": "Akasya Durağı 024. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Seyit ve akrabaları, Nuri Baba’dan habersiz durakta, dansözlü sıra gecesi düzenliyorlar. Nuri Baba durumu öğrenince de kıyamet kapıyor.\r\nUyuşturucu batağındaki oğlunun peşine düşen Mehmet’e otomobil çarpar. Mehmet hemen hastaneye kaldırılır. Haberi alan bütün şoförler hastaneye koşturur. Mehmet’in yaşayıp yaşamayacağı belli değildir. \r\nTuğçe, Murat’ı kıskandırmak için kuzeni Emre’yi sevgilisi gibi göstermektedir. Tuğçe’yi ebediyen kaybettiğini düşünen Murat kendini içkiye vurur. Sarhoş halde taksiyi kullanırken yolda yaralı bir adam görür. Adama yaralı etmek ister ama adam bayılır. Olay yerine gelen polis, Murat’ın sarhoş olduğunu görünce adama onun çarptığından şüphelenir ve Murat gözaltına alınır.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a986857632047d48c5.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200189_b6ba\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "77",
+        "title": "Akasya Durağı 023. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041a386857632047d48c1.jpg"
+    },
+    "next_movie_data": {
+        "id": "79",
+        "title": "Akasya Durağı 025. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041aff0dc1e30f80397e9.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,70 @@
+{
+    "id": "19",
+    "series_id": "5",
+    "title": "1. Sezon",
+    "description": "Dizide evin annesi Neriman (Oya Başar); emekli dolmuş şoförü baba Cahit (Tarık Ünlüoğlu); baba mesleğini devam ettiren ve hala ailesiyle yaşayan büyük oğlan Metin (Şehsuvar Aktaş); karşı dairede oturan küçük oğlan Çetin (Ali Sunal); Çetin'in eşi Ece (Dolunay Soysert) ve Metin'in eşi Nalan (Ayçin İnci) ile çok eğlenceli bir hayatın penceresi açılıyor. Cadılığına çok cadı, ama bir o kadar da tatlı bir kaynananın etrafında şekillenen; kocaman, mutlu ve çok komik bir ailenin hikâyesi anlatılıyor.",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/ca\/Benimannembirmelek.jpg",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "Benim Annem Bir Melek - Bölüm 1",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/07\/298x178\/1488894314803.jpg",
+            "details_url": "movies\/656.json"
+        },
+        {
+            "episode": 2,
+            "title": "Benim Annem Bir Melek - Bölüm 2",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/07\/298x178\/1488894686472.jpg",
+            "details_url": "movies\/657.json"
+        },
+        {
+            "episode": 3,
+            "title": "Benim Annem Bir Melek - Bölüm 3",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/07\/298x178\/1488895063068.jpg",
+            "details_url": "movies\/658.json"
+        },
+        {
+            "episode": 4,
+            "title": "Benim Annem Bir Melek - Bölüm 4",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489588378647.jpg",
+            "details_url": "movies\/659.json"
+        },
+        {
+            "episode": 5,
+            "title": "Benim Annem Bir Melek - Bölüm 5",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489588484070.jpg",
+            "details_url": "movies\/660.json"
+        },
+        {
+            "episode": 6,
+            "title": "Benim Annem Bir Melek - Bölüm 6",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489588650351.jpg",
+            "details_url": "movies\/661.json"
+        },
+        {
+            "episode": 7,
+            "title": "Benim Annem Bir Melek - Bölüm 7",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489588835400.jpg",
+            "details_url": "movies\/662.json"
+        },
+        {
+            "episode": 8,
+            "title": "Benim Annem Bir Melek - Bölüm 8",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489588977556.jpg",
+            "details_url": "movies\/663.json"
+        },
+        {
+            "episode": 9,
+            "title": "Benim Annem Bir Melek - Bölüm 9",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489589170920.jpg",
+            "details_url": "movies\/664.json"
+        },
+        {
+            "episode": 10,
+            "title": "Benim Annem Bir Melek - Bölüm 10",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/03\/15\/298x178\/1489589303953.jpg",
+            "details_url": "movies\/665.json"
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "335",
+    "title": "Kanıt 05. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kanıt, ANS Productions imzalı, yönetmenliğini Cem Sürücü ve Biray Dalkıran'ın üstlendiği, hikâyelerini Sevil Atasoy ve senaryosunu Ahmet Saatçioğlu'nun yazdığı, 2010-2013 yılları arasında Kanal D'de yayımlanan Türk yapımı polisiye türündeki televizyon dizisidir.",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/men57QS8MeE\/hqdefault.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=men57QS8MeE",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "334",
+        "title": "Kanıt 04. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b3acd21b93d96ba31e3e.jpg"
+    },
+    "next_movie_data": {
+        "id": "336",
+        "title": "Kanıt 06. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b4fbd21b93d96ba31e4a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

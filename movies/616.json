@@ -1,0 +1,48 @@
+{
+    "id": "616",
+    "title": "E.D.H.O. Bölüm 160",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 160",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/03\/16\/eskiya-dunyaya-hukumdar-olmaz-1584347011992.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/160_boji\/f3d96e57-eb69-452a-b1af-595fddc007ca.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/eskiya-dunyaya-hukumdar-olmaz\/160_boji\/f3d96e57-eb69-452a-b1af-595fddc007ca_1200.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "615",
+        "title": "E.D.H.O. Bölüm 159",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/03\/09\/eskiya-dunyaya-hukumdar-olmaz-1583739837858.jpg"
+    },
+    "next_movie_data": {
+        "id": "617",
+        "title": "E.D.H.O. Bölüm 161",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2020\/03\/23\/eskiya-dunyaya-hukumdar-olmaz-1584949178779.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

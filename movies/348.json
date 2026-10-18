@@ -1,0 +1,43 @@
+{
+    "id": "348",
+    "title": "Kanıt 18. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ayça Peker, 27 yaşında. Eski sevgilisi Barış’ın yanında bıçaklanarak öldürülmüş olarak bulundu. O gece evde, Seda’yla evlenmek üzere olan Barış’ın bekârlığa veda partisi vardı. Ve evdeki kimse, gece olanları tam olarak hatırlamıyordu!\nBarış’ın bekârlığa veda partisinde neler olmuştu? Gece eve çağrılan striptizci kız, ne biliyordu? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b976d21b93d96ba31ece.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/6679b976d21b93d96ba31ece",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/1442_1581\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "347",
+        "title": "Kanıt 17. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b952d21b93d96ba31ec3.jpg"
+    },
+    "next_movie_data": {
+        "id": "349",
+        "title": "Kanıt 19. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b99fd21b93d96ba31eda.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

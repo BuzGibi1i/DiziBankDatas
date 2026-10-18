@@ -1,0 +1,42 @@
+{
+    "id": "206",
+    "title": "Akasya Durağı 140. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/2LTfAXZl8Hk\/hqdefault.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=2LTfAXZl8Hk",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "205",
+        "title": "Akasya Durağı 139. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/QONoQ-Jdrl0\/hqdefault.jpg"
+    },
+    "next_movie_data": {
+        "id": "207",
+        "title": "Akasya Durağı 141. Bölüm",
+        "poster": "https:\/\/i.ytimg.com\/vi\/jzghPpgxirM\/hqdefault.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

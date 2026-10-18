@@ -1,0 +1,43 @@
+{
+    "id": "60",
+    "title": "Akasya Durağı 006. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Seyit, Zeyno’yu kaçırıp İstanbul’a getirmiştir. Zeyno, Melahat’ın evinde kalmaktadır. Tuğçe ve Melahat, Zeyno’yu modern bir kadına dönüştürmek için kolları sıvarlar. \r\n\r\nOsman’ın taksisine cezalar gelip durmaktadır. Osman bu cezalar nereden geliyor diye şaşkındır. Bir gece Sinan evden kovulup durağa gelince, cezaların neden geldiği ortaya çıkar. \r\n\r\nMehmet’in kızı Nurten ameliyat olur. Herkes heyecanla ameliyatın sonucunu beklemeye başlar. \r\n\r\nDilek bir oyuncu ajansına kayıt yaptırmıştır. Bir reklamda oynaması için teklif alır. Safiye, Osman’dan gizli kızı Dilek’i alıp sete götürür. Yönetmen Safiye’yi de çok beğenince anne - kız ikisini birden reklamda oynatmaya karar verir. Safiye, Osman’ın korkusundan oynamak istemese de alacağı parayı duyunca hemen kabul eder. Safiye ile Dilek hangi ürünün reklamında oynayacaklarını öğrendiklerinde ise artık çok geçtir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03698ac1fe339f48b5993.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162020_8812\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "59",
+        "title": "Akasya Durağı 005. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae03636a781b60218225af1.jpg"
+    },
+    "next_movie_data": {
+        "id": "61",
+        "title": "Akasya Durağı 007. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae037f76ce436345c6610f7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

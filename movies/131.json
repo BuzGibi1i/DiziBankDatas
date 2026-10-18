@@ -1,0 +1,43 @@
+{
+    "id": "131",
+    "title": "Akasya Durağı 065. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "SinanâÄ±n taksisine binen bir yÃ¶netmen, SinanâÄ±n tipini beÄenip, onu reklamda oynatÄ±nca, Sinan bir anda meÅhur oluyor. Osman, ÃskÃ¼pâe yakÄ±nlarÄ±nÄ±n dÃ¼ÄÃ¼nÃ¼ne gidecektir. Uzun yola gideceÄi iÃ§in sanayiye gidip taksisine baktÄ±rÄ±r. UyuÅturucu mafyasÄ±, OsmanâÄ±n Makedonyaâya gideceÄini Ã¶Ärenince gizlice taksisine uyuÅturucu yÃ¼kler. Osman uyuÅturucu yÃ¼klÃ¼ taksi ile Makedonya yolculuÄuna Ã§Ä±kar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c46ce436345c661138.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041c46ce436345c661138",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201794_c30c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "130",
+        "title": "Akasya Durağı 064. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041bd04207c23e8e2d009.jpg"
+    },
+    "next_movie_data": {
+        "id": "132",
+        "title": "Akasya Durağı 066. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041caf0dc1e30f80397eb.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

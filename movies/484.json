@@ -1,0 +1,48 @@
+{
+    "id": "484",
+    "title": "E.D.H.O. Bölüm 30",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 30",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/05\/959x566\/1459514325575.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/030\/eskiya_dunyaya_hukumdar_olmaz_030.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/030\/eskiya_dunyaya_hukumdar_olmaz_030_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "483",
+        "title": "E.D.H.O. Bölüm 29",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/03\/29\/959x566\/1458912603111.jpg"
+    },
+    "next_movie_data": {
+        "id": "485",
+        "title": "E.D.H.O. Bölüm 31",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2016\/04\/12\/959x566\/1460117889554.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

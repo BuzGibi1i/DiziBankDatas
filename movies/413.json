@@ -1,0 +1,43 @@
+{
+    "id": "413",
+    "title": "Kanıt 83. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir kreşte öğretmenlik yapan yirmi altı yaşındaki Akasya Erçin, oturduğu apartmanın çatısında vahşice katledilmiş olarak bulundu. Katil, zavallı kızı soymuş, üzerine yazılar yazmış ve göğüs uçlarını kesmişti. Bir seri katille karşı karşıya olduklarını düşünen Başkomiser Orhan, katili yakalamak için, uzun süre Amerika’da çalışmış olan profil uzmanı Doç. Dr. Yüksel Ezgici’den destek almaya karar verdi.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f95.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efdbcf45af1064b71f95",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/0c9e_784\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "412",
+        "title": "Kanıt 82. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f92.jpg"
+    },
+    "next_movie_data": {
+        "id": "414",
+        "title": "Kanıt 84. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdbcf45af1064b71f98.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

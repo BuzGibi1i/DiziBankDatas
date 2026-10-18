@@ -1,0 +1,43 @@
+{
+    "id": "393",
+    "title": "Kanıt 63. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Şefik Tahinci. Güvenilir bir bürokrat. Uyku bozukluğu sendromu yaşayan hastalardan sadece biri.  Yaygın deyişle bir uyurgezer. Bir otel odasında üstü başı kan içinde uyandığında hiçbir şey hatırlamıyordu. Aklına eskiden beri tanıdığı Orhan Başkomiser’i aramaktan başka bir şey gelmemişti. Çok geçmeden otelin başka bir odasında karısı ölü bulundu! En son evinde uykuya daldığını söyleyen Şefik Tahinci, otele nasıl gelmişti? Halasına gideceğini söyleyen karısının aynı otelde ne işi vardı? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd7cf45af1064b71f58.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465efd7cf45af1064b71f58",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/fd97_1051\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "392",
+        "title": "Kanıt 62. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679be2bd21b93d96ba31fa4.jpg"
+    },
+    "next_movie_data": {
+        "id": "394",
+        "title": "Kanıt 64. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efd7cf45af1064b71f5b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

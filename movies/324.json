@@ -1,0 +1,43 @@
+{
+    "id": "324",
+    "title": "Yalan Dünya 84. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Alsancaklar’ı nişan telaşı sarıyor. Nişanı ucuza getirmeye çalışan Timur, Vasfiye ile mekan konusunda anlaşıyor ama Alsancaklar büyük bir sürprizle de karşı karşıya kalıyor. Alsancaklar maddi durumları nedeniyle nişanı ucuza getirmeye çalışırlar. Ancak Kocabaşlar’ın iğneli laflarını da gururlarına yediremezler. Kara kara ne yapacaklarını düşünürlerken Orçun’dan parlak bir fikir gelir. Vasfiye’nin Esentepe’de havuzlu villası vardır, üstelik bahçesi de nişan için müsaittir. Timur ve Çiğdem bu fikre balıklama atlarlar. Ancak Vasfiye’den evi kiralamak umulduğu kadar kolay olmaz.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c98.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eee0cf45af1064b70c98",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S7\/HLS_VOD\/43599_be67\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "323",
+        "title": "Yalan Dünya 83. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eedfcf45af1064b70c95.jpg"
+    },
+    "next_movie_data": {
+        "id": "325",
+        "title": "Yalan Dünya 85. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eee0cf45af1064b70c9b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

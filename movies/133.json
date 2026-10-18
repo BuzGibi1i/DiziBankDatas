@@ -1,0 +1,43 @@
+{
+    "id": "133",
+    "title": "Akasya Durağı 067. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, mafya elemanlarının düşürdüğü çok değerli bir elması buluyor. Fakat polisten kaçırmak için elması yutmak zorunda kalıyor. Bu arada mafya elemanları da Sinan’ın karnındaki elmasın peşine düşüyor.\nSinan, mafya elemanlarının düşürdüğü çok değerli bir elması bulur. Fakat polisten kaçırmak için elması yutmak zorunda kalır. Bu arada mafya elemanları da Sinan’ın karnındaki elmasın peşine düşmüştür.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041d104207c23e8e2d00d.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae041d104207c23e8e2d00d",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/149240_ab16\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "132",
+        "title": "Akasya Durağı 066. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041caf0dc1e30f80397eb.jpg"
+    },
+    "next_movie_data": {
+        "id": "134",
+        "title": "Akasya Durağı 068. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041d86ce436345c66113b.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

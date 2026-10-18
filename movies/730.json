@@ -1,0 +1,43 @@
+{
+    "id": "730",
+    "title": "İşler Güçler 10. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yeni yayın döneminin  yaklaşması , Ahmet ve Murat’a yeni tekliflerin yolunu açarken, Sadi ise nakit akış sorununu çözmenin yollarını arıyor.Ahmet, Feride ile ilgili kararlarını  gözden geçiriyor, Murat ders verdiği çocuklardaki ani azalmaya inat, hızlandırılmış derslere başlıyor.  ‘Mumcuk’un marka yüzü kalabilmek için her türlü beladan uzak kalmaya çalışan üçlü, Murat’a gelen sürpriz teklifle adeta belanın içine yuvarlanıyor. Yayın Günü    : 30 Ağustos  PerşembeYayın Saati    : 22.00  ",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b7792ad445989bf0efdf228c.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=xpIhVJAyHJs",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "729",
+        "title": "İşler Güçler 9. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a38031684ed1a2527f9a38a1.jpg"
+    },
+    "next_movie_data": {
+        "id": "731",
+        "title": "İşler Güçler 11. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1f25f5eb4e868f3358d568b5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

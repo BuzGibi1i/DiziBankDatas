@@ -1,0 +1,43 @@
+{
+    "id": "740",
+    "title": "İşler Güçler 20.Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "KAYIP’ın  prime time için düşünüldüğünü öğrenen Şenol, kesenin ağzına açıyor, yönetmenin en pahalısını bulmanın peşine düşünüyor. Yönetmensizliği ciddiye almaya başlayan ekip, elini taşın altına koyuyor. Doktor ise çok hastadır. Yayın Günü    :  13 Kasım Salı Yayın Saati    :  22.15",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7353476a439980da188bd478.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=_i5zLjNNQek",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "739",
+        "title": "İşler Güçler 19. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6973f3b545efa46bf55f6bef.jpg"
+    },
+    "next_movie_data": {
+        "id": "741",
+        "title": "İşler Güçler 21. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/bb8c31064ffabd30e86a24c0.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

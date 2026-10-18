@@ -1,0 +1,64 @@
+{
+    "id": "12",
+    "series_id": "3",
+    "title": "3. Sezon",
+    "description": "İstanbul Emniyet Müdürlüğü cinayet masasından Başkomiser Orhan ve Komiser Selim her hafta başka bir cinayeti çözmeye çalışıyorlar. İkilinin bulduğu delilleri Kriminal Laboratuvarda değerlendiren Zeynep ile Adli Tıp'ta cesetlere otopsi yapan Doktor Ece ise cinayetlerin çözülmesine yardımcı oluyorlar. Cinayetlerin çözülmesinde yardımcı olan teknikleri ve bunların tarihsel gelişimini ise Sevil Atasoy anlatıyor.",
+    "poster": "https:\/\/thumb.wikimedia.org\/wikipedia\/tr\/thumb\/e\/ed\/Kan%C4%B1t.png\/250px-Kan%C4%B1t.png",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "Kanıt 92. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c091d21b93d96ba3205c.jpg",
+            "details_url": "movies\/422.json"
+        },
+        {
+            "episode": 2,
+            "title": "Kanıt 93. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efddcf45af1064b71fb3.jpg",
+            "details_url": "movies\/423.json"
+        },
+        {
+            "episode": 3,
+            "title": "Kanıt 94. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0b2d21b93d96ba32067.jpg",
+            "details_url": "movies\/424.json"
+        },
+        {
+            "episode": 4,
+            "title": "Kanıt 95. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efddcf45af1064b71fb9.jpg",
+            "details_url": "movies\/425.json"
+        },
+        {
+            "episode": 5,
+            "title": "Kanıt 96. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fbc.jpg",
+            "details_url": "movies\/426.json"
+        },
+        {
+            "episode": 6,
+            "title": "Kanıt 97. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0d1d21b93d96ba32070.jpg",
+            "details_url": "movies\/427.json"
+        },
+        {
+            "episode": 7,
+            "title": "Kanıt 98. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdecf45af1064b71fc2.jpg",
+            "details_url": "movies\/428.json"
+        },
+        {
+            "episode": 8,
+            "title": "Kanıt 99. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdfcf45af1064b71fc5.jpg",
+            "details_url": "movies\/429.json"
+        },
+        {
+            "episode": 9,
+            "title": "Kanıt 100. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c0f6d21b93d96ba3207c.jpg",
+            "details_url": "movies\/430.json"
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

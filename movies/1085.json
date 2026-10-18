@@ -1,0 +1,42 @@
+{
+    "id": "1085",
+    "title": "Çukur - Bölüm 111",
+    "year": 2021,
+    "language": "tr",
+    "description": "Çukur 4. Sezon 19. Bölümünde (111. Bölüm); Erdenet'lerin sonunu getirmek için hız kesmeden devam eden Yamaç, bir sonraki hedefe ulaşmak için büyük bir saldırı gerçekleştirecek.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2021\/01\/12\/2F39516AF6366837C0D0C374295E2CFC_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1084",
+        "title": "Çukur - Bölüm 110",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1086",
+        "title": "Çukur - Bölüm 112",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

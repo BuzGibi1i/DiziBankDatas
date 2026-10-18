@@ -1,0 +1,43 @@
+{
+    "id": "288",
+    "title": "Yalan Dünya 49. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Ayağının sakatlığı yüzünden bunalımda olan Selahattin, Orçun ile iddiaya giriyor. Üç aşamadan oluşan iddianın son aşaması ise en zoru. Buna göre; Vasfiye’nin iğneleyeci laflarına, 10 dakika gözü yaşarmadan dayanan iddianın galibi olacak. Kaybeden ise eşek tıraşı yaptıracak.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c2f.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed8cf45af1064b70c2f",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS2\/HLS_VOD\/6939_b501\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "287",
+        "title": "Yalan Dünya 48. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c2c.jpg"
+    },
+    "next_movie_data": {
+        "id": "289",
+        "title": "Yalan Dünya 50. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed8cf45af1064b70c32.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

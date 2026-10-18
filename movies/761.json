@@ -1,0 +1,43 @@
+{
+    "id": "761",
+    "title": "İşler Güçler 41. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Erol ile İbrahim bir arada olmak için hiçbir sebebi olmayan ama bir türlü de ayrılamayan iki arkadaşın hikayesidir.İbrahim Erol’u kabir azabını dindirmek için gönderilmiş bir bela olarak kabul etmiştir. Erol ise İbrahim’i sever akrabalarını ve yakın çevresini ise daha çok sever. Sevgisini göstermekten de sakınmaz.Bu arkadaşlığın ilk gününden son gününe kadar yaşanan önemli anlarının taşındığı özel  bölümü ile Star’da.Yayın Günü    :  3 Haziran  Salı Yayın Saati    :  23.30",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d774f51a43a98edf65d9275d.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 42
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Star TV Direct",
+            "type": "m3u8",
+            "url": "https:\/\/dygvideo.dygdigital.com\/StarTV\/Dizi\/islergucler\/islergucler41.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "760",
+        "title": "İşler Güçler 40. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/33a4f4fb4c2ea70da30dbb2e.jpg"
+    },
+    "next_movie_data": {
+        "id": "762",
+        "title": "İşler Güçler Görmedikleriniz (Özel Bölüm)",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a377b2e447b3a90375555df0.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

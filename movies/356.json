@@ -1,0 +1,43 @@
+{
+    "id": "356",
+    "title": "Kanıt 26. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kayhan Akman. 35 yaşında. Avukat… Ormanlık arazide ölü olarak bulundu. Kalp krizi geçirmesine rağmen, ölümünde kafa karıştıran bir çok şüphe vardı. Şüpheli ölümün peşine düşen Başkomiser Orhan ve Komiser Selim, daha önce hiç karşılaşmadıkları bir durumla karşı karşıya kaldılar!\nKayhan Akman’ın son kez görüldüğü Gece Bar’da neler olmuştu? ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/59ba666c8685761edc70b8e8.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/59ba666c8685761edc70b8e8",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/4051_1690\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "355",
+        "title": "Kanıt 25. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bb6dd21b93d96ba31f1a.jpg"
+    },
+    "next_movie_data": {
+        "id": "357",
+        "title": "Kanıt 27. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bbacd21b93d96ba31f22.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

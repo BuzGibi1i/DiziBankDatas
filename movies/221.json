@@ -1,0 +1,43 @@
+{
+    "id": "221",
+    "title": "Akasya Durağı 155. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hayri, kendisine sulu bir Åaka yapan Osmanâdan intikam almak iÃ§in karÅÄ± ataÄa geÃ§iyor. Ve hazÄ±rladÄ±ÄÄ± Åaka ile de Osmanâa korku dolu anlar yaÅatÄ±yor. Seyitâe bankadan 3 bin liralÄ±k haciz kaÄÄ±dÄ± gelmiÅtir ve ne yapacaÄÄ±nÄ± bilemez haldedir. Bu sÄ±rada SinanâÄ±n taksisine binen bir mÃ¼Återi, dÃ¼ÄÃ¼nde sahneye Ã§Ä±kacak tÃ¼rkÃ¼cÃ¼ aramaktadÄ±r. Telefon konuÅmasÄ±na kulak misafiri olan Sinan, adama Seyitâin demo kasetini dinletir ve adamla 4 bin liraya anlaÅÄ±rlar. Sinan, Seyitâe haber verir ve 1000 liraya anlaÅtÄ±klarÄ±nÄ± sÃ¶yler. Seyit, gece sahneye Ã§Ä±kar fakat, gelinin altÄ±nlarÄ± Ã§alÄ±nÄ±r. Polis gelir, Ã§alÄ±nan altÄ±nlar Seyitâin sazÄ±nÄ±n iÃ§erisinden Ã§Ä±kÄ±nca Sinan ve Seyit karakolluk olurlar. Osman bir tÃ¼rlÃ¼ uyanmayan Hayriâye Åaka yapma peÅindedir. Hayri, uyurken yataÄÄ±na su dÃ¶ker. UyandÄ±ÄÄ±nda ev halkÄ±nÄ± baÅÄ±nda gÃ¶ren Hayri, altÄ±na kaÃ§Ä±rdÄ±ÄÄ±nÄ± dÃ¼ÅÃ¼nÃ¼r ve utanÄ±r. Bu sÄ±rada Osman da yaÅananlarÄ±, telefonunun kamerasÄ±yla kaydeder. Hayriânin yalvarmasÄ±na raÄmen gÃ¶rÃ¼ntÃ¼leri duraktakilere izletir. Bunun altÄ±nda kalmak istemeyen Hayri de Osmanâa bir Åaka hazÄ±rlar. Buna gÃ¶re OsmanâÄ±n iki aylÄ±k Ã¶mrÃ¼ kalmÄ±ÅtÄ±r. OsmanâÄ± Ã¶lÃ¼m korkusu sarar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e39.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef5cf45af1064b70e39",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158432_1c96\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "220",
+        "title": "Akasya Durağı 154. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e36.jpg"
+    },
+    "next_movie_data": {
+        "id": "222",
+        "title": "Akasya Durağı 156. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3c.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

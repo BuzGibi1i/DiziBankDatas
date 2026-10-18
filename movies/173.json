@@ -1,0 +1,43 @@
+{
+    "id": "173",
+    "title": "Akasya Durağı 107. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Fato Aney yine Seyit’e kuma getirme planları yaparken, Kübra adındaki dolandırıcı genç kız, Seyit’in evinin kapısına dayanır. Kübra erkekleri evlenme vaadiyle kandırıp, düğün günü altınları alıp kaçmaktadır ve yine böyle bir plan içindedir. Aney, Kübra’nın gerçek niyetini bilmediğinden onu Seyit’e kuma almaya karar verir. Arif, Bahar adındaki genç ve güzel bir kızı kapkaççıdan kurtarır ve bu arada kıza aşık olur. Bahar aslında polistir ve Arif’e bunu söylememiştir. Bahar, hayat kadını kılığına girerek, fuhuş çetesinin çökertmekle görevlendirildiği operasyon esnasında, Seyit tarafından görülür. Seyit, bunu Arif’e söyler. Arif, Bahar’ın temiz bir kız olduğunu savununca, şoförler ona yardım etmeye kalkışırlar ve kendilerini fuhuş operasyonunun göbeğinde bulurlar. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae071966ce436345c6611ff.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae071966ce436345c6611ff",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/152992_1cb8\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "172",
+        "title": "Akasya Durağı 106. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0712004207c23e8e2d088.jpg"
+    },
+    "next_movie_data": {
+        "id": "174",
+        "title": "Akasya Durağı 108. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0726904207c23e8e2d090.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

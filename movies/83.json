@@ -1,0 +1,43 @@
+{
+    "id": "83",
+    "title": "Akasya Durağı 029. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Levent’in eski eşi Arzu, Melahat’ı Levent’ten ayırabilmek için bu sefer de oğlu Yağız’ı devreye sokar. \r\nZeyno hamile kalamadığı için ailesi, üzerinde baskı oluşturmaktadır. Zeyno nefesi kuvvetli bir üfürükçünün üflediği kadınların hamile kaldığını öğrenince soluğu üfürükçüde alır. Fakat üfürükçü Zeyno’ya tacizde bulunur. Zeyno durumu Gülübik’lere anlatır. Sinan’la Ali Kemal suçüstü yaptırabilmek için kadın kılığına girerek tacizci hocaya gidince olaylar iyice çığırından çıkar. \r\nŞoförlerin eşleri televizyondaki yarışma programlarından etkilenerek kendi aralarında yemek yarışması yapmaya karar verirler. Amaçları sadece eğlenmektir. Fakat yarışma başladığında kadınlar kazanma hırsıyla didişmeye başlarlar. Safiye’nin kazanmak için yaptığı numara bardağı taşıran son damla olur. \r\nTuğçe, Murat’ın taksisinde bir aşk mesajı bulunca kavga eder. Bunu fırsat bilen Gözde, Tuğçe’yi Şile’ye yazlıklarına davet eder. İki kız kafalarını dinlemeye giderler. Fakat Gözde’nin asıl amacı Tuğçe’yi Şile’de öldürmektir.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c656593434781beba3.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200669_7076\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "82",
+        "title": "Akasya Durağı 028. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041c1e50aa9372888e5a8.jpg"
+    },
+    "next_movie_data": {
+        "id": "84",
+        "title": "Akasya Durağı 030. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041ee56593434781beba6.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

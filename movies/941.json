@@ -1,0 +1,49 @@
+{
+    "id": "941",
+    "title": "Avrupa Yakası - Bölüm 178",
+    "year": 2026,
+    "language": "tr",
+    "description": "📅 Yayın Tarihi: 05.05.2010\n\nAvrupa Yakası, Plato Film imzalı, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.[5] Dizide, Nişantaşı'nda yaşayan Sütçüoğlu ailesi ile Avrupa Yakası dergisi çalışanlarının ve onların yakınlarının komik öyküsü anlatılmaktadır.[6] Toplam 6 sezondan oluşan dizi, 24 Haziran 2009 tarihinde yayımlanan 190. bölümü ile final yaparak sona erdi.",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192356896.jpg",
+    "backdrop": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192356896.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/avrupa-yakasi\/178_awew\/01414f95-8758-4d01-a90a-268a9ce5c33d.hb.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/video\/dizi\/avrupa-yakasi\/178_awew\/01414f95-8758-4d01-a90a-268a9ce5c33d_1800.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "940",
+        "title": "Avrupa Yakası - Bölüm 177",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/26\/avrupa-yakasi-1708931081612.jpg"
+    },
+    "next_movie_data": {
+        "id": "942",
+        "title": "Avrupa Yakası - Bölüm 179",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/29\/avrupa-yakasi-1709192449981.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

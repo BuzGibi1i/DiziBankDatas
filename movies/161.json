@@ -1,0 +1,43 @@
+{
+    "id": "161",
+    "title": "Akasya Durağı 095. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan’la girdiği iddiayı kaybeden Osman, duraktakilerle birlikte eğlenmeye gider. Hesap çok gelince deliren Osman gazino patronunun odasına gider. Osman’ı düşmanının adamı zanneden patron silahına davranır. Osman silahı patrondan alır, bu sırada silah patlar ve patron ölür. Arkadan biri ateş etmiştir fakat Osman bunu bilmez. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae069f2496783262430282a.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae069f2496783262430282a",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150844_dfca\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "160",
+        "title": "Akasya Durağı 094. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0696af0dc1e3c6cba857f.jpg"
+    },
+    "next_movie_data": {
+        "id": "162",
+        "title": "Akasya Durağı 096. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06a91a781b60218225b84.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "93",
+    "title": "Akasya Durağı 039. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Murat avukatlık bürosunu açar ve ilk işini alır. Murat’ın kendilerine dava açtığını öğrenen mafya davadan çekilmesi için Murat’ı tehdit eder. Murat tehditlere pabuç bırakmayacağını söyler. Bunun üzerine mafya Tuğçe’yi kaçırır. \r\nSeyit caminin önünde terk edilmiş bir bebek bulur. Seyit ve Zeyno çocukları olmadığı için bu bebeği kendilerine Tanrı’nın gönderdiğini düşünürler. Ve bebeği herkesten saklamaya karar verirler.  \r\nNuri Baba’nın Kore gazisi olan amcası misafirliğe gelir. Nuri Baba, gazi amcasının tepki göstereceğini bildiği için Eleni Hanım’ın kimliğini saklar. Emine diye tanıtır. Gazi amca Emine olarak tanıdığı Eleni’yi çok sever. Fakat Nuri Baba’nın yalanı ortaya çıkınca kızılca kıyamet kopar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0422ff0dc1e30f80397f7.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/200919_bc36\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "92",
+        "title": "Akasya Durağı 038. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042296ce436345c661142.jpg"
+    },
+    "next_movie_data": {
+        "id": "94",
+        "title": "Akasya Durağı 040. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0423be50aa9372888e5ba.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

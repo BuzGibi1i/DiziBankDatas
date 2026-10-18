@@ -1,0 +1,43 @@
+{
+    "id": "68",
+    "title": "Akasya Durağı 014. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Murat’ın taksisine bir kadın arabasıyla çarpar. Kadın masrafı üstlenmek ister ve Murat’a kartını verir. Tuğçe bu durumu kıskanır ve kadınla kavga eder. Fakat kadının Murat’ın peşini bırakmaya hiç niyeti yoktur. \r\n\r\n\r\nSinan’ın taksisine de eski sevgilisi biner. Kadın, Sinan’ı evine davet eder. Bu sırada kadının belalı sevgilisi eve gelince Sinan korkudan pencerenin kenarına çıkar. Sinan’ı görenler intihar edeceğini sanırlar. Polis ve gazeteciler gelirler. Gülbin ve Şaziment de olay yerine gelince işler iyice çığırından çıkar. \r\n\r\nSafiye, Osman’ın bir şarkıcının silikonlu göğüslerine baktığını görünce kıskanır ve  Osman’la kavga eder. Safiye silikon yaptırmaya karar verir. Fakat Osman’ın buna izin vermeyeceğini bildiği için Osman’a halasının hasta olduğunu söyleyip evden gider.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a86ce436345c661105.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162386_e1f4\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "67",
+        "title": "Akasya Durağı 013. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039a1e50aa9372888e571.jpg"
+    },
+    "next_movie_data": {
+        "id": "69",
+        "title": "Akasya Durağı 015. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae039b340201132a01ec386.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

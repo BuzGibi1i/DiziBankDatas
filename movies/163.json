@@ -1,0 +1,43 @@
+{
+    "id": "163",
+    "title": "Akasya Durağı 097. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Nuri Bey Aysel ve kızına kendi mahallelerinde eski ama şirin bir ev bulur. Aysel iş aramaya başlar. Eski tanıdıklarının vasıtası ile bir iş bulmayı ummaktadır. Fakat yüksek tahsili ve yabancılı dili olmadığı, bilgisayar kullanmayı da bilmediği için iş bulamaz. Anne kız bu hayat mücadelesinde birbirlerine destek olurlar. Bütün umutlarının bittiği anda yardımlarına yine Nuri Bey koşar. Aysel’e kendi taksi durağında şoförlük işi verir. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06b21f0dc1e3c6cba85ce.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae06b21f0dc1e3c6cba85ce",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150855_d20e\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "162",
+        "title": "Akasya Durağı 096. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06a91a781b60218225b84.jpg"
+    },
+    "next_movie_data": {
+        "id": "164",
+        "title": "Akasya Durağı 098. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06bbdf0dc1e3c6cba85d0.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

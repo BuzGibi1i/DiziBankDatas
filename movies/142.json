@@ -1,0 +1,43 @@
+{
+    "id": "142",
+    "title": "Akasya Durağı 076. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kadir, sokakta bıçaklı saldırıya uğruyor. Oradan geçmekte olan Obayana, Kadir Baba’nın yardımına koşar fakat, onu hastaneye yetiştiremiyor. Cinayet de Obayana’nın üstüne kalıyor ve Obayana yeraltı dünyasında nam salıyor.\r\nAli Kemal durakta kimse yokken bir taksiyi kaçırır. Fakat kaza yapar. Kazadan kaçan Ali Kemal, şansının da yaver gitmesiyle kendisini gazinoların yeni assolisti olarak bulur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0539656593434781bebbb.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0539656593434781bebbb",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=3THFSqXvZks",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "141",
+        "title": "Akasya Durağı 075. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae05377f0dc1e3c6cba8530.jpg"
+    },
+    "next_movie_data": {
+        "id": "143",
+        "title": "Akasya Durağı 077. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae053a5f0dc1e30f803980f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

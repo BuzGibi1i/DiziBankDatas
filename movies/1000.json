@@ -1,0 +1,42 @@
+{
+    "id": "1000",
+    "title": "Çukur - Bölüm 47",
+    "year": 2018,
+    "language": "tr",
+    "description": "Çukur 2. Sezon 14. Bölümünde (Çukur 47. Bölüm); Selim ile Sultan'ın yüzleşmesi merakla beklenecek. İdris'in atacağı adım ise tüm dengeleri değiştirecek.",
+    "hide_description": false,
+    "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "4",
+            "name": "Show Tv Dizileri",
+            "category_image": "https:\/\/turkey.mom-rsf.org\/uploads\/_processed_\/c\/b\/csm_260-101_import_a98a9c3e92.png",
+            "movie_count": 130
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Show TV Direct",
+            "type": "mp4",
+            "url": "https:\/\/vmcdn.ciner.com.tr\/ht\/2018\/12\/18\/73AFA63E95D4C5B81540F0D8E60A7EEC_1920x1080.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "999",
+        "title": "Çukur - Bölüm 46",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "next_movie_data": {
+        "id": "1001",
+        "title": "Çukur - Bölüm 48",
+        "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:29+03:00"
+}

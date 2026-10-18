@@ -1,0 +1,48 @@
+{
+    "id": "542",
+    "title": "E.D.H.O. Bölüm 86",
+    "year": 2026,
+    "language": "tr",
+    "description": "E.D.H.O. Bölüm 86",
+    "hide_description": false,
+    "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/12\/26\/960x565\/1514187303657.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "ATV Direct (HLS)",
+            "type": "m3u8",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/086_grkn\/eskiya_dunyaya_hukumdar_olmaz_086.smil\/playlist.m3u8",
+            "is_active": 1
+        },
+        {
+            "name": "ATV Direct (MP4)",
+            "type": "mp4",
+            "url": "https:\/\/atv-vod.ercdn.net\/eskiya_dunyaya_hukumdar_olmaz\/086_grkn\/eskiya_dunyaya_hukumdar_olmaz_086_0400.mp4",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "541",
+        "title": "E.D.H.O. Bölüm 85",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/12\/19\/960x565\/1513582185616.jpg"
+    },
+    "next_movie_data": {
+        "id": "543",
+        "title": "E.D.H.O. Bölüm 87",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2018\/01\/09\/960x565\/1515397835965.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

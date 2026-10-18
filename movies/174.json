@@ -1,0 +1,43 @@
+{
+    "id": "174",
+    "title": "Akasya Durağı 108. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ünlü film yıldızı Pierri, bir film çekimi için İstanbul’a gelmiştir. Pierri\nArif’e ikizi kadar çok benzemektedir. Aysu adındaki genç kız, Pierri’nin saplantılı bir hayranıdır ve hayatta en çok istediği şey onunla olmaktır. Aysu hayranı olduğu Pierri zannederek Arifi kaçırır. Akasya Durağı şoförleri durumu kavramakta biraz gecikseler de Arif’i tam zamanında kurtarırlar.\nFato Aney koca bulmak için izdivaç programına katılır. Sinan, Aney’e bir oyun kurar ve  kılık değiştirerek kendini Silo ağa diye tanıtıp Aney’i ayartır. Sinan ve Aney stüdyodan el ele çıkarlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0726904207c23e8e2d090.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae0726904207c23e8e2d090",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/152994_3b13\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "173",
+        "title": "Akasya Durağı 107. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae071966ce436345c6611ff.jpg"
+    },
+    "next_movie_data": {
+        "id": "175",
+        "title": "Akasya Durağı 109. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae072b2496783262430285a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

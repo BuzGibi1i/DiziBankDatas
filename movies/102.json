@@ -1,0 +1,43 @@
+{
+    "id": "102",
+    "title": "Akasya Durağı 048. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sinan, Obayana’yı korkutmak isterken arabayla çarpan Osman’a unutamayacağı bir ceza vermek için kolları sıvıyor.\nOsman, Dilek’le buluşan Obayana’ya sinirlenir ve onu korkutmak için arabayı üzerine sürer. Fakat frene zamanında basamayan Osman, Obayana’ya çarpar. Hastaneye kaldırılan Obayana doktorlar tarafından muayene edilirken Sinan devreye girer. Ve Osman’a hayatı boyunca unutamayacağı bir ceza vermek için kollarını sıvar. \nSeyit’in kaseti çıkacaktır. Taksicilik işini bırakan Seyit herkesle helalleşir. Duraktan ayrılır. Kasetin tanıtım kokteylinde menajeri Petek, Seyit’in bekar olduğunu söyler. Zeyno ile Seyit bu yüzden kavga ederler. ",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042a256593434781bebb5.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae042a256593434781bebb5",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/201086_bd84\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "101",
+        "title": "Akasya Durağı 047. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae042b56ce436345c66114b.jpg"
+    },
+    "next_movie_data": {
+        "id": "103",
+        "title": "Akasya Durağı 049. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0427e56593434781bebb2.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

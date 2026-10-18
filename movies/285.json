@@ -1,0 +1,43 @@
+{
+    "id": "285",
+    "title": "Yalan Dünya 46. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Vasfiye Teyze iyice Kocabaşlar’ın evine yerleşiyor. Aklı fikri Servet’in yemek tariflerinde olan Vasfiye Teyze, bir şekilde tarifleri elde etmeye çalışıyor.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c26.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eed7cf45af1064b70c26",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S2\/HLS_VOD\/5959_59ef\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "284",
+        "title": "Yalan Dünya 45. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed6cf45af1064b70c23.jpg"
+    },
+    "next_movie_data": {
+        "id": "286",
+        "title": "Yalan Dünya 47. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eed7cf45af1064b70c29.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

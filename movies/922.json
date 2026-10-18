@@ -1,0 +1,42 @@
+{
+    "id": "922",
+    "title": "Avrupa Yakası - Bölüm 159",
+    "year": 2026,
+    "language": "tr",
+    "description": "",
+    "hide_description": false,
+    "poster": "https:\/\/i.ytimg.com\/vi\/v5g73hiJRBg\/maxresdefault.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Atv Dizileri",
+            "category_image": "https:\/\/images.seeklogo.com\/logo-png\/1\/1\/atv-logo-png_seeklogo-13363.png",
+            "movie_count": 453
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=v5g73hiJRBg",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "921",
+        "title": "Avrupa Yakası  - Bölüm 158",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/05\/avrupa-yakasi-1707114107579.jpg"
+    },
+    "next_movie_data": {
+        "id": "923",
+        "title": "Avrupa Yakası - Bölüm 160",
+        "poster": "https:\/\/iatv.tmgrup.com.tr\/2024\/02\/08\/avrupa-yakasi-1707372325493.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:30+03:00"
+}

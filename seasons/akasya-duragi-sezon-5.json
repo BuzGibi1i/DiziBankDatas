@@ -1,0 +1,142 @@
+{
+    "id": "5",
+    "series_id": "1",
+    "title": "5. Sezon",
+    "description": "Akasya Durağı, Erler Film imzalı, 2008-2012 yılları arasında yayımlanan komedi ve aile türündeki Türk televizyon dizisidir.",
+    "poster": "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/Datas-Pics\/main\/Pics\/akasya-duragi.jpg",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "Akasya Durağı 153. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e33.jpg",
+            "details_url": "movies\/219.json"
+        },
+        {
+            "episode": 2,
+            "title": "Akasya Durağı 154. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef4cf45af1064b70e36.jpg",
+            "details_url": "movies\/220.json"
+        },
+        {
+            "episode": 3,
+            "title": "Akasya Durağı 155. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e39.jpg",
+            "details_url": "movies\/221.json"
+        },
+        {
+            "episode": 4,
+            "title": "Akasya Durağı 156. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3c.jpg",
+            "details_url": "movies\/222.json"
+        },
+        {
+            "episode": 5,
+            "title": "Akasya Durağı 157. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3f.jpg",
+            "details_url": "movies\/223.json"
+        },
+        {
+            "episode": 6,
+            "title": "Akasya Durağı 158. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e42.jpg",
+            "details_url": "movies\/224.json"
+        },
+        {
+            "episode": 7,
+            "title": "Akasya Durağı 159. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e45.jpg",
+            "details_url": "movies\/225.json"
+        },
+        {
+            "episode": 8,
+            "title": "Akasya Durağı 160. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e48.jpg",
+            "details_url": "movies\/226.json"
+        },
+        {
+            "episode": 9,
+            "title": "Akasya Durağı 161. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4b.jpg",
+            "details_url": "movies\/227.json"
+        },
+        {
+            "episode": 10,
+            "title": "Akasya Durağı 162. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e4e.jpg",
+            "details_url": "movies\/228.json"
+        },
+        {
+            "episode": 11,
+            "title": "Akasya Durağı 163. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e51.jpg",
+            "details_url": "movies\/229.json"
+        },
+        {
+            "episode": 12,
+            "title": "Akasya Durağı 164. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e54.jpg",
+            "details_url": "movies\/230.json"
+        },
+        {
+            "episode": 13,
+            "title": "Akasya Durağı 165. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef6cf45af1064b70e57.jpg",
+            "details_url": "movies\/231.json"
+        },
+        {
+            "episode": 14,
+            "title": "Akasya Durağı 166. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5a.jpg",
+            "details_url": "movies\/232.json"
+        },
+        {
+            "episode": 15,
+            "title": "Akasya Durağı 167. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e5d.jpg",
+            "details_url": "movies\/233.json"
+        },
+        {
+            "episode": 16,
+            "title": "Akasya Durağı 168. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e60.jpg",
+            "details_url": "movies\/234.json"
+        },
+        {
+            "episode": 17,
+            "title": "Akasya Durağı 169. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e63.jpg",
+            "details_url": "movies\/235.json"
+        },
+        {
+            "episode": 18,
+            "title": "Akasya Durağı 170. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e66.jpg",
+            "details_url": "movies\/236.json"
+        },
+        {
+            "episode": 19,
+            "title": "Akasya Durağı 171. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef7cf45af1064b70e69.jpg",
+            "details_url": "movies\/237.json"
+        },
+        {
+            "episode": 20,
+            "title": "Akasya Durağı 172 .Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6c.jpg",
+            "details_url": "movies\/238.json"
+        },
+        {
+            "episode": 21,
+            "title": "Akasya Durağı 173. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e6f.jpg",
+            "details_url": "movies\/239.json"
+        },
+        {
+            "episode": 22,
+            "title": "Akasya Durağı 174. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef8cf45af1064b70e72.jpg",
+            "details_url": "movies\/240.json"
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

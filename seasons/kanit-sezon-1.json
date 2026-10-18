@@ -1,0 +1,304 @@
+{
+    "id": "10",
+    "series_id": "3",
+    "title": "1. Sezon",
+    "description": "İstanbul Emniyet Müdürlüğü cinayet masasından Başkomiser Orhan ve Komiser Selim her hafta başka bir cinayeti çözmeye çalışıyorlar. İkilinin bulduğu delilleri Kriminal Laboratuvarda değerlendiren Zeynep ile Adli Tıp'ta cesetlere otopsi yapan Doktor Ece ise cinayetlerin çözülmesine yardımcı oluyorlar. Cinayetlerin çözülmesinde yardımcı olan teknikleri ve bunların tarihsel gelişimini ise Sevil Atasoy anlatıyor.",
+    "poster": "https:\/\/thumb.wikimedia.org\/wikipedia\/tr\/thumb\/e\/ed\/Kan%C4%B1t.png\/250px-Kan%C4%B1t.png",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "Kanıt 01. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6674252bd21b93d96ba31d66.jpg",
+            "details_url": "movies\/331.json"
+        },
+        {
+            "episode": 2,
+            "title": "Kanıt 02. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/667421b1d21b93d96ba31d5d.jpg",
+            "details_url": "movies\/332.json"
+        },
+        {
+            "episode": 3,
+            "title": "Kanıt 03. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c799d21b93d96ba3208b.jpg",
+            "details_url": "movies\/333.json"
+        },
+        {
+            "episode": 4,
+            "title": "Kanıt 04. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b3acd21b93d96ba31e3e.jpg",
+            "details_url": "movies\/334.json"
+        },
+        {
+            "episode": 5,
+            "title": "Kanıt 05. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/men57QS8MeE\/hqdefault.jpg",
+            "details_url": "movies\/335.json"
+        },
+        {
+            "episode": 6,
+            "title": "Kanıt 06. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b4fbd21b93d96ba31e4a.jpg",
+            "details_url": "movies\/336.json"
+        },
+        {
+            "episode": 7,
+            "title": "Kanıt 07. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b54dd21b93d96ba31e57.jpg",
+            "details_url": "movies\/337.json"
+        },
+        {
+            "episode": 8,
+            "title": "Kanıt 08. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b74bd21b93d96ba31e60.jpg",
+            "details_url": "movies\/338.json"
+        },
+        {
+            "episode": 9,
+            "title": "Kanıt 09. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b798d21b93d96ba31e6a.jpg",
+            "details_url": "movies\/339.json"
+        },
+        {
+            "episode": 10,
+            "title": "Kanıt 10. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b7cdd21b93d96ba31e76.jpg",
+            "details_url": "movies\/340.json"
+        },
+        {
+            "episode": 11,
+            "title": "Kanıt 11. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b803d21b93d96ba31e82.jpg",
+            "details_url": "movies\/341.json"
+        },
+        {
+            "episode": 12,
+            "title": "Kanıt 12. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b852d21b93d96ba31e8e.jpg",
+            "details_url": "movies\/342.json"
+        },
+        {
+            "episode": 13,
+            "title": "Kanıt 13. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b87cd21b93d96ba31e98.jpg",
+            "details_url": "movies\/343.json"
+        },
+        {
+            "episode": 14,
+            "title": "Kanıt 14. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b8a2d21b93d96ba31ea1.jpg",
+            "details_url": "movies\/344.json"
+        },
+        {
+            "episode": 15,
+            "title": "Kanıt 15. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b8f9d21b93d96ba31eac.jpg",
+            "details_url": "movies\/345.json"
+        },
+        {
+            "episode": 16,
+            "title": "Kanıt 16. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b929d21b93d96ba31eb6.jpg",
+            "details_url": "movies\/346.json"
+        },
+        {
+            "episode": 17,
+            "title": "Kanıt 17. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b952d21b93d96ba31ec3.jpg",
+            "details_url": "movies\/347.json"
+        },
+        {
+            "episode": 18,
+            "title": "Kanıt 18. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b976d21b93d96ba31ece.jpg",
+            "details_url": "movies\/348.json"
+        },
+        {
+            "episode": 19,
+            "title": "Kanıt 19. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b99fd21b93d96ba31eda.jpg",
+            "details_url": "movies\/349.json"
+        },
+        {
+            "episode": 20,
+            "title": "Kanıt 20. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679b9c6d21b93d96ba31ee6.jpg",
+            "details_url": "movies\/350.json"
+        },
+        {
+            "episode": 21,
+            "title": "Kanıt 21. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba02d21b93d96ba31ef2.jpg",
+            "details_url": "movies\/351.json"
+        },
+        {
+            "episode": 22,
+            "title": "Kanıt 22. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba2dd21b93d96ba31efc.jpg",
+            "details_url": "movies\/352.json"
+        },
+        {
+            "episode": 23,
+            "title": "Kanıt 23. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679ba55d21b93d96ba31f08.jpg",
+            "details_url": "movies\/353.json"
+        },
+        {
+            "episode": 24,
+            "title": "Kanıt 24. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bb43d21b93d96ba31f11.jpg",
+            "details_url": "movies\/354.json"
+        },
+        {
+            "episode": 25,
+            "title": "Kanıt 25. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bb6dd21b93d96ba31f1a.jpg",
+            "details_url": "movies\/355.json"
+        },
+        {
+            "episode": 26,
+            "title": "Kanıt 26. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/59ba666c8685761edc70b8e8.jpg",
+            "details_url": "movies\/356.json"
+        },
+        {
+            "episode": 27,
+            "title": "Kanıt 27. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bbacd21b93d96ba31f22.jpg",
+            "details_url": "movies\/357.json"
+        },
+        {
+            "episode": 28,
+            "title": "Kanıt 28. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bbcdd21b93d96ba31f2c.jpg",
+            "details_url": "movies\/358.json"
+        },
+        {
+            "episode": 29,
+            "title": "Kanıt 29. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e8eeee3d66c7e21e029266b.jpg",
+            "details_url": "movies\/359.json"
+        },
+        {
+            "episode": 30,
+            "title": "Kanıt 30. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e90142549678311e839aa4b.jpg",
+            "details_url": "movies\/360.json"
+        },
+        {
+            "episode": 31,
+            "title": "Kanıt 31. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e9434d2ae784923ec81cac5.jpg",
+            "details_url": "movies\/361.json"
+        },
+        {
+            "episode": 32,
+            "title": "Kanıt 32. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e957849402011315c8fbf70.jpg",
+            "details_url": "movies\/362.json"
+        },
+        {
+            "episode": 33,
+            "title": "Kanıt 33. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e96d8f69850b90f28d8925f.jpg",
+            "details_url": "movies\/363.json"
+        },
+        {
+            "episode": 34,
+            "title": "Kanıt 34. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e981b7eebc8302364dfc406.jpg",
+            "details_url": "movies\/364.json"
+        },
+        {
+            "episode": 35,
+            "title": "Kanıt 35. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5e995e6f933ccb365039a072.jpg",
+            "details_url": "movies\/365.json"
+        },
+        {
+            "episode": 36,
+            "title": "Kanıt 36. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/r4gP1oqteAk\/hqdefault.jpg",
+            "details_url": "movies\/366.json"
+        },
+        {
+            "episode": 37,
+            "title": "Kanıt 37. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/mW5kxoW-UYc\/hqdefault.jpg",
+            "details_url": "movies\/367.json"
+        },
+        {
+            "episode": 38,
+            "title": "Kanıt 38. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/RiyxyZENxHg\/hqdefault.jpg",
+            "details_url": "movies\/368.json"
+        },
+        {
+            "episode": 39,
+            "title": "Kanıt 39. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5a586573a781b60320a958ec.jpg",
+            "details_url": "movies\/369.json"
+        },
+        {
+            "episode": 40,
+            "title": "Kanıt 40. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bc82d21b93d96ba31f38.jpg",
+            "details_url": "movies\/370.json"
+        },
+        {
+            "episode": 41,
+            "title": "Kanıt 41. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ea00ce73ab166190c654b9e.jpg",
+            "details_url": "movies\/371.json"
+        },
+        {
+            "episode": 42,
+            "title": "Kanıt 42. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58ca43ede50aa9237816d060.jpg",
+            "details_url": "movies\/372.json"
+        },
+        {
+            "episode": 43,
+            "title": "Kanıt 43. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58c9273ae50aa9237816d052.jpg",
+            "details_url": "movies\/373.json"
+        },
+        {
+            "episode": 44,
+            "title": "Kanıt 44. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58ca437ee50aa9237816d05e.jpg",
+            "details_url": "movies\/374.json"
+        },
+        {
+            "episode": 45,
+            "title": "Kanıt 45. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58cba0fa6ce43617348ab1f9.jpg",
+            "details_url": "movies\/375.json"
+        },
+        {
+            "episode": 46,
+            "title": "Kanıt 46. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679c7cfd21b93d96ba32095.jpg",
+            "details_url": "movies\/376.json"
+        },
+        {
+            "episode": 47,
+            "title": "Kanıt 47. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bcaad21b93d96ba31f46.jpg",
+            "details_url": "movies\/377.json"
+        },
+        {
+            "episode": 48,
+            "title": "Kanıt 48. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/58d278bcf0dc1e197cc265d7.jpg",
+            "details_url": "movies\/378.json"
+        },
+        {
+            "episode": 49,
+            "title": "Kanıt 49. Bölüm",
+            "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/6679bccfd21b93d96ba31f53.jpg",
+            "details_url": "movies\/379.json"
+        }
+    ],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

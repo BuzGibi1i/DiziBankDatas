@@ -1,0 +1,43 @@
+{
+    "id": "157",
+    "title": "Akasya Durağı 091. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Maho Ağa eğlenmeye gittiği gece kulübünde şarkı söyleyen travesti Naciye’ye aşık olur ve Sinan’dan yardım ister. Sinan ve Naciye, Maho’ya bunun imkansız olacağını anlatmaya çalışırlar ancak Maho’nun gözü ve kulağı aşktan kapanmış haldedir. Maho Ağa kesenin ağzını açar ve hem Naciye’yi hem de Sinan’ı memnun eder. Maho’nun evlilik hazırlığında olduğunu öğrenen Aney onları pişman eder.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae067fd6ce436345c6611bf.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5ae067fd6ce436345c6611bf",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/150802_206d\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "156",
+        "title": "Akasya Durağı 090. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae06798ac1fe339f48b59e3.jpg"
+    },
+    "next_movie_data": {
+        "id": "158",
+        "title": "Akasya Durağı 092. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0685ef0dc1e30f803985a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}

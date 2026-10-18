@@ -1,0 +1,43 @@
+{
+    "id": "223",
+    "title": "Akasya Durağı 157. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Bir kuyumcuyu soymaya çalışan üç soyguncu, karşılarında Osman’ı görünce onu rehin alıyorlar.\n\nİpek kaza yapar ve hastaneye kaldırılır. Emre ve duraktakiler hastaneye koşarlar. Mazhar ve Gülsüm de köyden dönerler ve hastaneye gelirler. İpek’in ölmediğini anlayan Şebnem rahat durmaz ve hastaneye girerek zehirli şırıngayla İpek’i öldürmeye kalkışır. Güven’in Almanya’dan sevgilisi Helga, kucağında Güven’in bebeğiyle İstanbul’a gelir ve Güven’i bulur. Çocuğu Güven’e bırakıp bir otele yerleşir. Güven bebeğin üstüne “Sinan çocuğuna biraz da sen bak “diye not iliştirir ve Gülbin’i arar. Eve gelen Sinan, Gülbin, Şaziment, Can gözlerine inanamazlar. Sinan bebekle beraber evden kovulur.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3f.jpg",
+    "backdrop": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/1280x720\/5465eef5cf45af1064b70e3f",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/158447_b51c\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "222",
+        "title": "Akasya Durağı 156. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e3c.jpg"
+    },
+    "next_movie_data": {
+        "id": "224",
+        "title": "Akasya Durağı 158. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465eef5cf45af1064b70e42.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:31+03:00"
+}

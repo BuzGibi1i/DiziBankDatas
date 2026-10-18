@@ -1,0 +1,43 @@
+{
+    "id": "72",
+    "title": "Akasya Durağı 018. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Osman müşterisini bırakırken bir köpek tarafından ısırılır. Karısı Safiye ve kızı Dilek Osman’a kuduz iğnesi yaptırması için baskı yaparlar. Ancak Osman iğne olmaktan korkmaktadır. Haberlerde Osman’ın köpek tarafından ısırıldığı bölgede kuduz karantinası uygulandığını duyan Safiye ve Dilek, Osman’ın kuduz olduğunu sanırlar. \r\nNuri Baba o gün durağa gelmeyince şoförler onu merak ederler. Nuri Baba üşüttüğü için evde hasta yatmaktadır. Safiye, Nuri Baba’ya çorba yapar. Nuri Baba’nın yalnızlığına üzülen Safiye onu evlendirmeyi kafasına koyar. Ve kuaföre gelen müşterilerden Ayşen Hanım’la Nuri Baba’yı tanıştırır. \r\nMehmet Hoca’nın oğlu Okan, zehir tacirlerinin tuzağına düşer ve uyuşturucu hap kullanmaya başlar.",
+    "hide_description": false,
+    "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418286857632047d48ba.jpg",
+    "backdrop": "",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "TeVe2 Dizileri",
+            "category_image": "https:\/\/app.medyaviyana.com\/uploadOrjinal\/1706349215_teve-2-logo.png",
+            "movie_count": 363
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "TV2 Direct",
+            "type": "m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S10\/HLS_VOD\/162509_ff32\/index.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "71",
+        "title": "Akasya Durağı 017. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae041786ce436345c66112a.jpg"
+    },
+    "next_movie_data": {
+        "id": "73",
+        "title": "Akasya Durağı 019. Bölüm",
+        "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5ae0418aac1fe339f48b59c3.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T01:00:32+03:00"
+}
