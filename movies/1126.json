@@ -1,0 +1,43 @@
+{
+    "id": "1126",
+    "title": "Eşref Rüya - 21. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Eşref Rüya 21. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 21. bölümü yayınlandı! Hemen izle! 5 Kasım Çarşamba günü yayınlanan Eşref Rüya dizisinin 21. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 21. Bölümün ardından 22. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 21. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/690b90acb421ddeb1a65f362.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/690b90acb421ddeb1a65f362.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/L\/Q5\/er_21blm\/er_21blm.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1125",
+        "title": "Eşref Rüya - 20. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6902291c3b12f09168144867.jpg"
+    },
+    "next_movie_data": {
+        "id": "1127",
+        "title": "Eşref Rüya - 22. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/691dd173c152b6c3003e5e0f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

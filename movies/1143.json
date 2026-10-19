@@ -1,0 +1,43 @@
+{
+    "id": "1143",
+    "title": "Eşref Rüya - 38. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Eşref Rüya 38. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 38. bölümü yayınlandı! Hemen izle! 25 Mart Çarşamba günü yayınlanan Eşref Rüya dizisinin 38. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 38. Bölümün ardından 39. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 38. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69c43ab1592b2cb39c7ee985.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/69c43ab1592b2cb39c7ee985.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/a\/9M\/er_38bolum_rev\/er_38bolum_rev.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1142",
+        "title": "Eşref Rüya - 37. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69bacda2592b2cb39c7ee2c6.jpg"
+    },
+    "next_movie_data": {
+        "id": "1144",
+        "title": "Eşref Rüya - 39. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69cd6382592b2cb39c7eef4a.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

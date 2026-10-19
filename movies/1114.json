@@ -1,0 +1,43 @@
+{
+    "id": "1114",
+    "title": "Eşref Rüya - 9. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Eşref Rüya 9. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 9. bölümü yayınlandı! Hemen izle! 21 Mayıs Çarşamba günü yayınlanan Eşref Rüya dizisinin 9. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 9. Bölümün ardından 10. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 9. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/682dfe57db0c47dc3f616585.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/682dfe57db0c47dc3f616585.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/P\/sZ\/er_9_bolum\/er_9_bolum.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1113",
+        "title": "Eşref Rüya - 8. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6824a19684687ed42a4b6be1.jpg"
+    },
+    "next_movie_data": {
+        "id": "1115",
+        "title": "Eşref Rüya - 10. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68372ac8b85953a3a6d9ca70.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

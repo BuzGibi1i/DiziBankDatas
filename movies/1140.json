@@ -1,0 +1,43 @@
+{
+    "id": "1140",
+    "title": "Eşref Rüya - 35. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Eşref Rüya 35. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 35. bölümü yayınlandı! Hemen izle! 4 Mart Çarşamba günü yayınlanan Eşref Rüya dizisinin 35. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 35. Bölümün ardından 36. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 35. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69a885122f08540297119b90.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/69a885122f08540297119b90.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/E\/UM\/er_35_bolum\/er_35_bolum.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1139",
+        "title": "Eşref Rüya - 34. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/699f2810a47f78a539c00496.jpg"
+    },
+    "next_movie_data": {
+        "id": "1141",
+        "title": "Eşref Rüya - 36. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69b1bf63a47f78a539c0186c.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

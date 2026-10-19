@@ -1,0 +1,43 @@
+{
+    "id": "1107",
+    "title": "Eşref Rüya - 2. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Eşref Rüya 2. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 2. bölümü yayınlandı! Hemen izle! 26 Mart Çarşamba günü yayınlanan Eşref Rüya dizisinin 2. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 2. Bölümün ardından 3. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 2. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67e3fda37b4891e37aa03678.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/67e3fda37b4891e37aa03678.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/7\/b6\/er_2_bolumm\/er_2_bolumm.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1106",
+        "title": "Eşref Rüya - 1. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67dac638bc6755a36ece07bc.jpg"
+    },
+    "next_movie_data": {
+        "id": "1108",
+        "title": "Eşref Rüya - 3. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67f696d97c2f3b2e95cfd7db.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

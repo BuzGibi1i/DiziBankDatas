@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T04:12:11+03:00",
+    "last_updated": "2026-10-19T22:59:57+03:00",
     "series": [
         {
             "id": "1",
@@ -50,6 +50,16 @@
             "movie_count": 199,
             "season_count": 6,
             "series_url": "series\/eskiya-dunyaya-hukumdar-olmaz.json"
+        },
+        {
+            "id": "9",
+            "slug": "esref-ruya",
+            "title": "Eşref Rüya",
+            "description": "Eşref Rüya, TİMSBİ Productions imzalı, yönetmenliğini Uluç Bayraktar'ın üstlendiği, senaryosunu Ethem Özışık, Lokman Maral ve Ozan Ağaç'ın kaleme aldığı, ilk bölümü 19 Mart 2025 tarihinde yayımlanan, aksiyon ve dram türündeki Türk televizyon dizisidir. Başrollerini Çağatay Ulusoy ve Demet Özdemir paylaşmaktadır. 2 sezondan oluşan dizi, 10 Haziran 2026 tarihinde yayımlanan 47. bölümüyle final yaparak sona ermiştir",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+            "movie_count": 47,
+            "season_count": 2,
+            "series_url": "series\/esref-ruya.json"
         },
         {
             "id": "6",

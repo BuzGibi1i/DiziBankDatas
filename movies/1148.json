@@ -1,0 +1,43 @@
+{
+    "id": "1148",
+    "title": "Eşref Rüya - 43. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Eşref Rüya 43. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 43. bölümü yayınlandı! Hemen izle! 6 Mayıs Çarşamba günü yayınlanan Eşref Rüya dizisinin 43. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 43. Bölümün ardından 44. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 43. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69fb6ebd592b2cb39c7f180f.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/69fb6ebd592b2cb39c7f180f.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/w\/mp\/er_43_bolum\/er_43_bolum.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1147",
+        "title": "Eşref Rüya - 42. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69f224602e1ebe9b5e9b8b8f.jpg"
+    },
+    "next_movie_data": {
+        "id": "1149",
+        "title": "Eşref Rüya - 44. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a04977e796e53dc255c7bf7.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

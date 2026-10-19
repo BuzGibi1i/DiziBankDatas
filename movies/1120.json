@@ -1,0 +1,43 @@
+{
+    "id": "1120",
+    "title": "Eşref Rüya - 15. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Eşref Rüya 15. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 15. bölümü yayınlandı! Hemen izle! 24 Eylül Çarşamba günü yayınlanan Eşref Rüya dizisinin 15. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 15. Bölümün ardından 16. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 15. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68d3c1622c2015c3eaccae3f.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/68d3c1622c2015c3eaccae3f.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/y\/2u\/esrefruya_15_bolum\/esrefruya_15_bolum.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1119",
+        "title": "Eşref Rüya - 14. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68cc066ed10b479d9c583bc1.jpg"
+    },
+    "next_movie_data": {
+        "id": "1121",
+        "title": "Eşref Rüya - 16. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68dd58f82a7e5fe4d75a2aec.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

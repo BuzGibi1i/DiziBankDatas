@@ -1,0 +1,310 @@
+{
+    "id": "9",
+    "slug": "esref-ruya",
+    "title": "Eşref Rüya",
+    "description": "Eşref Rüya, TİMSBİ Productions imzalı, yönetmenliğini Uluç Bayraktar'ın üstlendiği, senaryosunu Ethem Özışık, Lokman Maral ve Ozan Ağaç'ın kaleme aldığı, ilk bölümü 19 Mart 2025 tarihinde yayımlanan, aksiyon ve dram türündeki Türk televizyon dizisidir. Başrollerini Çağatay Ulusoy ve Demet Özdemir paylaşmaktadır. 2 sezondan oluşan dizi, 10 Haziran 2026 tarihinde yayımlanan 47. bölümüyle final yaparak sona ermiştir",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+    "seasons": [
+        {
+            "season": 1,
+            "title": "1. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+            "description": "Eşref Rüya, TİMSBİ Productions imzalı, yönetmenliğini Uluç Bayraktar'ın üstlendiği, senaryosunu Ethem Özışık, Lokman Maral ve Ozan Ağaç'ın kaleme aldığı, ilk bölümü 19 Mart 2025 tarihinde yayımlanan, aksiyon ve dram türündeki Türk televizyon dizisidir. Başrollerini Çağatay Ulusoy ve Demet Özdemir paylaşmaktadır. 2 sezondan oluşan dizi, 10 Haziran 2026 tarihinde yayımlanan 47. bölümüyle final yaparak sona ermiştir",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Eşref Rüya - 1. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67dac638bc6755a36ece07bc.jpg",
+                    "details_url": "movies\/1106.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Eşref Rüya - 2. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67e3fda37b4891e37aa03678.jpg",
+                    "details_url": "movies\/1107.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Eşref Rüya - 3. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67f696d97c2f3b2e95cfd7db.jpg",
+                    "details_url": "movies\/1108.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Eşref Rüya - 4. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/67ffc1328e2e64970b1f5ec4.jpg",
+                    "details_url": "movies\/1109.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Eşref Rüya - 5. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/680935a984687ed42a4b4c23.jpg",
+                    "details_url": "movies\/1110.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Eşref Rüya - 6. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/681230dd8e641070315320e7.jpg",
+                    "details_url": "movies\/1111.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Eşref Rüya - 7. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/681ba4458e641070315328dc.jpg",
+                    "details_url": "movies\/1112.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Eşref Rüya - 8. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6824a19684687ed42a4b6be1.jpg",
+                    "details_url": "movies\/1113.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Eşref Rüya - 9. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/682dfe57db0c47dc3f616585.jpg",
+                    "details_url": "movies\/1114.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Eşref Rüya - 10. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68372ac8b85953a3a6d9ca70.jpg",
+                    "details_url": "movies\/1115.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Eşref Rüya - 11. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68405636ea2d6f17a1fced8e.jpg",
+                    "details_url": "movies\/1116.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Eşref Rüya - 12. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68499db2b85953a3a6d9d178.jpg",
+                    "details_url": "movies\/1117.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Eşref Rüya - 13. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6852f035b85953a3a6d9dcbd.jpg",
+                    "details_url": "movies\/1118.json"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "title": "2. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+            "description": "Eşref Rüya, TİMSBİ Productions imzalı, yönetmenliğini Uluç Bayraktar'ın üstlendiği, senaryosunu Ethem Özışık, Lokman Maral ve Ozan Ağaç'ın kaleme aldığı, ilk bölümü 19 Mart 2025 tarihinde yayımlanan, aksiyon ve dram türündeki Türk televizyon dizisidir. Başrollerini Çağatay Ulusoy ve Demet Özdemir paylaşmaktadır. 2 sezondan oluşan dizi, 10 Haziran 2026 tarihinde yayımlanan 47. bölümüyle final yaparak sona ermiştir",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Eşref Rüya - 14. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68cc066ed10b479d9c583bc1.jpg",
+                    "details_url": "movies\/1119.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Eşref Rüya - 15. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68d3c1622c2015c3eaccae3f.jpg",
+                    "details_url": "movies\/1120.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Eşref Rüya - 16. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68dd58f82a7e5fe4d75a2aec.jpg",
+                    "details_url": "movies\/1121.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Eşref Rüya - 17. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68e680cc78516dcf7a0b97b5.jpg",
+                    "details_url": "movies\/1122.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Eşref Rüya - 18. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68efcc908a62c59ab13ca60b.jpg",
+                    "details_url": "movies\/1123.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Eşref Rüya - 19. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/68f8ea318a62c59ab13cabc8.jpg",
+                    "details_url": "movies\/1124.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Eşref Rüya - 20. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6902291c3b12f09168144867.jpg",
+                    "details_url": "movies\/1125.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Eşref Rüya - 21. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/690b90acb421ddeb1a65f362.jpg",
+                    "details_url": "movies\/1126.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Eşref Rüya - 22. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/691dd173c152b6c3003e5e0f.jpg",
+                    "details_url": "movies\/1127.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Eşref Rüya - 23. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/692734719b0d67b1f09ae28b.jpg",
+                    "details_url": "movies\/1128.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Eşref Rüya - 24. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/693051473326b34dc45acaac.jpg",
+                    "details_url": "movies\/1129.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Eşref Rüya - 25. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69396ed14c5d448b7df6adf9.jpg",
+                    "details_url": "movies\/1130.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Eşref Rüya - 26. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6942bd5d3326b34dc45ad497.jpg",
+                    "details_url": "movies\/1131.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Eşref Rüya - 27. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/694bfc233326b34dc45adef0.jpg",
+                    "details_url": "movies\/1132.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Eşref Rüya - 28. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6967b1283326b34dc45aea29.jpg",
+                    "details_url": "movies\/1133.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Eşref Rüya - 29. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6970fec3b547f97caa5e1e03.jpg",
+                    "details_url": "movies\/1134.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Eşref Rüya - 30. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/697a403dda4727d93649b8ac.jpg",
+                    "details_url": "movies\/1135.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Eşref Rüya - 31. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/698378bce901e71fe70d4c53.jpg",
+                    "details_url": "movies\/1136.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Eşref Rüya - 32. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/698c99a1e901e71fe70d57ff.jpg",
+                    "details_url": "movies\/1137.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Eşref Rüya - 33. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6995d463a47f78a539bff99f.jpg",
+                    "details_url": "movies\/1138.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Eşref Rüya - 34. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/699f2810a47f78a539c00496.jpg",
+                    "details_url": "movies\/1139.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Eşref Rüya - 35. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69a885122f08540297119b90.jpg",
+                    "details_url": "movies\/1140.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Eşref Rüya - 36. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69b1bf63a47f78a539c0186c.jpg",
+                    "details_url": "movies\/1141.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Eşref Rüya - 37. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69bacda2592b2cb39c7ee2c6.jpg",
+                    "details_url": "movies\/1142.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Eşref Rüya - 38. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69c43ab1592b2cb39c7ee985.jpg",
+                    "details_url": "movies\/1143.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Eşref Rüya - 39. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69cd6382592b2cb39c7eef4a.jpg",
+                    "details_url": "movies\/1144.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Eşref Rüya - 40. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69d6aceda47f78a539c02d92.jpg",
+                    "details_url": "movies\/1145.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Eşref Rüya - 41. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69e8f649a47f78a539c03b84.jpg",
+                    "details_url": "movies\/1146.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Eşref Rüya - 42. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69f224602e1ebe9b5e9b8b8f.jpg",
+                    "details_url": "movies\/1147.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Eşref Rüya - 43. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69fb6ebd592b2cb39c7f180f.jpg",
+                    "details_url": "movies\/1148.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Eşref Rüya - 44. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a04977e796e53dc255c7bf7.jpg",
+                    "details_url": "movies\/1149.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Eşref Rüya - 45. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a0dc269cb5b0ace1709a273.jpg",
+                    "details_url": "movies\/1150.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Eşref Rüya - 46. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a203dac6857e013a393c127.jpg",
+                    "details_url": "movies\/1151.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Eşref Rüya - 47. Bölüm",
+                    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a298bf5cb5b0ace1709c27a.jpg",
+                    "details_url": "movies\/1152.json"
+                }
+            ]
+        }
+    ],
+    "last_updated": "2026-10-19T22:59:57+03:00"
+}

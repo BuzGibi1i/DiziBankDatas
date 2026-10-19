@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T04:12:11+03:00",
+    "last_updated": "2026-10-19T22:59:57+03:00",
     "categories": [
         {
             "id": "1",
@@ -314,6 +314,31 @@
                     "season_title": "4. Sezon",
                     "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
                     "details_url": "seasons\/cukur-sezon-4.json"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "seasons": [
+                {
+                    "id": "33",
+                    "series_id": "9",
+                    "series_title": "Eşref Rüya",
+                    "season_number": 1,
+                    "season_title": "1. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+                    "details_url": "seasons\/esref-ruya-sezon-1.json"
+                },
+                {
+                    "id": "34",
+                    "series_id": "9",
+                    "series_title": "Eşref Rüya",
+                    "season_number": 2,
+                    "season_title": "2. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
+                    "details_url": "seasons\/esref-ruya-sezon-2.json"
                 }
             ]
         }

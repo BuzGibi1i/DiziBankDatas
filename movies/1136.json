@@ -1,0 +1,43 @@
+{
+    "id": "1136",
+    "title": "Eşref Rüya - 31. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Eşref Rüya 31. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 31. bölümü yayınlandı! Hemen izle! 4 Şubat Çarşamba günü yayınlanan Eşref Rüya dizisinin 31. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 31. Bölümün ardından 32. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 31. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/698378bce901e71fe70d4c53.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/698378bce901e71fe70d4c53.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/r\/WM\/er_31bolum\/er_31bolum.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1135",
+        "title": "Eşref Rüya - 30. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/697a403dda4727d93649b8ac.jpg"
+    },
+    "next_movie_data": {
+        "id": "1137",
+        "title": "Eşref Rüya - 32. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/698c99a1e901e71fe70d57ff.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}

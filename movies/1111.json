@@ -1,0 +1,43 @@
+{
+    "id": "1111",
+    "title": "Eşref Rüya - 6. Bölüm",
+    "year": 2025,
+    "language": "tr",
+    "description": "Eşref Rüya 6. bölüm kesintisiz, full ve yüksek kalite izle! Eşref Rüya 6. bölümü yayınlandı! Hemen izle! 30 Nisan Çarşamba günü yayınlanan Eşref Rüya dizisinin 6. bölümünde neler oldu? Eşref Rüya yeni bölümüyle HD kalitede Kanal D'de! Eşref Rüya 6. Bölümün ardından 7. Bölüm tanıtımı yayınlandı mı? Eşref Rüya 6. Bölüm full izle! ",
+    "hide_description": false,
+    "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/681230dd8e641070315320e7.jpg",
+    "backdrop": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/0x0\/681230dd8e641070315320e7.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "5",
+            "name": "KanalD Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/4\/4e\/Kanal_D.png",
+            "movie_count": 47
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Kanal D Direct",
+            "type": "m3u8",
+            "url": "https:\/\/kanaldvod.duhnet.tv\/hls\/m\/NE\/er_6_blm\/er_6_blm.smil\/playlist.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1110",
+        "title": "Eşref Rüya - 5. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/680935a984687ed42a4b4c23.jpg"
+    },
+    "next_movie_data": {
+        "id": "1112",
+        "title": "Eşref Rüya - 7. Bölüm",
+        "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/681ba4458e641070315328dc.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-19T22:59:54+03:00"
+}
