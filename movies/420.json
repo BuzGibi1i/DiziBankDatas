@@ -24,7 +24,7 @@
         {
             "name": "TV2 Direct",
             "type": "m3u8",
-            "url": "https:\/\/tv2vod.duhnet.tvS1\/HLS_VOD\/80d7_506\/index.m3u8",
+            "url": "https:\/\/tv2vod.duhnet.tv\/S1\/HLS_VOD\/80d7_506\/index.m3u8",
             "is_active": 1
         }
     ],
@@ -39,5 +39,5 @@
         "poster": "https:\/\/image.tv2.com.tr\/i\/tv2\/100\/374x213\/5465efdccf45af1064b71fad.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-10-19T01:00:31+03:00"
+    "last_updated": "2026-10-19T04:12:10+03:00"
 }
