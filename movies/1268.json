@@ -1,0 +1,42 @@
+{
+    "id": "1268",
+    "title": "Behzat Ç. Bir Ankara Polisiyesi - 19. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "HESAPLAŞMAErcüment Çözer, Müsteşar ile anlaşma yaptığı ihalede sorun çıktığını öğrenmiş ve Ankara'ya dönmüştür. İbrahim Akça adlı bir iş adamı, her türlü baskıya rağmen ihaleden çekilmemektedir. Ercüment, İbrahim'i ihaleden çekilmesi için ikna etmekte kararlıdır. Öte yandan Ercüment, kendisine saygısızlık yapan bir kişiyi daha öldürür. Cinayet ekibi olayı araştırmaya başlar. Tüm kanıtlar Cemil adlı bir şüpheliye işaret etmektedir; ancak Behzat Ç., cinayeti Ercüment'in işlediğine emindir. Behzat Ç. ekibiyle birlikte Ercüment'i yakalayabilmek için somut kanıt arayışına girer. Harun sık sık pavyona giderek Larissa ile vakit geçirmektedir. Ne kadar çok para harcadığının farkında olmayan Harun, kredi kartına yüklü miktarda borcu olduğunu öğrenir. Harun borcu ödeyebilmek için ekip arkadaşlarından yardım ister; fakat topladığı para borcu kapatmaya yetmez. Behzat Ç. durumdan haberdar olur. Harun'a yardım edebilmek için elinden geleni yapacaktır.Yayın Tarihi : 6 Şubat PazarYayın Saati : 20:00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2d12c0f443cda830bb99d098.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 172
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "Star TV Direct",
+            "type": "m3u8",
+            "url": "https:\/\/dygvideo.dygdigital.com\/StarTV\/Dizi\/behzatc\/behzatc19logosuz.m3u8",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1267",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 18. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/15a825364f1b9f0da205427d.jpg"
+    },
+    "next_movie_data": {
+        "id": "1269",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 20. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/631a7e7f461789a81e203359.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-21T00:43:19+03:00"
+}

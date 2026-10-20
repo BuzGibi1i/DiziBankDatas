@@ -1,0 +1,42 @@
+{
+    "id": "1251",
+    "title": "Behzat Ç. Bir Ankara Polisiyesi - 2. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cd83be434d4286bbaa93f1a0.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 172
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=-woIsclneEk",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1250",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 1. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cc0b4c8c42d49a161a3ef6f0.jpg"
+    },
+    "next_movie_data": {
+        "id": "1252",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 3. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/299745ed410e92b5ab8dde00.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-21T00:43:19+03:00"
+}

@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-10-19T22:59:57+03:00",
+    "last_updated": "2026-10-21T00:43:23+03:00",
     "recommended_movies": [],
     "last_uploaded": [
         {
-            "id": "1143",
-            "title": "Eşref Rüya - 38. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69c43ab1592b2cb39c7ee985.jpg"
+            "id": "1345",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 39.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/397f505c47288f4eb99a8663.jpg"
         },
         {
-            "id": "1144",
-            "title": "Eşref Rüya - 39. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69cd6382592b2cb39c7eef4a.jpg"
+            "id": "1346",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 40.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7938d98e4d3a8a5390fd743c.jpg"
         },
         {
-            "id": "1145",
-            "title": "Eşref Rüya - 40. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69d6aceda47f78a539c02d92.jpg"
+            "id": "1347",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 41.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a4b976714b76939199191508.jpg"
         },
         {
-            "id": "1146",
-            "title": "Eşref Rüya - 41. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69e8f649a47f78a539c03b84.jpg"
+            "id": "1348",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 42.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0bd0b80f42929cbdc2a587d4.jpg"
         },
         {
-            "id": "1147",
-            "title": "Eşref Rüya - 42. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69f224602e1ebe9b5e9b8b8f.jpg"
+            "id": "1349",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 43. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/3735292d47cf91afbe151fc0.jpg"
         },
         {
-            "id": "1148",
-            "title": "Eşref Rüya - 43. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/69fb6ebd592b2cb39c7f180f.jpg"
+            "id": "1350",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 44. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e244b5924d3caaee6e100743.jpg"
         },
         {
-            "id": "1149",
-            "title": "Eşref Rüya - 44. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a04977e796e53dc255c7bf7.jpg"
+            "id": "1351",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 45.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/836cf0ea456fbc43d594735f.jpg"
         },
         {
-            "id": "1150",
-            "title": "Eşref Rüya - 45. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a0dc269cb5b0ace1709a273.jpg"
+            "id": "1352",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 46. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0435bc884e388048528b6181.jpg"
         },
         {
-            "id": "1151",
-            "title": "Eşref Rüya - 46. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a203dac6857e013a393c127.jpg"
+            "id": "1353",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 47.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e070f6084734834e821ffad4.jpg"
         },
         {
-            "id": "1152",
-            "title": "Eşref Rüya - 47. Bölüm",
-            "poster": "https:\/\/image.kanald.com.tr\/i\/kanald\/100\/264x148\/6a298bf5cb5b0ace1709c27a.jpg"
+            "id": "1354",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 48.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2a19b20f43baa95c08c2e43e.jpg"
         }
     ],
     "home_sections": [
@@ -219,6 +219,62 @@
                     "id": "963",
                     "title": "Çukur - Bölüm 10",
                     "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/cukur.jpg?v=1787209588"
+                }
+            ]
+        },
+        {
+            "category_id": "6",
+            "category_name": "Now Dizileri",
+            "movies": [
+                {
+                    "id": "1153",
+                    "title": "Gaddar - 1.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/WMDLFV7ceh0\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1154",
+                    "title": "Gaddar - 2.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/Ub3x4d6Bm_w\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1155",
+                    "title": "Gaddar - 3.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/3cmB3Zw5Wss\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1156",
+                    "title": "Gaddar - 4.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/x8QncYKf3ZE\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1157",
+                    "title": "Gaddar - 5.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/EWyfRM47-XQ\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1158",
+                    "title": "Gaddar - 6.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/CURKMm3O7Vs\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1159",
+                    "title": "Gaddar - 7.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/hDDgU59rzjs\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1160",
+                    "title": "Gaddar - 8.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/EGLCRnbP8aU\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1161",
+                    "title": "Gaddar - 9.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/zu4UnOPBjVU\/maxresdefault.jpg"
+                },
+                {
+                    "id": "1162",
+                    "title": "Gaddar - 10.Bölüm",
+                    "poster": "https:\/\/i.ytimg.com\/vi\/xVhRNs7Z2NE\/maxresdefault.jpg"
                 }
             ]
         },

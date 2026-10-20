@@ -1,0 +1,48 @@
+{
+    "id": "1326",
+    "title": "Behzat Ç. Bir Ankara Polisiyesi - 78. Bölüm",
+    "year": 2026,
+    "language": "tr",
+    "description": "Evde Behzat Ç., ekibini Akbaba’nın evinde toplamıştır. Bu gece, herkes birbirine sormaktan çekindiği ne varsa soracaktır. Bu gece, herkes birbirine karşı hem sorgulayan hem sorgulanandır. Suçlamalar, itiraflar, tanıklıklar... Gece uzun, mevzu derin,  konuşacak konular çok... Cinayet büro ekibi bu hafta eteğindeki taşları döküyor.Yayın Tarihi: 23 Kasım   Cuma Yayın Saati: 23.00",
+    "hide_description": false,
+    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8be5126348848959907c9c00.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Star Dizileri",
+            "category_image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Logo_Star_TV_(2011-2017).svg",
+            "movie_count": 172
+        }
+    ],
+    "actors": [],
+    "sources": [
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=wicb0gS2gJU",
+            "is_active": 1
+        },
+        {
+            "name": "YouTube",
+            "type": "youtube",
+            "url": "https:\/\/www.youtube.com\/watch?v=-adWHLPRRGQ",
+            "is_active": 1
+        }
+    ],
+    "previous_movie_data": {
+        "id": "1325",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 77.Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c41ef2714cc48edbfbf118c1.jpg"
+    },
+    "next_movie_data": {
+        "id": "1327",
+        "title": "Behzat Ç. Bir Ankara Polisiyesi - 79. Bölüm",
+        "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2f5ca1f04d2eab799839dd5f.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-10-21T00:43:19+03:00"
+}

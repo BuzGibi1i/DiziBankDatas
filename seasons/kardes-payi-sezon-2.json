@@ -1,0 +1,88 @@
+{
+    "id": "38",
+    "series_id": "12",
+    "title": "2. Sezon",
+    "description": "Kardeş Payı, Mehmet Yiğit Alp'in yapımcılığını ve Selçuk Aydemir'in yönetmenliğini üstlendiği komedi ve aile türündeki Türk televizyon dizisidir. NTC Medya'nın yapımcılığını üstlendiği dizi, 13 Şubat 2014 tarihinde Star TV'de yayınlanmaya başladı. Dizinin ilk sezonunda yönetmen koltuğuna Selçuk Aydemir oturdu ve 7 Ağustos 2014 tarihinde 22. bölümü ile birlikte sezon finali yapmıştır. Dizinin ikinci sezonu, 29 Ocak 2015'te yayınlanmaya başlamıştır. Düşük reytinglerden dolayı 30 Nisan 2015'te yayınlanan 35. bölümü ile final yapmıştır.",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c7\/Karde%C5%9F_Pay%C4%B1_2.jpeg",
+    "episodes": [
+        {
+            "episode": 1,
+            "title": "Kardeş Payı - 23. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/YrWNeuZiAno\/maxresdefault.jpg",
+            "details_url": "movies\/1237.json"
+        },
+        {
+            "episode": 2,
+            "title": "Kardeş Payı - 24. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/iAHVfgw5iU0\/maxresdefault.jpg",
+            "details_url": "movies\/1238.json"
+        },
+        {
+            "episode": 3,
+            "title": "Kardeş Payı - 25. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/_yFUh3werSs\/maxresdefault.jpg",
+            "details_url": "movies\/1239.json"
+        },
+        {
+            "episode": 4,
+            "title": "Kardeş Payı - 26. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/GNNd6AZOMq8\/maxresdefault.jpg",
+            "details_url": "movies\/1240.json"
+        },
+        {
+            "episode": 5,
+            "title": "Kardeş Payı - 27. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/lr523DT96hs\/maxresdefault.jpg",
+            "details_url": "movies\/1241.json"
+        },
+        {
+            "episode": 6,
+            "title": "Kardeş Payı - 28. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/9Fy9_1S4ezM\/maxresdefault.jpg",
+            "details_url": "movies\/1242.json"
+        },
+        {
+            "episode": 7,
+            "title": "Kardeş Payı - 29. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/tVZBHpCRu18\/maxresdefault.jpg",
+            "details_url": "movies\/1243.json"
+        },
+        {
+            "episode": 8,
+            "title": "Kardeş Payı - 30. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/hgAVP0oMLjU\/maxresdefault.jpg",
+            "details_url": "movies\/1244.json"
+        },
+        {
+            "episode": 9,
+            "title": "Kardeş Payı - 31. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/ZUQBwEpp0as\/maxresdefault.jpg",
+            "details_url": "movies\/1245.json"
+        },
+        {
+            "episode": 10,
+            "title": "Kardeş Payı - 32. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/DkjwDLWM3Ek\/maxresdefault.jpg",
+            "details_url": "movies\/1246.json"
+        },
+        {
+            "episode": 11,
+            "title": "Kardeş Payı - 33. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/cmO33kZeOC0\/maxresdefault.jpg",
+            "details_url": "movies\/1247.json"
+        },
+        {
+            "episode": 12,
+            "title": "Kardeş Payı - 34. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/WYUsB42PR_g\/maxresdefault.jpg",
+            "details_url": "movies\/1248.json"
+        },
+        {
+            "episode": 13,
+            "title": "Kardeş Payı - 35. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/AvEpFRCi0TU\/maxresdefault.jpg",
+            "details_url": "movies\/1249.json"
+        }
+    ],
+    "last_updated": "2026-10-21T00:43:23+03:00"
+}

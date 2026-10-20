@@ -1,7 +1,2108 @@
 {
-    "last_updated": "2026-10-19T22:59:57+03:00",
-    "total_movies": 1035,
+    "last_updated": "2026-10-21T00:43:23+03:00",
+    "total_movies": 1226,
     "movies": [
+        {
+            "id": "1345",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 39.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/397f505c47288f4eb99a8663.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1346",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 40.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7938d98e4d3a8a5390fd743c.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1347",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 41.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a4b976714b76939199191508.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1348",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 42.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0bd0b80f42929cbdc2a587d4.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1349",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 43. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/3735292d47cf91afbe151fc0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1350",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 44. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e244b5924d3caaee6e100743.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1351",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 45.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/836cf0ea456fbc43d594735f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1352",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 46. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0435bc884e388048528b6181.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1353",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 47.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e070f6084734834e821ffad4.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1354",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 48.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2a19b20f43baa95c08c2e43e.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1355",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 49. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/541e9d8e4c029089b65361ba.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1356",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 50.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/85d738494a65a77d22325b78.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1357",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 51.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e60f7a2d46b2a7abf61fe2b7.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1358",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 52.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/975349434909898da4a6060b.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1359",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 53.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6027909c4d2595a0de532736.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1360",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 54.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e89ce7f5419a801871376d94.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1361",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 55. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5b8864724e19836a82cdc376.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1362",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 56.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4c97a6ed484b91ae4769a9ae.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1363",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 57.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/35132fad470dbc89702c6b96.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1364",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 58.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4d26818f4e6caf529cfc889a.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1365",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 59.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/86be049c4994aeccbddc7054.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1366",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 60. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6660f4db40f687520909858c.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1367",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 61.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b6d152b44118b6614b5c2c49.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1368",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 62.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9cf67ec840108fb3cbd52d5f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1369",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 63.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/08a8d058463a9da5329a7cd2.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1370",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 64.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f96db2214e0bb54f26e5c908.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1371",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 65.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/70177db74054918df9c52798.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1372",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 66. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8bcc6d04409ebf39df7f1658.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1373",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 67. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9d38e98e4dfab36e2a7c875a.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1374",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 68. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0e242394557b547c4201946.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1375",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 69.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ddcf49bb4aa39f3a991df399.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1338",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 90. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7ebc873f49f8b28aa633e7bb.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1339",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 91.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0836df244db18dc95503affc.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1340",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 92.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5b96ce7a4b75b6ef84121045.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1341",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 93. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/15d697bd4019908029909ebf.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1342",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 94. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/399b57d34d4abd5a6a7a766b.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1343",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 95. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/718c1f994d02bf1c51088321.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1344",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 96. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/136b09e540fd99164aa5abf9.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1337",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 89. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6a2807534faba2e7e04a792d.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1319",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 70.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/26fe63a04d028e4d3301f372.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1320",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 71.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b9264be54f2592e6522223b1.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1321",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 72.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b2c782dd4206849523bbd45d.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1322",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 73.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/edad5df04de8a9d717ed98b8.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1323",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 74.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/600af1cd4e73aa55a2cdd6b8.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1324",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 76.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/900da56d49d3902b97c45b3f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1325",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 77.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c41ef2714cc48edbfbf118c1.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1326",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 78. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8be5126348848959907c9c00.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1327",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 79. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2f5ca1f04d2eab799839dd5f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1328",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 80. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c49089c549fe823adae3c54f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1329",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 81.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8058466c4e1fb5701b335ab0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1330",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 82.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d3875f4d41f68fefd3a03119.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1331",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 83. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4f44f6dd4d0882b06dc1b18f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1332",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 84. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/33f5c2334c6195d34a092f51.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1333",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 85.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ddde6a0642169f1e59093469.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1334",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 86. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/050cb4fb468db9393438b3ca.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1335",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 87. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/be525a8d427e98ba77d9e99b.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1336",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 88. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d848e4aa4fff8c1838ca1291.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1280",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 31. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1b23b8a146e88a9df06a00c7.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1281",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 32. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d21807284cd7b99f40a0089b.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1282",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 33. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6d1d404246cb8a073b575140.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1283",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 34. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0197ab94a5f91a0019800c4.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1284",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 35. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f148bafd41a19a87d636cc86.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1285",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 36. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ba3a4cb04f0da959a16edc3a.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1286",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 37. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/48ce494147fb80d3c3f5db5a.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1287",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 38. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/10df84264aa19844cecf5e31.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1250",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 1. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cc0b4c8c42d49a161a3ef6f0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1251",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 2. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cd83be434d4286bbaa93f1a0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1252",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 3. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/299745ed410e92b5ab8dde00.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1253",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 4. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/71796436415a866c3c4a2a26.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1254",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 5. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0a1428c24390a653e5d47a45.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1255",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 6. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c49917f34853b63dac1e1d56.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1256",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 7. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cde32bfc418dbf99dafd6d89.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1257",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 8. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/969bd13e4cf49dfea4dd173f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1258",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 9. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/23c926c547b6b3ca43ddecb5.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1259",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 10. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b158126646559df179a525fc.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1260",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 11. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/16abe08849cea0022405b691.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1261",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 12. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8636c1e946cc9dae34c28266.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1262",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 13. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/846304b54a0b986fb10c4079.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1263",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 14. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a91f93e7499ab778366da0ee.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1264",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 15. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/dd53f22247b9b7a0a75582dc.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1265",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 16. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/28557dfe452f83b5fe3bb27f.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1266",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 17. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0dd15eb4b5b9ae527dab388.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1267",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 18. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/15a825364f1b9f0da205427d.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1268",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 19. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2d12c0f443cda830bb99d098.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1269",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 20. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/631a7e7f461789a81e203359.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1270",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 21. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9333825e4a1baae91b68cbef.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1271",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 22. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/91c3b904419da11abf11a676.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1272",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 23. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d22ea7d64332ae0a187a5d73.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1273",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 24. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9065e3ba448bb49efe355629.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1274",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 25. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/69190fc442f6b259b9ebbd96.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1275",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 26. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b731815f4d45810149667378.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1276",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 27. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/08c4030040a9bd79d5b1eeb1.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1277",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 28. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c6739fb64b70a6b92af805b2.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1278",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 29. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/fbe998144008b4c61b94f4ee.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1279",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi - 30. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cc3249974f6b9b7536cdc133.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1237",
+            "title": "Kardeş Payı - 23. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/YrWNeuZiAno\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1238",
+            "title": "Kardeş Payı - 24. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/iAHVfgw5iU0\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1239",
+            "title": "Kardeş Payı - 25. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/_yFUh3werSs\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1240",
+            "title": "Kardeş Payı - 26. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/GNNd6AZOMq8\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1241",
+            "title": "Kardeş Payı - 27. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/lr523DT96hs\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1242",
+            "title": "Kardeş Payı - 28. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/9Fy9_1S4ezM\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1243",
+            "title": "Kardeş Payı - 29. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/tVZBHpCRu18\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1244",
+            "title": "Kardeş Payı - 30. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/hgAVP0oMLjU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1245",
+            "title": "Kardeş Payı - 31. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/ZUQBwEpp0as\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1246",
+            "title": "Kardeş Payı - 32. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/DkjwDLWM3Ek\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1247",
+            "title": "Kardeş Payı - 33. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/cmO33kZeOC0\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1248",
+            "title": "Kardeş Payı - 34. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/WYUsB42PR_g\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1249",
+            "title": "Kardeş Payı - 35. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/AvEpFRCi0TU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1235",
+            "title": "Kardeş Payı - 21. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/KBZ3LjDoWCM\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1236",
+            "title": "Kardeş Payı - 22. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/0ksJ_EvPBqc\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1215",
+            "title": "Kardeş Payı - 1. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/ojkOnefAKKE\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1216",
+            "title": "Kardeş Payı - 2. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/RDdL13SDFX8\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1217",
+            "title": "Kardeş Payı - 3. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/-GYrkrEB-Xo\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1218",
+            "title": "Kardeş Payı - 4. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/TJ84MAjF8SU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1219",
+            "title": "Kardeş Payı - 5. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/vrmcl6Cj_oI\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1220",
+            "title": "Kardeş Payı - 6. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/GejI192Wb50\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1221",
+            "title": "Kardeş Payı - 7. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/D8OoHESEySA\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1222",
+            "title": "Kardeş Payı - 8. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/0IKJuBKd448\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1223",
+            "title": "Kardeş Payı - 9. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/2KO5_tcW4G0\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1224",
+            "title": "Kardeş Payı - 10. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/Re9RevWh8Dg\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1225",
+            "title": "Kardeş Payı - 11. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/xPviqmOoLSI\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1226",
+            "title": "Kardeş Payı - 12. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/w7-AcrxNzts\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1227",
+            "title": "Kardeş Payı - 13. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/VTMlst8uniU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1228",
+            "title": "Kardeş Payı - 14. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/JXfKLo5BCaA\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1229",
+            "title": "Kardeş Payı - 15. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/QTmAsIskl5o\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1230",
+            "title": "Kardeş Payı - 16. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/EEdIiV52uTE\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1231",
+            "title": "Kardeş Payı - 17. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/SacSIv4cvKg\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1232",
+            "title": "Kardeş Payı - 18. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/4y0QH09lK9o\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1233",
+            "title": "Kardeş Payı - 19. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/mW9ZsWA9K3U\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1234",
+            "title": "Kardeş Payı - 20. Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/4yALmzwMKCM\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1214",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 20",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1213",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 34",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1211",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 41",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1210",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 40",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1208",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 38",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1209",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 39",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1207",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 37",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1206",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 36",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1205",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 35",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1204",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 33",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1203",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 32",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1202",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 31",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1201",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 30",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1199",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 28",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1200",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 29",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1197",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 26",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1198",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 27",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1196",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 25",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1194",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 23",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1195",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 24",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1193",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 22",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1192",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 21",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1191",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 19",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1189",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 17",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1190",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 18",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1188",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 16",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1187",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 15",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1186",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 14",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1185",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 13",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1183",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 11",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1184",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 12",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1182",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 10",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1181",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 9",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1180",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 8",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1178",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 6",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1179",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 7",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1176",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 4",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1177",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 5",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1175",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 3",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1174",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 2",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1173",
+            "title": "Gelsin Hayat Bildiği Gibi - Bölüm 1",
+            "poster": "https:\/\/mo.ciner.com.tr\/showtv\/iu\/1920x1080_5\/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Show Tv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1153",
+            "title": "Gaddar - 1.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/WMDLFV7ceh0\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1154",
+            "title": "Gaddar - 2.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/Ub3x4d6Bm_w\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1155",
+            "title": "Gaddar - 3.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/3cmB3Zw5Wss\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1156",
+            "title": "Gaddar - 4.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/x8QncYKf3ZE\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1157",
+            "title": "Gaddar - 5.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/EWyfRM47-XQ\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1158",
+            "title": "Gaddar - 6.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/CURKMm3O7Vs\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1159",
+            "title": "Gaddar - 7.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/hDDgU59rzjs\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1160",
+            "title": "Gaddar - 8.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/EGLCRnbP8aU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1161",
+            "title": "Gaddar - 9.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/zu4UnOPBjVU\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1162",
+            "title": "Gaddar - 10.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/xVhRNs7Z2NE\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1163",
+            "title": "Gaddar - 11.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/VYI83ApiVMQ\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1164",
+            "title": "Gaddar - 12.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/mOz82Z9p2ug\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1165",
+            "title": "Gaddar - 13.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/pxKYM77Wl3o\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1166",
+            "title": "Gaddar - 14.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/1LxeG0m5xq8\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1167",
+            "title": "Gaddar - 15.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/2mh56W4KFok\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1168",
+            "title": "Gaddar - 16.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/oxwPhT9r8Nw\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1169",
+            "title": "Gaddar - 17.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/eRLJpAUDld0\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1170",
+            "title": "Gaddar - 18.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/P6cpkKSTr7k\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1171",
+            "title": "Gaddar - 19.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/vg6niLgkoxA\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "1172",
+            "title": "Gaddar - 20.Bölüm",
+            "poster": "https:\/\/i.ytimg.com\/vi\/bpvNgfgEqyw\/maxresdefault.jpg",
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Now Dizileri"
+                }
+            ]
+        },
         {
             "id": "1152",
             "title": "Eşref Rüya - 47. Bölüm",
@@ -4051,9 +6152,64 @@
             ]
         },
         {
+            "id": "722",
+            "title": "İşler Güçler 1.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e1a69d64ebba62be8585294.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "723",
+            "title": "İşler Güçler 2. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8dcc46f345238427f7fabe47.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "724",
+            "title": "İşler Güçler 3. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c3c2a0a74b69b1e0866b3025.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
             "id": "725",
             "title": "İşler Güçler 4. Bölüm",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d7bd5f16491a9e22a1eebd27.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "726",
+            "title": "İşler Güçler 5. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b43f9eec4858867fc36f7a58.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "727",
+            "title": "İşler Güçler 7.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/99f814074356bdac850eeb45.jpg",
             "categories": [
                 {
                     "id": "3",
@@ -4098,6 +6254,39 @@
             "id": "731",
             "title": "İşler Güçler 11. Bölüm",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1f25f5eb4e868f3358d568b5.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "732",
+            "title": "İşler Güçler 12.Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/413ca59e4c2aa2be57183aaf.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "733",
+            "title": "İşler Güçler 13. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f5bfc6924ee6bb125f45b550.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "734",
+            "title": "İşler Güçler 14. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/473e42614eefba93ab5dd08f.jpg",
             "categories": [
                 {
                     "id": "3",
@@ -4194,42 +6383,9 @@
             ]
         },
         {
-            "id": "722",
-            "title": "İşler Güçler 1.Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e1a69d64ebba62be8585294.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "723",
-            "title": "İşler Güçler 2. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8dcc46f345238427f7fabe47.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "724",
-            "title": "İşler Güçler 3. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c3c2a0a74b69b1e0866b3025.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "726",
-            "title": "İşler Güçler 5. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b43f9eec4858867fc36f7a58.jpg",
+            "id": "743",
+            "title": "İşler Güçler 23. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e8279f54c338793968ca7c5.jpg",
             "categories": [
                 {
                     "id": "3",
@@ -4241,6 +6397,17 @@
             "id": "744",
             "title": "İşler Güçler 24.Bölüm",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d80fbdc442b8a852e3adcd10.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "745",
+            "title": "İşler Güçler 25. Bölüm",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f19376e84cb8a6e85a05eb3e.jpg",
             "categories": [
                 {
                     "id": "3",
@@ -4274,72 +6441,6 @@
             "id": "748",
             "title": "İşler Güçler 28.Bölüm",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/48d3c6e24c6ab850858a7141.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "727",
-            "title": "İşler Güçler 7.Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/99f814074356bdac850eeb45.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "732",
-            "title": "İşler Güçler 12.Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/413ca59e4c2aa2be57183aaf.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "733",
-            "title": "İşler Güçler 13. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f5bfc6924ee6bb125f45b550.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "734",
-            "title": "İşler Güçler 14. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/473e42614eefba93ab5dd08f.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "743",
-            "title": "İşler Güçler 23. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4e8279f54c338793968ca7c5.jpg",
-            "categories": [
-                {
-                    "id": "3",
-                    "name": "Star Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "745",
-            "title": "İşler Güçler 25. Bölüm",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f19376e84cb8a6e85a05eb3e.jpg",
             "categories": [
                 {
                     "id": "3",
@@ -4524,39 +6625,6 @@
             ]
         },
         {
-            "id": "700",
-            "title": "Benim Annem Bir Melek - Bölüm 46",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5c9c7e7a4245a0edde25e453.jpg",
-            "categories": [
-                {
-                    "id": "2",
-                    "name": "Atv Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "701",
-            "title": "Benim Annem Bir Melek - Bölüm 47",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/75d855774fa2b66755644513.jpg",
-            "categories": [
-                {
-                    "id": "2",
-                    "name": "Atv Dizileri"
-                }
-            ]
-        },
-        {
-            "id": "714",
-            "title": "Benim Annem Bir Melek - Bölüm 60",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6f7f5eda475abe6ef7429315.jpg",
-            "categories": [
-                {
-                    "id": "2",
-                    "name": "Atv Dizileri"
-                }
-            ]
-        },
-        {
             "id": "696",
             "title": "Benim Annem Bir Melek - Bölüm 42",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c0ebcebc492d82b09cf167af.jpg",
@@ -4601,9 +6669,20 @@
             ]
         },
         {
-            "id": "716",
-            "title": "Benim Annem Bir Melek - Bölüm 62",
-            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/06115e44409b9cb240a33a22.jpg",
+            "id": "700",
+            "title": "Benim Annem Bir Melek - Bölüm 46",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5c9c7e7a4245a0edde25e453.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Atv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "701",
+            "title": "Benim Annem Bir Melek - Bölüm 47",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/75d855774fa2b66755644513.jpg",
             "categories": [
                 {
                     "id": "2",
@@ -4744,9 +6823,31 @@
             ]
         },
         {
+            "id": "714",
+            "title": "Benim Annem Bir Melek - Bölüm 60",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6f7f5eda475abe6ef7429315.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Atv Dizileri"
+                }
+            ]
+        },
+        {
             "id": "715",
             "title": "Benim Annem Bir Melek - Bölüm 61",
             "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f61eaff444069e11faa95146.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Atv Dizileri"
+                }
+            ]
+        },
+        {
+            "id": "716",
+            "title": "Benim Annem Bir Melek - Bölüm 62",
+            "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/06115e44409b9cb240a33a22.jpg",
             "categories": [
                 {
                     "id": "2",
@@ -6779,9 +8880,9 @@
             ]
         },
         {
-            "id": "511",
-            "title": "E.D.H.O. Bölüm 55",
-            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/01\/31\/960x565\/1485762101035.jpg",
+            "id": "512",
+            "title": "E.D.H.O. Bölüm 56",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/02\/07\/960x565\/1486364475544.jpg",
             "categories": [
                 {
                     "id": "2",
@@ -6790,9 +8891,9 @@
             ]
         },
         {
-            "id": "512",
-            "title": "E.D.H.O. Bölüm 56",
-            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/02\/07\/960x565\/1486364475544.jpg",
+            "id": "511",
+            "title": "E.D.H.O. Bölüm 55",
+            "poster": "https:\/\/iatv.tmgrup.com.tr\/video\/thumbnails\/2017\/01\/31\/960x565\/1485762101035.jpg",
             "categories": [
                 {
                     "id": "2",

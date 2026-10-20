@@ -1,0 +1,607 @@
+{
+    "id": "13",
+    "slug": "behzat-c-bir-ankara-polisiyesi",
+    "title": "Behzat Ç. Bir Ankara Polisiyesi",
+    "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+    "seasons": [
+        {
+            "season": 1,
+            "title": "1. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+            "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 1. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cc0b4c8c42d49a161a3ef6f0.jpg",
+                    "details_url": "movies\/1250.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 2. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cd83be434d4286bbaa93f1a0.jpg",
+                    "details_url": "movies\/1251.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 3. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/299745ed410e92b5ab8dde00.jpg",
+                    "details_url": "movies\/1252.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 4. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/71796436415a866c3c4a2a26.jpg",
+                    "details_url": "movies\/1253.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 5. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0a1428c24390a653e5d47a45.jpg",
+                    "details_url": "movies\/1254.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 6. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c49917f34853b63dac1e1d56.jpg",
+                    "details_url": "movies\/1255.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 7. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cde32bfc418dbf99dafd6d89.jpg",
+                    "details_url": "movies\/1256.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 8. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/969bd13e4cf49dfea4dd173f.jpg",
+                    "details_url": "movies\/1257.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 9. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/23c926c547b6b3ca43ddecb5.jpg",
+                    "details_url": "movies\/1258.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 10. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b158126646559df179a525fc.jpg",
+                    "details_url": "movies\/1259.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 11. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/16abe08849cea0022405b691.jpg",
+                    "details_url": "movies\/1260.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 12. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8636c1e946cc9dae34c28266.jpg",
+                    "details_url": "movies\/1261.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 13. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/846304b54a0b986fb10c4079.jpg",
+                    "details_url": "movies\/1262.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 14. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a91f93e7499ab778366da0ee.jpg",
+                    "details_url": "movies\/1263.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 15. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/dd53f22247b9b7a0a75582dc.jpg",
+                    "details_url": "movies\/1264.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 16. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/28557dfe452f83b5fe3bb27f.jpg",
+                    "details_url": "movies\/1265.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 17. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0dd15eb4b5b9ae527dab388.jpg",
+                    "details_url": "movies\/1266.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 18. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/15a825364f1b9f0da205427d.jpg",
+                    "details_url": "movies\/1267.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 19. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2d12c0f443cda830bb99d098.jpg",
+                    "details_url": "movies\/1268.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 20. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/631a7e7f461789a81e203359.jpg",
+                    "details_url": "movies\/1269.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 21. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9333825e4a1baae91b68cbef.jpg",
+                    "details_url": "movies\/1270.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 22. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/91c3b904419da11abf11a676.jpg",
+                    "details_url": "movies\/1271.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 23. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d22ea7d64332ae0a187a5d73.jpg",
+                    "details_url": "movies\/1272.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 24. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9065e3ba448bb49efe355629.jpg",
+                    "details_url": "movies\/1273.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 25. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/69190fc442f6b259b9ebbd96.jpg",
+                    "details_url": "movies\/1274.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 26. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b731815f4d45810149667378.jpg",
+                    "details_url": "movies\/1275.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 27. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/08c4030040a9bd79d5b1eeb1.jpg",
+                    "details_url": "movies\/1276.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 28. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c6739fb64b70a6b92af805b2.jpg",
+                    "details_url": "movies\/1277.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 29. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/fbe998144008b4c61b94f4ee.jpg",
+                    "details_url": "movies\/1278.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 30. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/cc3249974f6b9b7536cdc133.jpg",
+                    "details_url": "movies\/1279.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 31. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/1b23b8a146e88a9df06a00c7.jpg",
+                    "details_url": "movies\/1280.json"
+                },
+                {
+                    "episode": 32,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 32. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d21807284cd7b99f40a0089b.jpg",
+                    "details_url": "movies\/1281.json"
+                },
+                {
+                    "episode": 33,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 33. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6d1d404246cb8a073b575140.jpg",
+                    "details_url": "movies\/1282.json"
+                },
+                {
+                    "episode": 34,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 34. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0197ab94a5f91a0019800c4.jpg",
+                    "details_url": "movies\/1283.json"
+                },
+                {
+                    "episode": 35,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 35. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f148bafd41a19a87d636cc86.jpg",
+                    "details_url": "movies\/1284.json"
+                },
+                {
+                    "episode": 36,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 36. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ba3a4cb04f0da959a16edc3a.jpg",
+                    "details_url": "movies\/1285.json"
+                },
+                {
+                    "episode": 37,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 37. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/48ce494147fb80d3c3f5db5a.jpg",
+                    "details_url": "movies\/1286.json"
+                },
+                {
+                    "episode": 38,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 38. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/10df84264aa19844cecf5e31.jpg",
+                    "details_url": "movies\/1287.json"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "title": "2. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+            "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 39.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/397f505c47288f4eb99a8663.jpg",
+                    "details_url": "movies\/1345.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 40.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7938d98e4d3a8a5390fd743c.jpg",
+                    "details_url": "movies\/1346.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 41.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/a4b976714b76939199191508.jpg",
+                    "details_url": "movies\/1347.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 42.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0bd0b80f42929cbdc2a587d4.jpg",
+                    "details_url": "movies\/1348.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 43. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/3735292d47cf91afbe151fc0.jpg",
+                    "details_url": "movies\/1349.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 44. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e244b5924d3caaee6e100743.jpg",
+                    "details_url": "movies\/1350.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 45.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/836cf0ea456fbc43d594735f.jpg",
+                    "details_url": "movies\/1351.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 46. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0435bc884e388048528b6181.jpg",
+                    "details_url": "movies\/1352.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 47.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e070f6084734834e821ffad4.jpg",
+                    "details_url": "movies\/1353.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 48.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2a19b20f43baa95c08c2e43e.jpg",
+                    "details_url": "movies\/1354.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 49. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/541e9d8e4c029089b65361ba.jpg",
+                    "details_url": "movies\/1355.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 50.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/85d738494a65a77d22325b78.jpg",
+                    "details_url": "movies\/1356.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 51.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e60f7a2d46b2a7abf61fe2b7.jpg",
+                    "details_url": "movies\/1357.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 52.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/975349434909898da4a6060b.jpg",
+                    "details_url": "movies\/1358.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 53.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6027909c4d2595a0de532736.jpg",
+                    "details_url": "movies\/1359.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 54.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/e89ce7f5419a801871376d94.jpg",
+                    "details_url": "movies\/1360.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 55. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5b8864724e19836a82cdc376.jpg",
+                    "details_url": "movies\/1361.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 56.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4c97a6ed484b91ae4769a9ae.jpg",
+                    "details_url": "movies\/1362.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 57.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/35132fad470dbc89702c6b96.jpg",
+                    "details_url": "movies\/1363.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 58.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4d26818f4e6caf529cfc889a.jpg",
+                    "details_url": "movies\/1364.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 59.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/86be049c4994aeccbddc7054.jpg",
+                    "details_url": "movies\/1365.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 60. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6660f4db40f687520909858c.jpg",
+                    "details_url": "movies\/1366.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 61.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b6d152b44118b6614b5c2c49.jpg",
+                    "details_url": "movies\/1367.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 62.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9cf67ec840108fb3cbd52d5f.jpg",
+                    "details_url": "movies\/1368.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 63.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/08a8d058463a9da5329a7cd2.jpg",
+                    "details_url": "movies\/1369.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 64.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f96db2214e0bb54f26e5c908.jpg",
+                    "details_url": "movies\/1370.json"
+                },
+                {
+                    "episode": 27,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 65.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/70177db74054918df9c52798.jpg",
+                    "details_url": "movies\/1371.json"
+                },
+                {
+                    "episode": 28,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 66. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8bcc6d04409ebf39df7f1658.jpg",
+                    "details_url": "movies\/1372.json"
+                },
+                {
+                    "episode": 29,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 67. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/9d38e98e4dfab36e2a7c875a.jpg",
+                    "details_url": "movies\/1373.json"
+                },
+                {
+                    "episode": 30,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 68. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/f0e242394557b547c4201946.jpg",
+                    "details_url": "movies\/1374.json"
+                },
+                {
+                    "episode": 31,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 69.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ddcf49bb4aa39f3a991df399.jpg",
+                    "details_url": "movies\/1375.json"
+                }
+            ]
+        },
+        {
+            "season": 3,
+            "title": "3. Sezon",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+            "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+            "air_year": null,
+            "episodes": [
+                {
+                    "episode": 1,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 70.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/26fe63a04d028e4d3301f372.jpg",
+                    "details_url": "movies\/1319.json"
+                },
+                {
+                    "episode": 2,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 71.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b9264be54f2592e6522223b1.jpg",
+                    "details_url": "movies\/1320.json"
+                },
+                {
+                    "episode": 3,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 72.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/b2c782dd4206849523bbd45d.jpg",
+                    "details_url": "movies\/1321.json"
+                },
+                {
+                    "episode": 4,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 73.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/edad5df04de8a9d717ed98b8.jpg",
+                    "details_url": "movies\/1322.json"
+                },
+                {
+                    "episode": 5,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 74.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/600af1cd4e73aa55a2cdd6b8.jpg",
+                    "details_url": "movies\/1323.json"
+                },
+                {
+                    "episode": 6,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 76.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/900da56d49d3902b97c45b3f.jpg",
+                    "details_url": "movies\/1324.json"
+                },
+                {
+                    "episode": 7,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 77.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c41ef2714cc48edbfbf118c1.jpg",
+                    "details_url": "movies\/1325.json"
+                },
+                {
+                    "episode": 8,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 78. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8be5126348848959907c9c00.jpg",
+                    "details_url": "movies\/1326.json"
+                },
+                {
+                    "episode": 9,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 79. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/2f5ca1f04d2eab799839dd5f.jpg",
+                    "details_url": "movies\/1327.json"
+                },
+                {
+                    "episode": 10,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 80. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/c49089c549fe823adae3c54f.jpg",
+                    "details_url": "movies\/1328.json"
+                },
+                {
+                    "episode": 11,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 81.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/8058466c4e1fb5701b335ab0.jpg",
+                    "details_url": "movies\/1329.json"
+                },
+                {
+                    "episode": 12,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 82.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d3875f4d41f68fefd3a03119.jpg",
+                    "details_url": "movies\/1330.json"
+                },
+                {
+                    "episode": 13,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 83. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/4f44f6dd4d0882b06dc1b18f.jpg",
+                    "details_url": "movies\/1331.json"
+                },
+                {
+                    "episode": 14,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 84. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/33f5c2334c6195d34a092f51.jpg",
+                    "details_url": "movies\/1332.json"
+                },
+                {
+                    "episode": 15,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 85.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/ddde6a0642169f1e59093469.jpg",
+                    "details_url": "movies\/1333.json"
+                },
+                {
+                    "episode": 16,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 86. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/050cb4fb468db9393438b3ca.jpg",
+                    "details_url": "movies\/1334.json"
+                },
+                {
+                    "episode": 17,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 87. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/be525a8d427e98ba77d9e99b.jpg",
+                    "details_url": "movies\/1335.json"
+                },
+                {
+                    "episode": 18,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 88. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/d848e4aa4fff8c1838ca1291.jpg",
+                    "details_url": "movies\/1336.json"
+                },
+                {
+                    "episode": 19,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 89. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/6a2807534faba2e7e04a792d.jpg",
+                    "details_url": "movies\/1337.json"
+                },
+                {
+                    "episode": 20,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 90. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/7ebc873f49f8b28aa633e7bb.jpg",
+                    "details_url": "movies\/1338.json"
+                },
+                {
+                    "episode": 21,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 91.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/0836df244db18dc95503affc.jpg",
+                    "details_url": "movies\/1339.json"
+                },
+                {
+                    "episode": 22,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 92.Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/5b96ce7a4b75b6ef84121045.jpg",
+                    "details_url": "movies\/1340.json"
+                },
+                {
+                    "episode": 23,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 93. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/15d697bd4019908029909ebf.jpg",
+                    "details_url": "movies\/1341.json"
+                },
+                {
+                    "episode": 24,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 94. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/399b57d34d4abd5a6a7a766b.jpg",
+                    "details_url": "movies\/1342.json"
+                },
+                {
+                    "episode": 25,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 95. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/718c1f994d02bf1c51088321.jpg",
+                    "details_url": "movies\/1343.json"
+                },
+                {
+                    "episode": 26,
+                    "title": "Behzat Ç. Bir Ankara Polisiyesi - 96. Bölüm",
+                    "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/136b09e540fd99164aa5abf9.jpg",
+                    "details_url": "movies\/1344.json"
+                }
+            ]
+        }
+    ],
+    "last_updated": "2026-10-21T00:43:23+03:00"
+}

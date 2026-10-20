@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T22:59:57+03:00",
+    "last_updated": "2026-10-21T00:43:23+03:00",
     "categories": [
         {
             "id": "1",
@@ -122,6 +122,33 @@
                     "details_url": "seasons\/akasya-duragi-sezon-4.json"
                 },
                 {
+                    "id": "39",
+                    "series_id": "13",
+                    "series_title": "Behzat Ç. Bir Ankara Polisiyesi",
+                    "season_number": 1,
+                    "season_title": "1. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+                    "details_url": "seasons\/behzat-c-bir-ankara-polisiyesi-sezon-1.json"
+                },
+                {
+                    "id": "40",
+                    "series_id": "13",
+                    "series_title": "Behzat Ç. Bir Ankara Polisiyesi",
+                    "season_number": 2,
+                    "season_title": "2. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+                    "details_url": "seasons\/behzat-c-bir-ankara-polisiyesi-sezon-2.json"
+                },
+                {
+                    "id": "41",
+                    "series_id": "13",
+                    "series_title": "Behzat Ç. Bir Ankara Polisiyesi",
+                    "season_number": 3,
+                    "season_title": "3. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+                    "details_url": "seasons\/behzat-c-bir-ankara-polisiyesi-sezon-3.json"
+                },
+                {
                     "id": "21",
                     "series_id": "5",
                     "series_title": "Benim Annem Bir Melek",
@@ -138,6 +165,24 @@
                     "season_title": "1. Sezon",
                     "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/0\/07\/%C4%B0%C5%9Fler_G%C3%BC%C3%A7ler.jpg",
                     "details_url": "seasons\/isler-gucler-sezon-1.json"
+                },
+                {
+                    "id": "37",
+                    "series_id": "12",
+                    "series_title": "Kardeş Payı",
+                    "season_number": 1,
+                    "season_title": "1. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c7\/Karde%C5%9F_Pay%C4%B1_2.jpeg",
+                    "details_url": "seasons\/kardes-payi-sezon-1.json"
+                },
+                {
+                    "id": "38",
+                    "series_id": "12",
+                    "series_title": "Kardeş Payı",
+                    "season_number": 2,
+                    "season_title": "2. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c7\/Karde%C5%9F_Pay%C4%B1_2.jpeg",
+                    "details_url": "seasons\/kardes-payi-sezon-2.json"
                 }
             ]
         },
@@ -314,6 +359,15 @@
                     "season_title": "4. Sezon",
                     "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c4\/%C3%87ukur.jpg",
                     "details_url": "seasons\/cukur-sezon-4.json"
+                },
+                {
+                    "id": "36",
+                    "series_id": "11",
+                    "series_title": "Gelsin Hayat Bildiği Gibi",
+                    "season_number": 1,
+                    "season_title": "1. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/d\/d3\/GHBGdizi.jpg",
+                    "details_url": "seasons\/gelsin-hayat-bildigi-gibi-sezon-1.json"
                 }
             ]
         },
@@ -339,6 +393,22 @@
                     "season_title": "2. Sezon",
                     "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/1\/14\/E%C5%9FrefR%C3%BCya.jpg",
                     "details_url": "seasons\/esref-ruya-sezon-2.json"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Now Dizileri",
+            "category_image": "https:\/\/img-s1.onedio.com\/id-691243d09521ec6f6580a59f\/rev-0\/w-1200\/h-1200\/f-jpg\/s-90f228e059c4eca6a717043e2686eae8ecb5a1af.jpg",
+            "seasons": [
+                {
+                    "id": "35",
+                    "series_id": "10",
+                    "series_title": "Gaddar",
+                    "season_number": 1,
+                    "season_title": "1. Sezon",
+                    "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/63\/GaddarDizi.jpg",
+                    "details_url": "seasons\/gaddar-sezon-1.json"
                 }
             ]
         }

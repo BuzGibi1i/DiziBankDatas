@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T22:59:57+03:00",
+    "last_updated": "2026-10-21T00:43:23+03:00",
     "series": [
         {
             "id": "1",
@@ -20,6 +20,16 @@
             "movie_count": 190,
             "season_count": 6,
             "series_url": "series\/avrupa-yakasi.json"
+        },
+        {
+            "id": "13",
+            "slug": "behzat-c-bir-ankara-polisiyesi",
+            "title": "Behzat Ç. Bir Ankara Polisiyesi",
+            "description": "Behzat Ç. Bir Ankara Polisiyesi, Adam Film ve Inter Medya imzalı, 2010-2013 yılları arasında Star TV'de, 2019 yılında ise BluTV'de yayımlanan, Emrah Serbes'in Her Temas İz Bırakır adlı romanından esinlenerek hazırlanmış, Türk yapımı polisiye, macera, dram, komedi, aksiyon ve gerilim türündeki televizyon ve internet dizisidir. 4. sezondan oluşan dizi, 105. bölümü ile sona erdi.",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/6f\/Behzat_%C3%87._Poster.jpg",
+            "movie_count": 95,
+            "season_count": 3,
+            "series_url": "series\/behzat-c-bir-ankara-polisiyesi.json"
         },
         {
             "id": "5",
@@ -62,6 +72,26 @@
             "series_url": "series\/esref-ruya.json"
         },
         {
+            "id": "10",
+            "slug": "gaddar",
+            "title": "Gaddar",
+            "description": "Gaddar, Ay Yapım imzalı, ilk bölümü 19 Ocak 2024 tarihinde yayımlanan, yapımcılığını Kerem Çatay'ın üstlendiği, yönetmenliğini Sinan Öztürk'ün yaptığı, senaryosunu Hürer Ebeoğlu'nun kaleme aldığı, başrollerini Çağatay Ulusoy, Sümeyye Aydoğan, Onur Saylak ve Erdal Özyağcılar'ın paylaştığı Türk yapımı aksiyon ve dram türündeki televizyon dizisidir. Dizi, 7 Haziran 2024 tarihinde yayımlanan 20. bölümü ile final yaparak sona ermiştir.",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/6\/63\/GaddarDizi.jpg",
+            "movie_count": 20,
+            "season_count": 1,
+            "series_url": "series\/gaddar.json"
+        },
+        {
+            "id": "11",
+            "slug": "gelsin-hayat-bildigi-gibi",
+            "title": "Gelsin Hayat Bildiği Gibi",
+            "description": "Gelsin Hayat Bildiği Gibi, BKM imzalı, ilk bölümü 21 Temmuz 2022 tarihinde yayınlanan, yönetmenliğini Altan Dönmez'in üstlendiği, senaryosunu Gani Müjde'nin yazdığı, dram ve gençlik türündeki Türk yapımı televizyon dizisidir. Başrollerini Ertan Saban, Özge Özberk ve Devrim Özkan paylaşmaktadır. Dizi, 25 Mayıs 2023 tarihinde yayınlanan 41. bölümü ile final yaparak sona ermiştir.",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/d\/d3\/GHBGdizi.jpg",
+            "movie_count": 41,
+            "season_count": 1,
+            "series_url": "series\/gelsin-hayat-bildigi-gibi.json"
+        },
+        {
             "id": "6",
             "slug": "isler-gucler",
             "title": "İşler Güçler",
@@ -80,6 +110,16 @@
             "movie_count": 100,
             "season_count": 3,
             "series_url": "series\/kanit.json"
+        },
+        {
+            "id": "12",
+            "slug": "kardes-payi",
+            "title": "Kardeş Payı",
+            "description": "Kardeş Payı, Mehmet Yiğit Alp'in yapımcılığını ve Selçuk Aydemir'in yönetmenliğini üstlendiği komedi ve aile türündeki Türk televizyon dizisidir. NTC Medya'nın yapımcılığını üstlendiği dizi, 13 Şubat 2014 tarihinde Star TV'de yayınlanmaya başladı. Dizinin ilk sezonunda yönetmen koltuğuna Selçuk Aydemir oturdu ve 7 Ağustos 2014 tarihinde 22. bölümü ile birlikte sezon finali yapmıştır. Dizinin ikinci sezonu, 29 Ocak 2015'te yayınlanmaya başlamıştır. Düşük reytinglerden dolayı 30 Nisan 2015'te yayınlanan 35. bölümü ile final yapmıştır.",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/c7\/Karde%C5%9F_Pay%C4%B1_2.jpeg",
+            "movie_count": 35,
+            "season_count": 2,
+            "series_url": "series\/kardes-payi.json"
         },
         {
             "id": "2",
