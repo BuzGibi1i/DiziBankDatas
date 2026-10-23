@@ -6,8 +6,7 @@
       "type": 3,
       "api": "com.github.catvod.spider.csp_DiziBank",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 1
     }
   ]
 }
