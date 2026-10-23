@@ -4,7 +4,7 @@
       "key": "DiziBank",
       "name": "DiziBank",
       "type": 3,
-      "api": "com.github.catvod.spider.csp_DiziBank",
+      "api": "csp_DiziBank",
       "searchable": 1,
       "quickSearch": 1
     }
