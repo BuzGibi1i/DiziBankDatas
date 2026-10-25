@@ -239,6 +239,12 @@
                     "title": "Behzat Ç. Bir Ankara Polisiyesi - 38. Bölüm",
                     "poster": "https:\/\/media.startv.com.tr\/star-tv\/images\/10df84264aa19844cecf5e31.jpg",
                     "details_url": "movies\/1287.json"
+                },
+                {
+                    "episode": 99,
+                    "title": "Deneme",
+                    "poster": null,
+                    "details_url": "movies\/1376.json"
                 }
             ]
         },
@@ -603,5 +609,5 @@
             ]
         }
     ],
-    "last_updated": "2026-10-25T18:25:04+03:00"
+    "last_updated": "2026-10-25T18:32:53+03:00"
 }

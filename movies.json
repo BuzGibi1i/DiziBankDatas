@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-10-25T18:25:04+03:00",
-    "total_movies": 1226,
+    "last_updated": "2026-10-25T18:32:53+03:00",
+    "total_movies": 1227,
     "movies": [
+        {
+            "id": "1376",
+            "title": "Deneme",
+            "poster": "",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Star Dizileri"
+                }
+            ]
+        },
         {
             "id": "1345",
             "title": "Behzat Ç. Bir Ankara Polisiyesi - 39.Bölüm",
